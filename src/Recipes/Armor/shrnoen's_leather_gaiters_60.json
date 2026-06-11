@@ -1,0 +1,15 @@
+{
+    "id": 363,
+    "recipe_level": 6,
+    "success_rate": 60,
+    "outputqty": 1,
+    "materials": {
+        "rp_shrnoen_s_leather_gaiters_i": 1,
+        "shrnoen_s_leather_gaiters_texture": 12,
+        "crafted_leather": 20,
+        "metallic_fiber": 20,
+        "asofe": 20,
+        "crystal_c": 34,
+        "gemstone_b": 5
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "id": 608,
+    "recipe_level": 4,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "iron_thread": 5,
+        "mithril_ore": 5
+    }
+}

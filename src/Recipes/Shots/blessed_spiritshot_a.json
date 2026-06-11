@@ -1,0 +1,10 @@
+{
+    "id": 326,
+    "recipe_level": 7,
+    "success_rate": 100,
+    "outputqty": 200,
+    "materials": {
+        "spirit_ore": 70,
+        "crystal_a": 2
+    }
+}

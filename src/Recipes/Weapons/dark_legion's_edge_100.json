@@ -1,0 +1,17 @@
+{
+    "id": 600,
+    "recipe_level": 8,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_dark_legion_s_edge": 1,
+        "dark_legion_s_edge_edge": 14,
+        "craftsman_mold": 4,
+        "mithirl_alloy": 334,
+        "synthesis_cokes": 334,
+        "reinforcing_plate": 167,
+        "enria": 167,
+        "crystal_a": 295,
+        "gemstone_a": 74
+    }
+}

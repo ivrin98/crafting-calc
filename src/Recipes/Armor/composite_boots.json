@@ -1,0 +1,13 @@
+{
+    "id": 300,
+    "recipe_level": 5,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "composite_boots_part": 10,
+        "crafted_leather": 16,
+        "high_grade_suede": 2,
+        "crystal_c": 16,
+        "gemstone_c": 6
+    }
+}

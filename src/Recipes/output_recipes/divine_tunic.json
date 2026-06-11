@@ -1,0 +1,13 @@
+{
+    "id": 126,
+    "recipe_level": 6,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "divine_tunic_fabric": 11,
+        "crafted_leather": 70,
+        "metallic_fiber": 35,
+        "crystal_c": 72,
+        "gemstone_c": 34
+    }
+}

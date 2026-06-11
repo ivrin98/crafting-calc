@@ -1,0 +1,11 @@
+{
+    "id": 13,
+    "recipe_level": 1,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "leather_hose_pattern": 2,
+        "animal_skin": 12,
+        "thread": 12
+    }
+}

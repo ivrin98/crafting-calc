@@ -1,0 +1,17 @@
+{
+    "id": 775,
+    "recipe_level": 9,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_draconic_bow": 1,
+        "draconic_bow_shaft": 17,
+        "warsmith_holder": 8,
+        "mithirl_alloy": 695,
+        "synthesis_cokes": 139,
+        "reinforcing_plate": 278,
+        "enria": 139,
+        "crystal_s": 397,
+        "gemstone_s": 43
+    }
+}

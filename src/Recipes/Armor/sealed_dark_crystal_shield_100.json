@@ -1,0 +1,17 @@
+{
+    "id": 534,
+    "recipe_level": 7,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_sealed_dark_crystal_shield": 1,
+        "sealed_dark_crystal_shield_fragment": 13,
+        "reorins_mold": 1,
+        "mithirl_alloy": 18,
+        "synthesis_cokes": 6,
+        "crafted_leather": 6,
+        "asofe": 6,
+        "crystal_b": 20,
+        "gemstone_b": 20
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "id": 14,
+    "recipe_level": 1,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "leather_helmet_design": 3,
+        "suede": 15,
+        "animal_skin": 12
+    }
+}

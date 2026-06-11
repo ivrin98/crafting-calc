@@ -1,0 +1,10 @@
+{
+    "id": 143,
+    "recipe_level": 2,
+    "success_rate": 100,
+    "outputqty": 650,
+    "materials": {
+        "stem": 1,
+        "coarse_bone_powder": 1
+    }
+}

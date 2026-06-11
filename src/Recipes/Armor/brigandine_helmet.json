@@ -1,0 +1,13 @@
+{
+    "id": 266,
+    "recipe_level": 3,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "brigandine_helmet_design": 7,
+        "steel_mold": 1,
+        "leather": 20,
+        "crystal_d": 35,
+        "gemstone_d": 8
+    }
+}

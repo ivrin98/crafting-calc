@@ -1,0 +1,16 @@
+{
+    "id": 402,
+    "recipe_level": 7,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_blue_wolve_s_hose": 1,
+        "blue_wolve_s_hose_pattern": 13,
+        "maestro_anvil_lock": 1,
+        "crafted_leather": 41,
+        "metallic_fiber": 41,
+        "asofe": 41,
+        "crystal_b": 47,
+        "gemstone_b": 8
+    }
+}

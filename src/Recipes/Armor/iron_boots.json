@@ -1,0 +1,13 @@
+{
+    "id": 78,
+    "recipe_level": 3,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "iron_boots_design": 6,
+        "leather": 16,
+        "high_grade_suede": 2,
+        "crystal_d": 16,
+        "gemstone_d": 3
+    }
+}

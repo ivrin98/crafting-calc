@@ -1,0 +1,15 @@
+{
+    "id": 433,
+    "recipe_level": 6,
+    "success_rate": 60,
+    "outputqty": 1,
+    "materials": {
+        "rp_shrnoen_s_helmet_i": 1,
+        "shrnoen_s_helmet_design": 12,
+        "blacksmith_s_frame": 1,
+        "crafted_leather": 20,
+        "asofe": 2,
+        "crystal_c": 30,
+        "gemstone_b": 4
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "id": 778,
+    "recipe_level": 4,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_maidens_hairpin": 1,
+        "maidens_hairpin_piece": 20,
+        "fish_gem": 300,
+        "shiny_fish_gem": 150
+    }
+}

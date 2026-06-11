@@ -1,0 +1,14 @@
+{
+    "id": 656,
+    "recipe_level": 9,
+    "success_rate": 60,
+    "outputqty": 1,
+    "materials": {
+        "rp_sealed_imperial_crusader_gauntlet_i": 1,
+        "sealed_imperial_crusader_gauntlet_design": 17,
+        "warsmith_mold": 1,
+        "asofe": 12,
+        "crystal_s": 16,
+        "gemstone_s": 2
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "id": 252,
+    "recipe_level": 6,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "eminence_bow_shaft": 11,
+        "mithirl_alloy": 120,
+        "compound_braid": 24,
+        "high_grade_suede": 24,
+        "reinforcing_agent": 144,
+        "crystal_c": 420,
+        "gemstone_c": 248
+    }
+}

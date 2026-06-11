@@ -1,0 +1,11 @@
+{
+    "id": 41,
+    "recipe_level": 4,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "cord": 4,
+        "leather": 4,
+        "coal": 4
+    }
+}

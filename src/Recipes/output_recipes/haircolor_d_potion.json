@@ -1,0 +1,12 @@
+{
+    "id": 706,
+    "recipe_level": 3,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_haircolor_d_potion": 1,
+        "fish_oil_average": 6,
+        "fish_scale": 50,
+        "shiny_fish_scale": 15
+    }
+}

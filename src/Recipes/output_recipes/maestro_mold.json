@@ -1,0 +1,11 @@
+{
+    "id": 477,
+    "recipe_level": 6,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "blacksmith_s_frame": 1,
+        "mold_glue": 10,
+        "asofe": 5
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "id": 378,
+    "recipe_level": 6,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_silent_chain_gloves": 1,
+        "silent_chain_gloves_design": 12,
+        "maestro_anvil_lock": 1,
+        "crafted_leather": 32,
+        "high_grade_suede": 4,
+        "asofe": 4,
+        "crystal_c": 15,
+        "gemstone_b": 2
+    }
+}

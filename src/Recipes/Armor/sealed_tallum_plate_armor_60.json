@@ -1,0 +1,16 @@
+{
+    "id": 555,
+    "recipe_level": 7,
+    "success_rate": 60,
+    "outputqty": 1,
+    "materials": {
+        "rp_sealed_tallum_plate_armor_i": 1,
+        "sealed_tallum_plate_armor_pattern": 13,
+        "maestro_mold": 4,
+        "mithirl_alloy": 54,
+        "varnish_of_purity": 18,
+        "asofe": 36,
+        "crystal_b": 63,
+        "gemstone_b": 156
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "id": 34,
+    "recipe_level": 2,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "braided_hemp": 5,
+        "cokes": 5,
+        "silver_nugget": 10
+    }
+}

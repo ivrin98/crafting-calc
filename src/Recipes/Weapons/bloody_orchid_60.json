@@ -1,0 +1,17 @@
+{
+    "id": 583,
+    "recipe_level": 7,
+    "success_rate": 60,
+    "outputqty": 1,
+    "materials": {
+        "rp_bloody_orchid_i": 1,
+        "bloody_orchid_head": 13,
+        "craftsman_mold": 3,
+        "mithirl_alloy": 82,
+        "synthesis_cokes": 82,
+        "reinforcing_plate": 41,
+        "enria": 41,
+        "crystal_b": 193,
+        "gemstone_b": 143
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "id": 333,
+    "recipe_level": 6,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_adamantite_necklace": 1,
+        "adamantite_necklace_chain": 12,
+        "maestro_mold": 1,
+        "compound_braid": 35,
+        "varnish_of_purity": 7,
+        "thons": 7,
+        "crystal_c": 58,
+        "gemstone_b": 5
+    }
+}

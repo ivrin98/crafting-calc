@@ -1,0 +1,15 @@
+{
+    "id": 351,
+    "recipe_level": 7,
+    "success_rate": 60,
+    "outputqty": 1,
+    "materials": {
+        "rp_paradia_boots_i": 1,
+        "paradia_boots_pattern": 13,
+        "crafted_leather": 32,
+        "high_grade_suede": 4,
+        "asofe": 4,
+        "crystal_b": 8,
+        "gemstone_b": 4
+    }
+}

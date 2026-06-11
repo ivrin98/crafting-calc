@@ -1,0 +1,14 @@
+{
+    "id": 90,
+    "recipe_level": 4,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "slamander_skin_mail_texture": 8,
+        "leather": 140,
+        "cord": 70,
+        "braided_hemp": 35,
+        "crystal_d": 130,
+        "gemstone_d": 36
+    }
+}

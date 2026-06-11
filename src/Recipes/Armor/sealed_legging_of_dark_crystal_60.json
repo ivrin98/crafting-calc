@@ -1,0 +1,16 @@
+{
+    "id": 521,
+    "recipe_level": 7,
+    "success_rate": 60,
+    "outputqty": 1,
+    "materials": {
+        "rp_sealed_legging_of_dark_crystal_i": 1,
+        "sealed_legging_of_dark_crystal_design": 13,
+        "maestro_anvil_lock": 1,
+        "crafted_leather": 60,
+        "metallic_fiber": 36,
+        "asofe": 12,
+        "crystal_b": 22,
+        "gemstone_b": 43
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 525,
+    "recipe_level": 7,
+    "success_rate": 60,
+    "outputqty": 1,
+    "materials": {
+        "rp_sealed_dark_crystal_robe_i": 1,
+        "sealed_dark_crystal_robe_fabric": 13,
+        "maestro_anvil_lock": 1,
+        "crafted_leather": 140,
+        "metallic_fiber": 70,
+        "compound_braid": 35,
+        "asofe": 35,
+        "crystal_b": 49,
+        "gemstone_b": 112
+    }
+}

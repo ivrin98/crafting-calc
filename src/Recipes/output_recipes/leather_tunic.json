@@ -1,0 +1,11 @@
+{
+    "id": 12,
+    "recipe_level": 1,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "leather_tunic_pattern": 2,
+        "animal_skin": 24,
+        "thread": 12
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 113,
+    "recipe_level": 5,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rind_leather_mail_design": 9,
+        "crafted_leather": 32,
+        "metallic_fiber": 16,
+        "crystal_c": 32,
+        "gemstone_c": 14
+    }
+}

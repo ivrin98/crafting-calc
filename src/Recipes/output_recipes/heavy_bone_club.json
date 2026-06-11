@@ -1,0 +1,14 @@
+{
+    "id": 168,
+    "recipe_level": 3,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "heavy_bone_club_head": 7,
+        "steel": 128,
+        "cokes": 128,
+        "high_grade_suede": 64,
+        "crystal_d": 430,
+        "gemstone_d": 139
+    }
+}

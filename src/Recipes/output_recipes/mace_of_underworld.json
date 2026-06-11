@@ -1,0 +1,15 @@
+{
+    "id": 236,
+    "recipe_level": 5,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "mace_of_underworld_head": 10,
+        "mithirl_alloy": 54,
+        "synthesis_cokes": 54,
+        "high_grade_suede": 27,
+        "reinforcing_agent": 108,
+        "crystal_c": 300,
+        "gemstone_c": 166
+    }
+}

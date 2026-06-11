@@ -1,0 +1,17 @@
+{
+    "id": 632,
+    "recipe_level": 9,
+    "success_rate": 60,
+    "outputqty": 1,
+    "materials": {
+        "rp_angel_slayer_i": 1,
+        "angel_slayer_blade": 17,
+        "warsmith_holder": 4,
+        "mithirl_alloy": 264,
+        "synthesis_cokes": 264,
+        "reinforcing_plate": 132,
+        "enria": 132,
+        "crystal_s": 211,
+        "gemstone_s": 43
+    }
+}

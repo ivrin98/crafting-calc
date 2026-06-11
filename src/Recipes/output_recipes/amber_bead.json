@@ -1,0 +1,9 @@
+{
+    "id": 316,
+    "recipe_level": 2,
+    "success_rate": 100,
+    "outputqty": 5,
+    "materials": {
+        "amber_lump": 1
+    }
+}

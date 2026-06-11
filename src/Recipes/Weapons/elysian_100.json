@@ -1,0 +1,18 @@
+{
+    "id": 578,
+    "recipe_level": 8,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_elysian": 1,
+        "elysian_head": 14,
+        "warsmith_holder": 2,
+        "mithirl_alloy": 194,
+        "synthesis_cokes": 194,
+        "high_grade_suede": 97,
+        "enria": 97,
+        "reinforcing_plate": 388,
+        "crystal_a": 370,
+        "gemstone_a": 74
+    }
+}

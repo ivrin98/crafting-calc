@@ -1,0 +1,16 @@
+{
+    "id": 336,
+    "recipe_level": 7,
+    "success_rate": 70,
+    "outputqty": 1,
+    "materials": {
+        "rp_ring_of_black_ore_i": 1,
+        "ring_of_black_ore_gemstone": 13,
+        "silver_mold": 1,
+        "metallic_fiber": 40,
+        "varnish_of_purity": 8,
+        "thons": 8,
+        "crystal_b": 10,
+        "gemstone_b": 4
+    }
+}

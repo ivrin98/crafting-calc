@@ -1,0 +1,13 @@
+{
+    "id": 292,
+    "recipe_level": 5,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rind_leather_boots_lining": 9,
+        "crafted_leather": 10,
+        "high_grade_suede": 1,
+        "crystal_c": 12,
+        "gemstone_c": 4
+    }
+}

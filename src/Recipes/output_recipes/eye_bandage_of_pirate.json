@@ -1,0 +1,12 @@
+{
+    "id": 684,
+    "recipe_level": 4,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_eye_bandage_of_pirate": 1,
+        "eye_bandage_of_pirate_strap": 20,
+        "fish_gem": 300,
+        "shiny_fish_gem": 150
+    }
+}

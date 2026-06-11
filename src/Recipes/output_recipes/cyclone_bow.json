@@ -1,0 +1,14 @@
+{
+    "id": 185,
+    "recipe_level": 4,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "cyclone_bow_shaft": 8,
+        "steel": 275,
+        "braided_hemp": 55,
+        "high_grade_suede": 55,
+        "crystal_d": 550,
+        "gemstone_d": 185
+    }
+}

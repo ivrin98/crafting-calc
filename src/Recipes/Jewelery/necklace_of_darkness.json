@@ -1,0 +1,14 @@
+{
+    "id": 52,
+    "recipe_level": 4,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "necklace_of_darkness_gem": 8,
+        "silver_mold": 1,
+        "braided_hemp": 90,
+        "varnish": 18,
+        "crystal_d": 50,
+        "gemstone_d": 12
+    }
+}

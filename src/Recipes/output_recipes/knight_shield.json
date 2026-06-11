@@ -1,0 +1,14 @@
+{
+    "id": 110,
+    "recipe_level": 5,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "knight_shield_fragment": 9,
+        "mithirl_alloy": 4,
+        "synthesis_cokes": 1,
+        "crafted_leather": 1,
+        "crystal_c": 12,
+        "gemstone_c": 4
+    }
+}

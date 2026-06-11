@@ -1,0 +1,14 @@
+{
+    "id": 94,
+    "recipe_level": 4,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "square_shield_fragment": 8,
+        "steel": 15,
+        "cokes": 5,
+        "leather": 5,
+        "crystal_d": 32,
+        "gemstone_d": 7
+    }
+}

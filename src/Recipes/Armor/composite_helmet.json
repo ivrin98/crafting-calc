@@ -1,0 +1,13 @@
+{
+    "id": 301,
+    "recipe_level": 5,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "composite_helmet_design": 10,
+        "blacksmith_s_frame": 1,
+        "crafted_leather": 14,
+        "crystal_c": 25,
+        "gemstone_c": 10
+    }
+}

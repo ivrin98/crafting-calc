@@ -1,0 +1,15 @@
+{
+    "id": 405,
+    "recipe_level": 7,
+    "success_rate": 60,
+    "outputqty": 1,
+    "materials": {
+        "rp_blue_wolve_s_helmet_i": 1,
+        "blue_wolve_s_helmet_design": 13,
+        "blacksmith_s_frame": 1,
+        "crafted_leather": 40,
+        "asofe": 4,
+        "crystal_b": 14,
+        "gemstone_b": 7
+    }
+}

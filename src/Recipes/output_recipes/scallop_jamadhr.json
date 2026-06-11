@@ -1,0 +1,14 @@
+{
+    "id": 184,
+    "recipe_level": 4,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "scallop_jamadhr_edge": 8,
+        "steel": 160,
+        "cokes": 160,
+        "high_grade_suede": 80,
+        "crystal_d": 550,
+        "gemstone_d": 185
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "id": 594,
+    "recipe_level": 7,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_halbard": 1,
+        "halbard_edge": 13,
+        "warsmith_holder": 3,
+        "mithirl_alloy": 172,
+        "synthesis_cokes": 86,
+        "high_grade_suede": 43,
+        "enria": 43,
+        "reinforcing_plate": 172,
+        "crystal_b": 419,
+        "gemstone_b": 143
+    }
+}

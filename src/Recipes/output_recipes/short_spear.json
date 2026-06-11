@@ -1,0 +1,12 @@
+{
+    "id": 8,
+    "recipe_level": 1,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "short_spear_edge": 3,
+        "iron_ore": 220,
+        "coal": 110,
+        "suede": 55
+    }
+}

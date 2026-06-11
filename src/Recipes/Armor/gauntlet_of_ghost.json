@@ -1,0 +1,13 @@
+{
+    "id": 141,
+    "recipe_level": 6,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "gauntlet_of_ghost_pattern": 11,
+        "crafted_leather": 24,
+        "high_grade_suede": 3,
+        "crystal_c": 24,
+        "gemstone_c": 10
+    }
+}

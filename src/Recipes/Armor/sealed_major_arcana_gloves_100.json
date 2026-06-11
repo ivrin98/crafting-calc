@@ -1,0 +1,14 @@
+{
+    "id": 675,
+    "recipe_level": 9,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_sealed_major_arcana_gloves": 1,
+        "sealed_major_arcana_gloves_fabric": 17,
+        "warsmith_mold": 1,
+        "asofe": 31,
+        "crystal_s": 30,
+        "gemstone_s": 2
+    }
+}

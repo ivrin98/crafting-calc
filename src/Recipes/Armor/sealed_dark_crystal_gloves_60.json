@@ -1,0 +1,16 @@
+{
+    "id": 545,
+    "recipe_level": 7,
+    "success_rate": 60,
+    "outputqty": 1,
+    "materials": {
+        "rp_sealed_dark_crystal_gloves_i": 1,
+        "sealed_dark_crystal_gloves_design": 13,
+        "maestro_anvil_lock": 1,
+        "crafted_leather": 25,
+        "high_grade_suede": 15,
+        "asofe": 5,
+        "crystal_b": 10,
+        "gemstone_b": 21
+    }
+}

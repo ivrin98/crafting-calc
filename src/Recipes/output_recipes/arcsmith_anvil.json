@@ -1,0 +1,11 @@
+{
+    "id": 611,
+    "recipe_level": 6,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "maestro_anvil_lock": 3,
+        "mold_lubricant": 20,
+        "thons": 10
+    }
+}

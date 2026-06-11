@@ -1,0 +1,16 @@
+{
+    "id": 370,
+    "recipe_level": 6,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_hose_of_shrnoen": 1,
+        "hose_of_shrnoen_fabric": 12,
+        "maestro_anvil_lock": 1,
+        "crafted_leather": 29,
+        "metallic_fiber": 29,
+        "asofe": 29,
+        "crystal_c": 70,
+        "gemstone_b": 5
+    }
+}

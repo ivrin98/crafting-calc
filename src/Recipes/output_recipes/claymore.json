@@ -1,0 +1,14 @@
+{
+    "id": 178,
+    "recipe_level": 4,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "claymore_blade": 8,
+        "steel_mold": 3,
+        "steel": 270,
+        "cokes": 135,
+        "crystal_d": 550,
+        "gemstone_d": 185
+    }
+}

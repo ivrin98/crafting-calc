@@ -1,0 +1,16 @@
+{
+    "id": 613,
+    "recipe_level": 7,
+    "success_rate": 70,
+    "outputqty": 1,
+    "materials": {
+        "rp_sealed_phoenix_s_earing_i": 1,
+        "sealed_phoenix_s_earing_gemstone": 13,
+        "maestro_mold": 1,
+        "metallic_fiber": 35,
+        "varnish_of_purity": 21,
+        "thons": 7,
+        "crystal_b": 18,
+        "gemstone_b": 29
+    }
+}

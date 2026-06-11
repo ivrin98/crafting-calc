@@ -1,0 +1,14 @@
+{
+    "id": 116,
+    "recipe_level": 5,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "tower_shield_fragment": 10,
+        "mithirl_alloy": 6,
+        "synthesis_cokes": 2,
+        "crafted_leather": 2,
+        "crystal_c": 17,
+        "gemstone_c": 7
+    }
+}

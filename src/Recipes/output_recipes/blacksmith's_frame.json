@@ -1,0 +1,11 @@
+{
+    "id": 40,
+    "recipe_level": 4,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "silver_mold": 1,
+        "varnish_of_purity": 5,
+        "mithril_ore": 10
+    }
+}

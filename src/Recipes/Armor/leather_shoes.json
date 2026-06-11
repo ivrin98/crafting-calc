@@ -1,0 +1,11 @@
+{
+    "id": 11,
+    "recipe_level": 1,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "leather_shoes_texture": 2,
+        "animal_skin": 8,
+        "suede": 1
+    }
+}

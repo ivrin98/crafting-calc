@@ -1,0 +1,11 @@
+{
+    "id": 39,
+    "recipe_level": 4,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "steel_mold": 1,
+        "varnish_of_purity": 5,
+        "admantite_nugget": 10
+    }
+}

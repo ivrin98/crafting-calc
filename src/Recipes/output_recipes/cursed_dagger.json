@@ -1,0 +1,15 @@
+{
+    "id": 201,
+    "recipe_level": 4,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "cursed_dagger_blade": 8,
+        "artisan_s_frame": 2,
+        "mithirl_alloy": 25,
+        "synthesis_cokes": 25,
+        "reinforcing_agent": 50,
+        "crystal_d": 700,
+        "gemstone_c": 81
+    }
+}

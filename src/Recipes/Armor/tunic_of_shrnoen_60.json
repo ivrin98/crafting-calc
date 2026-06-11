@@ -1,0 +1,15 @@
+{
+    "id": 367,
+    "recipe_level": 6,
+    "success_rate": 60,
+    "outputqty": 1,
+    "materials": {
+        "rp_tunic_of_shrnoen_i": 1,
+        "tunic_of_shrnoen_fabric": 12,
+        "crafted_leather": 40,
+        "metallic_fiber": 20,
+        "asofe": 20,
+        "crystal_c": 65,
+        "gemstone_b": 9
+    }
+}

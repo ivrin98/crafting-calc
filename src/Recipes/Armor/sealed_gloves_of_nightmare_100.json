@@ -1,0 +1,16 @@
+{
+    "id": 550,
+    "recipe_level": 8,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_sealed_gloves_of_nightmare": 1,
+        "sealed_gloves_of_nightmare_design": 14,
+        "warsmith_mold": 1,
+        "crafted_leather": 50,
+        "high_grade_suede": 130,
+        "asofe": 10,
+        "crystal_a": 20,
+        "gemstone_a": 3
+    }
+}

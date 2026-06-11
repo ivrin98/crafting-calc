@@ -1,0 +1,13 @@
+{
+    "id": 75,
+    "recipe_level": 2,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "scale_gaiters_fragment": 5,
+        "steel_mold": 2,
+        "steel": 14,
+        "crystal_d": 20,
+        "gemstone_d": 5
+    }
+}

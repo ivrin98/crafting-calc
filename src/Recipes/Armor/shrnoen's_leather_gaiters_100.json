@@ -1,0 +1,16 @@
+{
+    "id": 364,
+    "recipe_level": 6,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_shrnoen_s_leather_gaiters": 1,
+        "shrnoen_s_leather_gaiters_texture": 12,
+        "maestro_anvil_lock": 1,
+        "crafted_leather": 29,
+        "metallic_fiber": 29,
+        "asofe": 29,
+        "crystal_c": 70,
+        "gemstone_b": 5
+    }
+}

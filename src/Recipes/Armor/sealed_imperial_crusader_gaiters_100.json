@@ -1,0 +1,15 @@
+{
+    "id": 655,
+    "recipe_level": 9,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_sealed_imperial_crusader_gaiters": 1,
+        "sealed_imperial_crusader_gaiters_pattern": 17,
+        "arcsmith_anvil": 3,
+        "mithirl_alloy": 156,
+        "asofe": 104,
+        "crystal_s": 73,
+        "gemstone_s": 6
+    }
+}

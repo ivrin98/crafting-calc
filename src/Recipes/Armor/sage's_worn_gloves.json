@@ -1,0 +1,13 @@
+{
+    "id": 277,
+    "recipe_level": 4,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "sage_s_worn_gloves_lining": 8,
+        "leather": 32,
+        "high_grade_suede": 4,
+        "crystal_d": 30,
+        "gemstone_d": 6
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "id": 146,
+    "recipe_level": 1,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "sword_breaker_edge": 3,
+        "iron_ore": 365,
+        "coal": 365
+    }
+}

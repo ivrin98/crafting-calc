@@ -1,0 +1,16 @@
+{
+    "id": 331,
+    "recipe_level": 6,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_adamantite_ring": 1,
+        "adamantite_ring_wire": 12,
+        "blacksmith_s_frame": 1,
+        "metallic_fiber": 30,
+        "varnish_of_purity": 6,
+        "thons": 6,
+        "crystal_c": 32,
+        "gemstone_b": 2
+    }
+}

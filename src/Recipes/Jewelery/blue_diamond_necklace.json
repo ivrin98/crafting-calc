@@ -1,0 +1,11 @@
+{
+    "id": 43,
+    "recipe_level": 1,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "blue_diamond_necklace_gem": 3,
+        "stem": 80,
+        "varnish": 16
+    }
+}

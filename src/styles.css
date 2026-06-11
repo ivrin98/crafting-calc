@@ -1,0 +1,210 @@
+body{font-family:Arial,sans-serif;margin:0} table td{padding:4px 12px;}
+
+.materials-table {
+  width: fit-content;
+  margin: 12px auto 28px auto;
+
+  border-collapse: separate;
+  border-spacing: 0;
+
+  background: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+}
+
+.materials-table th,
+.materials-table td {
+  border: 1px solid #ddd;
+  padding: 6px 10px;
+  text-align: left;
+}
+
+.materials-table td:first-child,
+.materials-table th:first-child {
+  min-width: 180px;
+  max-width: 250px;
+}
+
+.materials-wrapper {
+  display: flex;
+  gap: 24px;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.materials-table td:not(:first-child),
+.materials-table th:not(:first-child) {
+  min-width: 90px;
+}
+
+.materials-table input {
+  width: 90px;
+}
+
+.recipe-tree {
+  margin-top: 20px;
+  padding: 12px;
+}
+
+.tree-node {
+  position: relative;
+}
+
+.tree-card {
+  display: inline-grid;
+  grid-template-columns: repeat(4, auto);
+  gap: 8px 16px;
+  align-items: center;
+  padding: 8px 12px;
+  margin: 4px 0;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background: #fff;
+}
+
+.tree-card.craftable {
+  border-left: 5px solid #6b8cff;
+}
+
+.tree-card.raw {
+  border-left: 5px solid #999;
+}
+
+.selected-recipe-row {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.selected-recipe-row select {
+  min-width: 260px;
+}
+
+.selected-recipe-row input {
+  width: 80px;
+}
+
+.recipe-tree-grid {
+  display: flex;
+  gap: 16px;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.recipe-tree-panel {
+  flex: 1 1 360px;
+  min-width: 320px;
+  border: 1px solid #ddd;
+  padding: 12px;
+  border-radius: 8px;
+}
+
+body {
+  background: #f7f7f7;
+  color: #222;
+}
+
+body.dark {
+  background: #121212;
+  color: #eeeeee;
+}
+
+body.dark input,
+body.dark select,
+body.dark button {
+  background: #1e1e1e;
+  color: #eeeeee;
+  border: 1px solid #555;
+}
+
+body.dark .materials-table th,
+body.dark .materials-table td {
+  border-color: #444;
+}
+
+body.dark .tree-card,
+body.dark .recipe-tree-panel {
+  background: #1e1e1e;
+  color: #eeeeee;
+  border-color: #444;
+}
+
+body.dark .tree-card.craftable {
+  border-left-color: #7d9cff;
+}
+
+body.dark .tree-card.raw {
+  border-left-color: #aaaaaa;
+}
+
+.materials-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 12px 0 28px;
+  background: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.materials-table th {
+  background: #f0f0f0;
+  font-weight: 700;
+  text-align: left;
+  padding: 10px 12px;
+  border-bottom: 1px solid #ddd;
+  white-space: nowrap;
+}
+
+.materials-table td {
+  padding: 8px 12px;
+  border-bottom: 1px solid #eee;
+  vertical-align: middle;
+}
+
+.materials-table tr:last-child td {
+  border-bottom: none;
+}
+
+.materials-table tbody tr:hover {
+  background: #f7f7f7;
+}
+
+.materials-table td:nth-child(n + 2),
+.materials-table th:nth-child(n + 2) {
+  text-align: right;
+}
+
+.materials-table input {
+  width: 90px;
+  padding: 5px 8px;
+  text-align: right;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+.materials-table td:first-child,
+.materials-table th:first-child {
+  text-align: left;
+  min-width: 220px;
+}
+
+body.dark .materials-table {
+  background: #1b1b1b;
+  border-color: #333;
+}
+
+body.dark .materials-table th {
+  background: #252525;
+  border-bottom-color: #333;
+}
+
+body.dark .materials-table td {
+  border-bottom-color: #2f2f2f;
+}
+
+body.dark .materials-table tbody tr:hover {
+  background: #242424;
+}

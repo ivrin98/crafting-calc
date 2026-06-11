@@ -1,0 +1,12 @@
+{
+    "id": 737,
+    "recipe_level": 4,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_dye_w1m1_c": 1,
+        "fish_oil_high": 5,
+        "thin_fish_bone": 90,
+        "thick_fish_bone": 15
+    }
+}

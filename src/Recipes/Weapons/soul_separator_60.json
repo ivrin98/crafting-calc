@@ -1,0 +1,17 @@
+{
+    "id": 585,
+    "recipe_level": 8,
+    "success_rate": 60,
+    "outputqty": 1,
+    "materials": {
+        "rp_soul_separator_i": 1,
+        "soul_separator_head": 14,
+        "craftsman_mold": 3,
+        "mithirl_alloy": 156,
+        "synthesis_cokes": 156,
+        "reinforcing_plate": 78,
+        "enria": 78,
+        "crystal_a": 161,
+        "gemstone_a": 74
+    }
+}

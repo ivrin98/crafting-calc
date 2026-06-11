@@ -1,0 +1,16 @@
+{
+    "id": 470,
+    "recipe_level": 7,
+    "success_rate": 60,
+    "outputqty": 1,
+    "materials": {
+        "rp_bellion_cestus_i": 1,
+        "bellion_cestus_edge": 13,
+        "mithirl_alloy": 120,
+        "synthesis_cokes": 120,
+        "high_grade_suede": 60,
+        "enria": 60,
+        "crystal_b": 165,
+        "gemstone_b": 98
+    }
+}

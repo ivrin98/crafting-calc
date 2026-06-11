@@ -1,0 +1,18 @@
+{
+    "id": 595,
+    "recipe_level": 7,
+    "success_rate": 60,
+    "outputqty": 1,
+    "materials": {
+        "rp_dasparion_s_staff_i": 1,
+        "dasparion_s_staff_head": 13,
+        "maestro_holder": 3,
+        "oriharukon": 47,
+        "coarse_bone_powder": 94,
+        "compound_braid": 47,
+        "enria": 47,
+        "reinforcing_plate": 94,
+        "crystal_b": 216,
+        "gemstone_b": 143
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "id": 260,
+    "recipe_level": 6,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "three_eye_crow_s_feather_piece": 11,
+        "oriharukon": 54,
+        "coarse_bone_powder": 108,
+        "compound_braid": 54,
+        "reinforcing_agent": 162,
+        "crystal_c": 410,
+        "gemstone_c": 248
+    }
+}

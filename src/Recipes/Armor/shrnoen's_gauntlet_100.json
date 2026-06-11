@@ -1,0 +1,16 @@
+{
+    "id": 430,
+    "recipe_level": 6,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_shrnoen_s_gauntlet": 1,
+        "shrnoen_s_gauntlet_part": 12,
+        "maestro_anvil_lock": 1,
+        "crafted_leather": 24,
+        "high_grade_suede": 3,
+        "asofe": 3,
+        "crystal_c": 33,
+        "gemstone_b": 2
+    }
+}

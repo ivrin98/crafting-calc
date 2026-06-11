@@ -1,0 +1,15 @@
+{
+    "id": 401,
+    "recipe_level": 7,
+    "success_rate": 60,
+    "outputqty": 1,
+    "materials": {
+        "rp_blue_wolve_s_hose_i": 1,
+        "blue_wolve_s_hose_pattern": 13,
+        "crafted_leather": 30,
+        "metallic_fiber": 30,
+        "asofe": 30,
+        "crystal_b": 18,
+        "gemstone_b": 8
+    }
+}

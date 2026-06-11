@@ -1,0 +1,11 @@
+{
+    "id": 19,
+    "recipe_level": 1,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "necklace_of_wisdom_chain": 3,
+        "stem": 50,
+        "varnish": 10
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "id": 567,
+    "recipe_level": 8,
+    "success_rate": 60,
+    "outputqty": 1,
+    "materials": {
+        "rp_sealed_helm_of_nightmare_i": 1,
+        "sealed_helm_of_nightmare_design": 14,
+        "maestro_mold": 1,
+        "crafted_leather": 80,
+        "asofe": 8,
+        "crystal_a": 15,
+        "gemstone_a": 5
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "id": 476,
+    "recipe_level": 6,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "artisan_s_frame": 2,
+        "mold_hardener": 20,
+        "enria": 5
+    }
+}

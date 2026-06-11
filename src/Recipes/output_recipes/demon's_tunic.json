@@ -1,0 +1,13 @@
+{
+    "id": 117,
+    "recipe_level": 5,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "demon_s_tunic_fabric": 10,
+        "crafted_leather": 48,
+        "metallic_fiber": 24,
+        "crystal_c": 50,
+        "gemstone_c": 22
+    }
+}

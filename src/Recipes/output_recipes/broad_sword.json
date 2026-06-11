@@ -1,0 +1,11 @@
+{
+    "id": 2,
+    "recipe_level": 1,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "broad_sword_blade": 1,
+        "iron_ore": 18,
+        "coal": 18
+    }
+}

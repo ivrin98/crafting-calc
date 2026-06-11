@@ -1,0 +1,18 @@
+{
+    "id": 630,
+    "recipe_level": 9,
+    "success_rate": 60,
+    "outputqty": 1,
+    "materials": {
+        "rp_imperial_staff_i": 1,
+        "piece_of_imperial_staff": 17,
+        "warsmith_holder": 4,
+        "oriharukon": 121,
+        "reinforcing_plate": 242,
+        "compound_braid": 121,
+        "coarse_bone_powder": 242,
+        "enria": 121,
+        "crystal_s": 210,
+        "gemstone_s": 43
+    }
+}

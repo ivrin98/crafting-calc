@@ -1,0 +1,16 @@
+{
+    "id": 619,
+    "recipe_level": 8,
+    "success_rate": 70,
+    "outputqty": 1,
+    "materials": {
+        "rp_sealed_majestic_necklace_i": 1,
+        "sealed_majestic_necklace_beads": 14,
+        "maestro_mold": 1,
+        "metallic_fiber": 100,
+        "varnish_of_purity": 60,
+        "thons": 20,
+        "crystal_a": 17,
+        "gemstone_a": 6
+    }
+}

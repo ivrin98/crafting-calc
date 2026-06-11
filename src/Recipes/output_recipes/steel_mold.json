@@ -1,0 +1,11 @@
+{
+    "id": 32,
+    "recipe_level": 2,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "braided_hemp": 5,
+        "iron_ore": 5,
+        "coal": 5
+    }
+}

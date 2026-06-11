@@ -1,0 +1,16 @@
+{
+    "id": 438,
+    "recipe_level": 6,
+    "success_rate": 60,
+    "outputqty": 1,
+    "materials": {
+        "rp_great_sword_i": 1,
+        "great_sword_blade": 12,
+        "artisan_s_frame": 3,
+        "mithirl_alloy": 80,
+        "synthesis_cokes": 40,
+        "enria": 40,
+        "crystal_c": 350,
+        "gemstone_b": 62
+    }
+}

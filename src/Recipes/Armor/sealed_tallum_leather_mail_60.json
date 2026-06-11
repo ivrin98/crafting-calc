@@ -1,0 +1,17 @@
+{
+    "id": 515,
+    "recipe_level": 7,
+    "success_rate": 60,
+    "outputqty": 1,
+    "materials": {
+        "rp_sealed_tallum_leather_mail_i": 1,
+        "sealed_tallum_leather_mail_pattern": 13,
+        "maestro_anvil_lock": 1,
+        "crafted_leather": 132,
+        "metallic_fiber": 66,
+        "compound_braid": 33,
+        "asofe": 33,
+        "crystal_b": 56,
+        "gemstone_b": 112
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 271,
+    "recipe_level": 3,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "brigandine_gauntlet_pattern": 7,
+        "leather": 24,
+        "high_grade_suede": 3,
+        "crystal_d": 24,
+        "gemstone_d": 5
+    }
+}

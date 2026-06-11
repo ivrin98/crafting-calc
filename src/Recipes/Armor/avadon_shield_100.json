@@ -1,0 +1,17 @@
+{
+    "id": 479,
+    "recipe_level": 6,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_avadon_shield": 1,
+        "avadon_shield_fragment": 12,
+        "maestro_anvil_lock": 1,
+        "mithirl_alloy": 12,
+        "synthesis_cokes": 4,
+        "crafted_leather": 4,
+        "asofe": 4,
+        "crystal_c": 16,
+        "gemstone_b": 3
+    }
+}

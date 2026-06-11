@@ -1,0 +1,17 @@
+{
+    "id": 637,
+    "recipe_level": 9,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_dragon_hunter_axe": 1,
+        "dragon_hunter_axe_blade": 17,
+        "warsmith_holder": 8,
+        "mithirl_alloy": 464,
+        "synthesis_cokes": 232,
+        "reinforcing_plate": 464,
+        "enria": 116,
+        "crystal_s": 395,
+        "gemstone_s": 43
+    }
+}

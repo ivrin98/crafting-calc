@@ -1,0 +1,17 @@
+{
+    "id": 628,
+    "recipe_level": 9,
+    "success_rate": 60,
+    "outputqty": 1,
+    "materials": {
+        "rp_basalt_battlehammer_i": 1,
+        "basalt_battlehammer_head": 17,
+        "warsmith_holder": 4,
+        "mithirl_alloy": 154,
+        "synthesis_cokes": 154,
+        "reinforcing_plate": 308,
+        "enria": 77,
+        "crystal_s": 211,
+        "gemstone_s": 43
+    }
+}

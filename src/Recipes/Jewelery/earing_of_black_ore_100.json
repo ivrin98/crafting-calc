@@ -1,0 +1,16 @@
+{
+    "id": 335,
+    "recipe_level": 7,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_earing_of_black_ore": 1,
+        "earing_of_black_ore_piece": 13,
+        "maestro_mold": 1,
+        "metallic_fiber": 65,
+        "varnish_of_purity": 13,
+        "thons": 13,
+        "crystal_b": 25,
+        "gemstone_b": 6
+    }
+}

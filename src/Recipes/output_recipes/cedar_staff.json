@@ -1,0 +1,12 @@
+{
+    "id": 5,
+    "recipe_level": 1,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "cedar_staff_head": 2,
+        "iron_ore": 55,
+        "animal_bone": 110,
+        "stem": 55
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "id": 836,
+    "recipe_level": 5,
+    "success_rate": 100,
+    "outputqty": 10,
+    "materials": {
+        "spirit_ore": 315,
+        "mysterious_solvent": 60
+    }
+}

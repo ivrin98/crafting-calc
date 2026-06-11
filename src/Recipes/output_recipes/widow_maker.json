@@ -1,0 +1,15 @@
+{
+    "id": 245,
+    "recipe_level": 5,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "widow_maker_head": 10,
+        "mithirl_alloy": 80,
+        "synthesis_cokes": 40,
+        "high_grade_suede": 20,
+        "reinforcing_agent": 100,
+        "crystal_c": 330,
+        "gemstone_c": 187
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "id": 29,
+    "recipe_level": 1,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "coal": 3,
+        "charcoal": 3
+    }
+}

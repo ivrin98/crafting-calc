@@ -1,0 +1,16 @@
+{
+    "id": 452,
+    "recipe_level": 6,
+    "success_rate": 60,
+    "outputqty": 1,
+    "materials": {
+        "rp_arthro_nail_i": 1,
+        "arthro_nail_blade": 12,
+        "mithirl_alloy": 80,
+        "synthesis_cokes": 80,
+        "high_grade_suede": 40,
+        "enria": 40,
+        "crystal_c": 325,
+        "gemstone_b": 62
+    }
+}

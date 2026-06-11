@@ -1,0 +1,16 @@
+{
+    "id": 446,
+    "recipe_level": 6,
+    "success_rate": 60,
+    "outputqty": 1,
+    "materials": {
+        "rp_sword_of_valhalla_i": 1,
+        "sword_of_valhalla_blade": 12,
+        "artisan_s_frame": 2,
+        "mithirl_alloy": 72,
+        "synthesis_cokes": 72,
+        "enria": 36,
+        "crystal_c": 360,
+        "gemstone_b": 62
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "id": 30,
+    "recipe_level": 1,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "varnish": 5,
+        "iron_ore": 5
+    }
+}

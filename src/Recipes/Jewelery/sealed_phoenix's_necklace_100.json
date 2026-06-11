@@ -1,0 +1,16 @@
+{
+    "id": 618,
+    "recipe_level": 7,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_sealed_phoenix_s_necklace": 1,
+        "sealed_phoenix_s_necklace_beads": 13,
+        "warsmith_mold": 1,
+        "metallic_fiber": 60,
+        "varnish_of_purity": 36,
+        "thons": 12,
+        "crystal_b": 37,
+        "gemstone_b": 12
+    }
+}

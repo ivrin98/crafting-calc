@@ -1,0 +1,9 @@
+{
+    "id": 31,
+    "recipe_level": 1,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "animal_bone": 10
+    }
+}

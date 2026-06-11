@@ -1,0 +1,14 @@
+{
+    "id": 60,
+    "recipe_level": 5,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "ring_of_ages_gemstone": 10,
+        "silver_mold": 1,
+        "metallic_fiber": 30,
+        "varnish_of_purity": 6,
+        "crystal_c": 12,
+        "gemstone_c": 5
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 151,
+    "recipe_level": 2,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "temptation_of_abyss_piece": 4,
+        "steel": 30,
+        "coarse_bone_powder": 60,
+        "braided_hemp": 30,
+        "gemstone_d": 34
+    }
+}

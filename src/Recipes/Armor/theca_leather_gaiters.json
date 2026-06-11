@@ -1,0 +1,13 @@
+{
+    "id": 123,
+    "recipe_level": 5,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "theca_leather_gaiters_pattern": 10,
+        "crafted_leather": 32,
+        "metallic_fiber": 32,
+        "crystal_c": 35,
+        "gemstone_c": 15
+    }
+}

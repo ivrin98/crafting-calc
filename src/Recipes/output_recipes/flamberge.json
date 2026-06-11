@@ -1,0 +1,15 @@
+{
+    "id": 190,
+    "recipe_level": 4,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "flamberge_blade": 8,
+        "artisan_s_frame": 3,
+        "mithirl_alloy": 24,
+        "synthesis_cokes": 12,
+        "reinforcing_agent": 48,
+        "crystal_d": 700,
+        "gemstone_c": 81
+    }
+}

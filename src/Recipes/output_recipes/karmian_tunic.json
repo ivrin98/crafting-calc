@@ -1,0 +1,13 @@
+{
+    "id": 100,
+    "recipe_level": 4,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "karmian_tunic_pattern": 8,
+        "crafted_leather": 24,
+        "metallic_fiber": 12,
+        "crystal_d": 120,
+        "gemstone_c": 10
+    }
+}

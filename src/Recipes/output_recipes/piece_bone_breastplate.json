@@ -1,0 +1,11 @@
+{
+    "id": 16,
+    "recipe_level": 1,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "piece_bone_breastplate_fragment": 3,
+        "steel_mold": 3,
+        "iron_ore": 30
+    }
+}

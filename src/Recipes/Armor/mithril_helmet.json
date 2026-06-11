@@ -1,0 +1,13 @@
+{
+    "id": 128,
+    "recipe_level": 6,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "mithril_helmet_design": 11,
+        "blacksmith_s_frame": 1,
+        "crafted_leather": 26,
+        "crystal_c": 36,
+        "gemstone_c": 15
+    }
+}

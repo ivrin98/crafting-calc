@@ -1,0 +1,16 @@
+{
+    "id": 458,
+    "recipe_level": 7,
+    "success_rate": 60,
+    "outputqty": 1,
+    "materials": {
+        "rp_sword_of_damascus_i": 1,
+        "sword_of_damascus_blade": 13,
+        "artisan_s_frame": 2,
+        "mithirl_alloy": 120,
+        "synthesis_cokes": 120,
+        "enria": 60,
+        "crystal_b": 160,
+        "gemstone_b": 98
+    }
+}

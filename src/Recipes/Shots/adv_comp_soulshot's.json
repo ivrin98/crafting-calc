@@ -1,0 +1,10 @@
+{
+    "id": 502,
+    "recipe_level": 8,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "soulshot_s": 1000,
+        "rope_of_magic_s": 13
+    }
+}

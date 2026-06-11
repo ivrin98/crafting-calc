@@ -1,0 +1,16 @@
+{
+    "id": 647,
+    "recipe_level": 9,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_sealed_sanddragon_s_earing": 1,
+        "sealed_sanddragon_s_earing_piece": 17,
+        "warsmith_mold": 1,
+        "metallic_fiber": 195,
+        "varnish_of_purity": 117,
+        "thons": 39,
+        "crystal_s": 29,
+        "gemstone_s": 3
+    }
+}

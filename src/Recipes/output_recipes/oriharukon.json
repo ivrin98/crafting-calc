@@ -1,0 +1,11 @@
+{
+    "id": 27,
+    "recipe_level": 4,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "synthesis_cokes": 1,
+        "silver_nugget": 12,
+        "oriharukon_ore": 4
+    }
+}

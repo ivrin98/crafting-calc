@@ -1,0 +1,15 @@
+{
+    "id": 564,
+    "recipe_level": 7,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_sealed_dark_crystal_helmet": 1,
+        "sealed_dark_crystal_helmet_design": 13,
+        "reorins_mold": 1,
+        "crafted_leather": 90,
+        "asofe": 9,
+        "crystal_b": 32,
+        "gemstone_b": 30
+    }
+}

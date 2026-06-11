@@ -1,0 +1,14 @@
+{
+    "id": 153,
+    "recipe_level": 2,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "mace_of_judgment_head": 5,
+        "steel": 60,
+        "cokes": 60,
+        "high_grade_suede": 30,
+        "crystal_d": 200,
+        "gemstone_d": 57
+    }
+}

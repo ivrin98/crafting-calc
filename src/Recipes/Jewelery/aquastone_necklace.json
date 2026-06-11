@@ -1,0 +1,14 @@
+{
+    "id": 55,
+    "recipe_level": 4,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "aquastone_necklace_chain": 8,
+        "blacksmith_s_frame": 1,
+        "compound_braid": 5,
+        "varnish_of_purity": 1,
+        "crystal_d": 65,
+        "gemstone_c": 5
+    }
+}

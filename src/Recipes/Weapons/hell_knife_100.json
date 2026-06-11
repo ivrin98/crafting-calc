@@ -1,0 +1,16 @@
+{
+    "id": 451,
+    "recipe_level": 6,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_hell_knife": 1,
+        "hell_knife_edge": 12,
+        "craftsman_mold": 2,
+        "mithirl_alloy": 114,
+        "synthesis_cokes": 114,
+        "enria": 57,
+        "crystal_c": 517,
+        "gemstone_b": 62
+    }
+}

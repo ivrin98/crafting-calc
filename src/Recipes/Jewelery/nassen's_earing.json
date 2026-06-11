@@ -1,0 +1,14 @@
+{
+    "id": 63,
+    "recipe_level": 6,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "nassen_s_earing_gemstone": 11,
+        "blacksmith_s_frame": 1,
+        "metallic_fiber": 45,
+        "varnish_of_purity": 9,
+        "crystal_c": 28,
+        "gemstone_c": 12
+    }
+}

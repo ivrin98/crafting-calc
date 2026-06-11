@@ -1,0 +1,16 @@
+{
+    "id": 622,
+    "recipe_level": 7,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_sealed_phoenix_s_ring": 1,
+        "sealed_phoenix_s_ring_gemstone": 13,
+        "maestro_mold": 1,
+        "metallic_fiber": 40,
+        "varnish_of_purity": 24,
+        "thons": 8,
+        "crystal_b": 17,
+        "gemstone_b": 18
+    }
+}

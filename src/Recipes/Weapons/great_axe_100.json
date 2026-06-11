@@ -1,0 +1,17 @@
+{
+    "id": 457,
+    "recipe_level": 6,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_great_axe": 1,
+        "great_axe_head": 12,
+        "maestro_holder": 4,
+        "mithirl_alloy": 160,
+        "synthesis_cokes": 80,
+        "high_grade_suede": 40,
+        "enria": 40,
+        "crystal_c": 353,
+        "gemstone_b": 62
+    }
+}

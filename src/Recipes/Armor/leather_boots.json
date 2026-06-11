@@ -1,0 +1,12 @@
+{
+    "id": 69,
+    "recipe_level": 2,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "leather_boots_lining": 4,
+        "leather": 8,
+        "high_grade_suede": 1,
+        "gemstone_d": 1
+    }
+}

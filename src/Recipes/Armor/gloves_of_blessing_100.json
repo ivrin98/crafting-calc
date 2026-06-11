@@ -1,0 +1,16 @@
+{
+    "id": 382,
+    "recipe_level": 6,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_gloves_of_blessing": 1,
+        "gloves_of_blessing_pattern": 12,
+        "maestro_anvil_lock": 1,
+        "crafted_leather": 32,
+        "high_grade_suede": 4,
+        "asofe": 4,
+        "crystal_c": 15,
+        "gemstone_b": 2
+    }
+}

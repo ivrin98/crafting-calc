@@ -1,0 +1,13 @@
+{
+    "id": 149,
+    "recipe_level": 2,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "assassin_knife_edge": 4,
+        "steel_mold": 2,
+        "steel": 70,
+        "cokes": 70,
+        "gemstone_d": 34
+    }
+}

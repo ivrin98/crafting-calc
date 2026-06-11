@@ -1,0 +1,16 @@
+{
+    "id": 532,
+    "recipe_level": 7,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_sealed_tallum_hose": 1,
+        "sealed_tallum_hose_fabric": 13,
+        "reorins_mold": 1,
+        "crafted_leather": 40,
+        "metallic_fiber": 24,
+        "asofe": 8,
+        "crystal_b": 21,
+        "gemstone_b": 39
+    }
+}

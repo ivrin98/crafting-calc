@@ -1,0 +1,14 @@
+{
+    "id": 53,
+    "recipe_level": 4,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "moonstone_earing_wire": 8,
+        "blacksmith_s_frame": 1,
+        "metallic_fiber": 5,
+        "varnish_of_purity": 1,
+        "crystal_d": 30,
+        "gemstone_c": 4
+    }
+}

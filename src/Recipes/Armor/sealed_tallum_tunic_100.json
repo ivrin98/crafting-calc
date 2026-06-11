@@ -1,0 +1,16 @@
+{
+    "id": 524,
+    "recipe_level": 7,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_sealed_tallum_tunic": 1,
+        "sealed_tallum_tunic_texture": 13,
+        "reorins_mold": 1,
+        "crafted_leather": 180,
+        "metallic_fiber": 108,
+        "asofe": 36,
+        "crystal_b": 70,
+        "gemstone_b": 67
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "id": 48,
+    "recipe_level": 3,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "elven_ring_piece": 7,
+        "silver_mold": 1,
+        "cord": 30,
+        "varnish": 6,
+        "crystal_d": 20,
+        "gemstone_d": 4
+    }
+}

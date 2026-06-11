@@ -1,0 +1,16 @@
+{
+    "id": 339,
+    "recipe_level": 7,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_necklace_of_black_ore": 1,
+        "necklace_of_black_ore_beads": 13,
+        "maestro_mold": 1,
+        "compound_braid": 55,
+        "varnish_of_purity": 11,
+        "thons": 11,
+        "crystal_b": 37,
+        "gemstone_b": 8
+    }
+}

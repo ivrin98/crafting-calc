@@ -1,0 +1,11 @@
+{
+    "id": 609,
+    "recipe_level": 5,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "cord": 40,
+        "reinforcing_plate": 10,
+        "admantite_nugget": 15
+    }
+}

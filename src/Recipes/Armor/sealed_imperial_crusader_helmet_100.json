@@ -1,0 +1,14 @@
+{
+    "id": 663,
+    "recipe_level": 9,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_sealed_imperial_crusader_helmet": 1,
+        "sealed_imperial_crusader_helmet_pattern": 17,
+        "reorins_mold": 1,
+        "asofe": 37,
+        "crystal_s": 43,
+        "gemstone_s": 4
+    }
+}

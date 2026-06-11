@@ -1,0 +1,9 @@
+{
+    "id": 686,
+    "recipe_level": 1,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "fish_oil": 2
+    }
+}

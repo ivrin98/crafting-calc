@@ -1,0 +1,13 @@
+{
+    "id": 44,
+    "recipe_level": 2,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "necklace_of_devotion_chain": 4,
+        "silver_mold": 1,
+        "braided_hemp": 15,
+        "varnish": 3,
+        "gemstone_d": 2
+    }
+}

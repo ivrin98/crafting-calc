@@ -1,0 +1,17 @@
+{
+    "id": 601,
+    "recipe_level": 8,
+    "success_rate": 60,
+    "outputqty": 1,
+    "materials": {
+        "rp_sword_of_miracle_i": 1,
+        "sword_of_miracle_edge": 14,
+        "craftsman_mold": 3,
+        "mithirl_alloy": 160,
+        "synthesis_cokes": 160,
+        "reinforcing_plate": 80,
+        "enria": 80,
+        "crystal_a": 152,
+        "gemstone_a": 74
+    }
+}

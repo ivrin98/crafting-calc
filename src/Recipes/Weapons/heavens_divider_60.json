@@ -1,0 +1,17 @@
+{
+    "id": 642,
+    "recipe_level": 9,
+    "success_rate": 60,
+    "outputqty": 1,
+    "materials": {
+        "rp_heavens_divider_i": 1,
+        "heavens_divider_edge": 17,
+        "warsmith_holder": 4,
+        "mithirl_alloy": 292,
+        "synthesis_cokes": 146,
+        "reinforcing_plate": 146,
+        "enria": 146,
+        "crystal_s": 212,
+        "gemstone_s": 43
+    }
+}

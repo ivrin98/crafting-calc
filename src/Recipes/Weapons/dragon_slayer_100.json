@@ -1,0 +1,17 @@
+{
+    "id": 572,
+    "recipe_level": 8,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_dragon_slayer": 1,
+        "dragon_slayer_edge": 14,
+        "craftsman_mold": 4,
+        "mithirl_alloy": 334,
+        "synthesis_cokes": 167,
+        "reinforcing_plate": 167,
+        "enria": 167,
+        "crystal_a": 369,
+        "gemstone_a": 74
+    }
+}

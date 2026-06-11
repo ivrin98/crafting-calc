@@ -1,0 +1,18 @@
+{
+    "id": 591,
+    "recipe_level": 8,
+    "success_rate": 60,
+    "outputqty": 1,
+    "materials": {
+        "rp_tallum_glaive_i": 1,
+        "tallum_glaive_edge": 14,
+        "maestro_holder": 4,
+        "mithirl_alloy": 148,
+        "synthesis_cokes": 74,
+        "high_grade_suede": 37,
+        "enria": 37,
+        "reinforcing_plate": 148,
+        "crystal_a": 193,
+        "gemstone_a": 74
+    }
+}

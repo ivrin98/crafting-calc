@@ -1,0 +1,12 @@
+{
+    "id": 147,
+    "recipe_level": 1,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "composition_bow_shaft": 3,
+        "iron_ore": 400,
+        "braided_hemp": 80,
+        "suede": 80
+    }
+}

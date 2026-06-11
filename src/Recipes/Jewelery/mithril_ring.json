@@ -1,0 +1,14 @@
+{
+    "id": 51,
+    "recipe_level": 4,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "mithril_ring_wire": 8,
+        "silver_mold": 1,
+        "cord": 50,
+        "varnish": 10,
+        "crystal_d": 25,
+        "gemstone_d": 5
+    }
+}

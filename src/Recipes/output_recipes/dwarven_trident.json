@@ -1,0 +1,14 @@
+{
+    "id": 156,
+    "recipe_level": 2,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "dwarven_trident_edge": 5,
+        "steel": 80,
+        "cokes": 40,
+        "high_grade_suede": 20,
+        "crystal_d": 200,
+        "gemstone_d": 57
+    }
+}

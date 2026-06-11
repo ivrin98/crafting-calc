@@ -1,0 +1,17 @@
+{
+    "id": 467,
+    "recipe_level": 7,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_staff_of_evil_sprit": 1,
+        "staff_of_evil_sprit_head": 13,
+        "maestro_holder": 3,
+        "oriharukon": 108,
+        "coarse_bone_powder": 216,
+        "compound_braid": 108,
+        "enria": 108,
+        "crystal_b": 342,
+        "gemstone_b": 98
+    }
+}

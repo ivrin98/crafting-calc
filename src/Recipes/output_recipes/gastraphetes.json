@@ -1,0 +1,14 @@
+{
+    "id": 160,
+    "recipe_level": 3,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "gastraphetes_shaft": 6,
+        "steel": 150,
+        "braided_hemp": 30,
+        "high_grade_suede": 30,
+        "crystal_d": 300,
+        "gemstone_d": 91
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "id": 554,
+    "recipe_level": 7,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_sealed_dark_crystal_breastplate": 1,
+        "sealed_dark_crystal_breastplate_pattern": 13,
+        "arcsmith_anvil": 3,
+        "mithirl_alloy": 36,
+        "asofe": 24,
+        "crystal_b": 80,
+        "gemstone_b": 93
+    }
+}

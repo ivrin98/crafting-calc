@@ -1,0 +1,13 @@
+{
+    "id": 87,
+    "recipe_level": 4,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "mithril_glove_design": 8,
+        "leather": 32,
+        "high_grade_suede": 4,
+        "crystal_d": 30,
+        "gemstone_d": 6
+    }
+}

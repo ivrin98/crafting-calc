@@ -1,0 +1,11 @@
+{
+    "id": 6,
+    "recipe_level": 1,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "dirk_blade": 2,
+        "iron_ore": 80,
+        "coal": 80
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "id": 404,
+    "recipe_level": 7,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_hose_of_doom": 1,
+        "hose_of_doom_pattern": 13,
+        "maestro_anvil_lock": 1,
+        "crafted_leather": 41,
+        "metallic_fiber": 41,
+        "asofe": 41,
+        "crystal_b": 47,
+        "gemstone_b": 8
+    }
+}

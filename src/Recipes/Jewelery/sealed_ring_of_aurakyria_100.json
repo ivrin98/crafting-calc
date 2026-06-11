@@ -1,0 +1,16 @@
+{
+    "id": 649,
+    "recipe_level": 9,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_sealed_ring_of_aurakyria": 1,
+        "sealed_ring_of_aurakyria_gem": 17,
+        "maestro_mold": 1,
+        "metallic_fiber": 145,
+        "varnish_of_purity": 87,
+        "thons": 29,
+        "crystal_s": 20,
+        "gemstone_s": 2
+    }
+}

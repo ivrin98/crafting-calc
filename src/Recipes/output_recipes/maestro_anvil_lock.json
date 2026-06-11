@@ -1,0 +1,11 @@
+{
+    "id": 475,
+    "recipe_level": 6,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "synthesis_cokes": 4,
+        "mold_glue": 4,
+        "mold_lubricant": 4
+    }
+}

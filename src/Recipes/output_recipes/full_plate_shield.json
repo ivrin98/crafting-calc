@@ -1,0 +1,14 @@
+{
+    "id": 310,
+    "recipe_level": 6,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "full_plate_shield_fragment": 11,
+        "mithirl_alloy": 9,
+        "synthesis_cokes": 3,
+        "crafted_leather": 3,
+        "crystal_c": 25,
+        "gemstone_c": 10
+    }
+}

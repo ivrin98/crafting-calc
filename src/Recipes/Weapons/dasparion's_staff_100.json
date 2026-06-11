@@ -1,0 +1,18 @@
+{
+    "id": 596,
+    "recipe_level": 7,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_dasparion_s_staff": 1,
+        "dasparion_s_staff_head": 13,
+        "warsmith_holder": 2,
+        "oriharukon": 96,
+        "coarse_bone_powder": 192,
+        "compound_braid": 96,
+        "enria": 96,
+        "reinforcing_plate": 192,
+        "crystal_b": 412,
+        "gemstone_b": 143
+    }
+}

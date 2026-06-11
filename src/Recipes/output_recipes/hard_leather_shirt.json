@@ -1,0 +1,11 @@
+{
+    "id": 66,
+    "recipe_level": 1,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "hard_leather_shirt_pattern": 3,
+        "animal_skin": 110,
+        "thread": 55
+    }
+}

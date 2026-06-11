@@ -1,0 +1,15 @@
+{
+    "id": 215,
+    "recipe_level": 5,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "dagger_of_magicflame_blade": 9,
+        "artisan_s_frame": 2,
+        "mithirl_alloy": 33,
+        "synthesis_cokes": 33,
+        "reinforcing_agent": 66,
+        "crystal_c": 180,
+        "gemstone_c": 105
+    }
+}

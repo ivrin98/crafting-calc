@@ -1,0 +1,17 @@
+{
+    "id": 437,
+    "recipe_level": 6,
+    "success_rate": 100,
+    "outputqty": 1,
+    "materials": {
+        "rp_pata": 1,
+        "pata_blade": 12,
+        "maestro_holder": 3,
+        "mithirl_alloy": 100,
+        "synthesis_cokes": 100,
+        "high_grade_suede": 50,
+        "enria": 50,
+        "crystal_c": 467,
+        "gemstone_b": 55
+    }
+}
