@@ -1,12 +1,12 @@
 {
   "id": 370,
-  "display_name": "Hose Of Shrnoen 100%",
+  "display_name": "Stockings Of Shrnoen 100%",
   "recipe_level": 6,
   "success_rate": 100,
   "outputqty": 1,
   "materials": {
-    "recipe_hose_of_shrnoen": 1,
-    "hose_of_shrnoen_fabric": 12,
+    "recipe_stockings_of_shrnoen": 1,
+    "stockings_of_shrnoen_fabric": 12,
     "maestro_anvil_lock": 1,
     "crafted_leather": 29,
     "metallic_fiber": 29,

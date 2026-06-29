@@ -1,12 +1,12 @@
 {
   "id": 404,
-  "display_name": "Hose Of Doom 100%",
+  "display_name": "Stockings Of Doom 100%",
   "recipe_level": 7,
   "success_rate": 100,
   "outputqty": 1,
   "materials": {
-    "recipe_hose_of_doom": 1,
-    "hose_of_doom_pattern": 13,
+    "recipe_stockings_of_doom": 1,
+    "stockings_of_doom_pattern": 13,
     "maestro_anvil_lock": 1,
     "crafted_leather": 41,
     "metallic_fiber": 41,

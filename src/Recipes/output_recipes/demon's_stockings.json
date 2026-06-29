@@ -1,11 +1,11 @@
 {
   "id": 118,
-  "display_name": "Demon's Hose",
+  "display_name": "Demon's Stockings",
   "recipe_level": 5,
   "success_rate": 100,
   "outputqty": 1,
   "materials": {
-    "demon_s_hose_pattern": 10,
+    "demon_s_stockings_pattern": 10,
     "crafted_leather": 30,
     "metallic_fiber": 30,
     "crystal_c": 30,

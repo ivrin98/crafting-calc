@@ -1,11 +1,11 @@
 {
   "id": 127,
-  "display_name": "Divine Hose",
+  "display_name": "Divine Stockings",
   "recipe_level": 6,
   "success_rate": 100,
   "outputqty": 1,
   "materials": {
-    "divine_hose_pattern": 11,
+    "divine_stockings_pattern": 11,
     "crafted_leather": 42,
     "metallic_fiber": 42,
     "crystal_c": 45,

@@ -1,11 +1,11 @@
 {
-  "id": 83,
-  "display_name": "Mithril Hose",
+  "id": 265,
+  "display_name": "Elven Mithril Stockings",
   "recipe_level": 3,
   "success_rate": 100,
   "outputqty": 1,
   "materials": {
-    "mithril_hose_design": 7,
+    "elven_mithril_stockings_pattern": 7,
     "leather": 45,
     "cord": 45,
     "crystal_d": 45,

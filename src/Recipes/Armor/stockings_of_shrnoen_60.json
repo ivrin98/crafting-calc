@@ -1,12 +1,12 @@
 {
   "id": 369,
-  "display_name": "Hose Of Shrnoen 60%",
+  "display_name": "Stockings Of Shrnoen 60%",
   "recipe_level": 6,
   "success_rate": 60,
   "outputqty": 1,
   "materials": {
-    "recipe_hose_of_shrnoen_i": 1,
-    "hose_of_shrnoen_fabric": 12,
+    "recipe_stockings_of_shrnoen_i": 1,
+    "stockings_of_shrnoen_fabric": 12,
     "crafted_leather": 20,
     "metallic_fiber": 20,
     "asofe": 20,

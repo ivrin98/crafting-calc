@@ -1,12 +1,12 @@
 {
   "id": 532,
-  "display_name": "Sealed Tallum Hose 100%",
+  "display_name": "Sealed Tallum Stockings 100%",
   "recipe_level": 7,
   "success_rate": 100,
   "outputqty": 1,
   "materials": {
-    "recipe_sealed_tallum_hose": 1,
-    "sealed_tallum_hose_fabric": 13,
+    "recipe_sealed_tallum_stockings": 1,
+    "sealed_tallum_stockings_fabric": 13,
     "reorins_mold": 1,
     "crafted_leather": 40,
     "metallic_fiber": 24,
