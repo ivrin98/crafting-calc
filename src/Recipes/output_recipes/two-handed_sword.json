@@ -1,14 +1,15 @@
 {
-    "id": 157,
-    "recipe_level": 3,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "two-handed_sword_edge": 6,
-        "steel_mold": 3,
-        "steel": 144,
-        "cokes": 72,
-        "crystal_d": 300,
-        "gemstone_d": 91
-    }
+  "id": 157,
+  "display_name": "Two-handed Sword",
+  "recipe_level": 3,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "two-handed_sword_edge": 6,
+    "steel_mold": 3,
+    "steel": 144,
+    "cokes": 72,
+    "crystal_d": 300,
+    "gemstone_d": 91
+  }
 }

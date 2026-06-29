@@ -1,13 +1,14 @@
 {
-    "id": 76,
-    "recipe_level": 3,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "mithril_banded_mail_material": 6,
-        "steel_mold": 3,
-        "steel": 25,
-        "crystal_d": 45,
-        "gemstone_d": 11
-    }
+  "id": 76,
+  "display_name": "Mithril Banded Mail",
+  "recipe_level": 3,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "mithril_banded_mail_material": 6,
+    "steel_mold": 3,
+    "steel": 25,
+    "crystal_d": 45,
+    "gemstone_d": 11
+  }
 }

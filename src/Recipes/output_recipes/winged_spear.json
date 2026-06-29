@@ -1,14 +1,15 @@
 {
-    "id": 164,
-    "recipe_level": 3,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "winged_spear_blade": 7,
-        "steel": 180,
-        "cokes": 90,
-        "high_grade_suede": 45,
-        "crystal_d": 430,
-        "gemstone_d": 139
-    }
+  "id": 164,
+  "display_name": "Winged Spear",
+  "recipe_level": 3,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "winged_spear_blade": 7,
+    "steel": 180,
+    "cokes": 90,
+    "high_grade_suede": 45,
+    "crystal_d": 430,
+    "gemstone_d": 139
+  }
 }

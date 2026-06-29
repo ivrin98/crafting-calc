@@ -1,11 +1,12 @@
 {
-    "id": 9,
-    "recipe_level": 1,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "sword_of_reflexion_blade": 3,
-        "iron_ore": 200,
-        "coal": 200
-    }
+  "id": 9,
+  "display_name": "Sword Of Reflexion",
+  "recipe_level": 1,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "sword_of_reflexion_blade": 3,
+    "iron_ore": 200,
+    "coal": 200
+  }
 }

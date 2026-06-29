@@ -1,14 +1,15 @@
 {
-    "id": 152,
-    "recipe_level": 2,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "spinebone_sword_blade": 5,
-        "steel_mold": 2,
-        "steel": 75,
-        "cokes": 75,
-        "crystal_d": 200,
-        "gemstone_d": 57
-    }
+  "id": 152,
+  "display_name": "Spinebone Sword",
+  "recipe_level": 2,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "spinebone_sword_blade": 5,
+    "steel_mold": 2,
+    "steel": 75,
+    "cokes": 75,
+    "crystal_d": 200,
+    "gemstone_d": 57
+  }
 }

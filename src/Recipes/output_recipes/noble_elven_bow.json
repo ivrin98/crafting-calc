@@ -1,15 +1,16 @@
 {
-    "id": 217,
-    "recipe_level": 5,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "noble_elven_bow_shaft": 9,
-        "mithirl_alloy": 60,
-        "compound_braid": 12,
-        "high_grade_suede": 12,
-        "reinforcing_agent": 72,
-        "crystal_c": 170,
-        "gemstone_c": 105
-    }
+  "id": 217,
+  "display_name": "Noble Elven Bow",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "noble_elven_bow_shaft": 9,
+    "mithirl_alloy": 60,
+    "compound_braid": 12,
+    "high_grade_suede": 12,
+    "reinforcing_agent": 72,
+    "crystal_c": 170,
+    "gemstone_c": 105
+  }
 }

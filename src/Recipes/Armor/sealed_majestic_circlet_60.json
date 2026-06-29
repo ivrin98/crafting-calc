@@ -1,0 +1,16 @@
+{
+  "id": 569,
+  "display_name": "Sealed Majestic Circlet 60%",
+  "recipe_level": 8,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sealed_magestic_circlet_i": 1,
+    "sealed_magestic_circlet_design": 14,
+    "maestro_mold": 1,
+    "crafted_leather": 80,
+    "asofe": 8,
+    "crystal_a": 15,
+    "gemstone_a": 5
+  }
+}

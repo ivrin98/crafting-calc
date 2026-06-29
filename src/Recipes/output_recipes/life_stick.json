@@ -1,14 +1,15 @@
 {
-    "id": 182,
-    "recipe_level": 4,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "life_stick_shaft": 8,
-        "steel": 130,
-        "coarse_bone_powder": 260,
-        "braided_hemp": 130,
-        "crystal_d": 550,
-        "gemstone_d": 185
-    }
+  "id": 182,
+  "display_name": "Life Stick",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "life_stick_shaft": 8,
+    "steel": 130,
+    "coarse_bone_powder": 260,
+    "braided_hemp": 130,
+    "crystal_d": 550,
+    "gemstone_d": 185
+  }
 }

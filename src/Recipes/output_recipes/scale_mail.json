@@ -1,13 +1,14 @@
 {
-    "id": 73,
-    "recipe_level": 2,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "scale_mail_fragment": 5,
-        "steel_mold": 3,
-        "steel": 20,
-        "crystal_d": 40,
-        "gemstone_d": 9
-    }
+  "id": 73,
+  "display_name": "Scale Mail",
+  "recipe_level": 2,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "scale_mail_fragment": 5,
+    "steel_mold": 3,
+    "steel": 20,
+    "crystal_d": 40,
+    "gemstone_d": 9
+  }
 }

@@ -1,15 +1,16 @@
 {
-    "id": 196,
-    "recipe_level": 4,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "skull_graver_head": 8,
-        "mithirl_alloy": 30,
-        "synthesis_cokes": 30,
-        "high_grade_suede": 15,
-        "reinforcing_agent": 60,
-        "crystal_d": 700,
-        "gemstone_c": 81
-    }
+  "id": 196,
+  "display_name": "Skull Graver",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "skull_graver_head": 8,
+    "mithirl_alloy": 30,
+    "synthesis_cokes": 30,
+    "high_grade_suede": 15,
+    "reinforcing_agent": 60,
+    "crystal_d": 700,
+    "gemstone_c": 81
+  }
 }

@@ -1,13 +1,14 @@
 {
-    "id": 104,
-    "recipe_level": 5,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "plate_leather_fragment": 9,
-        "crafted_leather": 30,
-        "metallic_fiber": 15,
-        "crystal_c": 30,
-        "gemstone_c": 12
-    }
+  "id": 104,
+  "display_name": "Plate Leather",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "plate_leather_fragment": 9,
+    "crafted_leather": 30,
+    "metallic_fiber": 15,
+    "crystal_c": 30,
+    "gemstone_c": 12
+  }
 }

@@ -1,10 +1,11 @@
 {
-    "id": 30,
-    "recipe_level": 1,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "varnish": 5,
-        "iron_ore": 5
-    }
+  "id": 30,
+  "display_name": "Steel",
+  "recipe_level": 1,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "varnish": 5,
+    "iron_ore": 5
+  }
 }

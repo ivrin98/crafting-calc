@@ -1,11 +1,12 @@
 {
-    "id": 474,
-    "recipe_level": 6,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "varnish_of_purity": 10,
-        "mold_lubricant": 10,
-        "mold_hardener": 10
-    }
+  "id": 474,
+  "display_name": "Maestro Holder",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "varnish_of_purity": 10,
+    "mold_lubricant": 10,
+    "mold_hardener": 10
+  }
 }

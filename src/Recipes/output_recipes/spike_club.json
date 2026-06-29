@@ -1,14 +1,15 @@
 {
-    "id": 158,
-    "recipe_level": 3,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "spike_club_head": 6,
-        "steel": 90,
-        "cokes": 90,
-        "high_grade_suede": 45,
-        "crystal_d": 300,
-        "gemstone_d": 91
-    }
+  "id": 158,
+  "display_name": "Spike Club",
+  "recipe_level": 3,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "spike_club_head": 6,
+    "steel": 90,
+    "cokes": 90,
+    "high_grade_suede": 45,
+    "crystal_d": 300,
+    "gemstone_d": 91
+  }
 }

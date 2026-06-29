@@ -1,13 +1,14 @@
 {
-    "id": 83,
-    "recipe_level": 3,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "mithril_hose_design": 7,
-        "leather": 45,
-        "cord": 45,
-        "crystal_d": 45,
-        "gemstone_d": 10
-    }
+  "id": 83,
+  "display_name": "Mithril Hose",
+  "recipe_level": 3,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "mithril_hose_design": 7,
+    "leather": 45,
+    "cord": 45,
+    "crystal_d": 45,
+    "gemstone_d": 10
+  }
 }

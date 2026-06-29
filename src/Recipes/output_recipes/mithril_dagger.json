@@ -1,14 +1,15 @@
 {
-    "id": 183,
-    "recipe_level": 4,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "mithril_dagger_blade": 8,
-        "steel_mold": 2,
-        "steel": 220,
-        "cokes": 220,
-        "crystal_d": 550,
-        "gemstone_d": 185
-    }
+  "id": 183,
+  "display_name": "Mithril Dagger",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "mithril_dagger_blade": 8,
+    "steel_mold": 2,
+    "steel": 220,
+    "cokes": 220,
+    "crystal_d": 550,
+    "gemstone_d": 185
+  }
 }

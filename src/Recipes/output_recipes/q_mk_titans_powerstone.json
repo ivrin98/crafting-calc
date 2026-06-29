@@ -1,9 +1,10 @@
 {
-    "id": 322,
-    "recipe_level": 2,
-    "success_rate": 25,
-    "outputqty": 1,
-    "materials": {
-        "q_bk_titan_powerstone": 1
-    }
+  "id": 322,
+  "display_name": "Q Mk Titans Powerstone",
+  "recipe_level": 2,
+  "success_rate": 25,
+  "outputqty": 1,
+  "materials": {
+    "q_bk_titan_powerstone": 1
+  }
 }

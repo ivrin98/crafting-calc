@@ -1,15 +1,16 @@
 {
-    "id": 202,
-    "recipe_level": 4,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "needle_wolverine_edge": 8,
-        "artisan_s_frame": 2,
-        "mithirl_alloy": 25,
-        "synthesis_cokes": 25,
-        "reinforcing_agent": 50,
-        "crystal_d": 700,
-        "gemstone_c": 81
-    }
+  "id": 202,
+  "display_name": "Needle Wolverine",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "needle_wolverine_edge": 8,
+    "artisan_s_frame": 2,
+    "mithirl_alloy": 25,
+    "synthesis_cokes": 25,
+    "reinforcing_agent": 50,
+    "crystal_d": 700,
+    "gemstone_c": 81
+  }
 }

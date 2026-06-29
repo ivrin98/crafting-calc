@@ -1,13 +1,14 @@
 {
-    "id": 74,
-    "recipe_level": 2,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "white_tunic_pattern": 5,
-        "leather": 40,
-        "cord": 20,
-        "crystal_d": 28,
-        "gemstone_d": 7
-    }
+  "id": 74,
+  "display_name": "White Tunic",
+  "recipe_level": 2,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "white_tunic_pattern": 5,
+    "leather": 40,
+    "cord": 20,
+    "crystal_d": 28,
+    "gemstone_d": 7
+  }
 }

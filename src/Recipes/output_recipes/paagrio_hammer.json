@@ -1,15 +1,16 @@
 {
-    "id": 233,
-    "recipe_level": 5,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "paagrio_hammer_head": 10,
-        "mithirl_alloy": 72,
-        "synthesis_cokes": 36,
-        "high_grade_suede": 18,
-        "reinforcing_agent": 90,
-        "crystal_c": 300,
-        "gemstone_c": 166
-    }
+  "id": 233,
+  "display_name": "Paagrio Hammer",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "paagrio_hammer_head": 10,
+    "mithirl_alloy": 72,
+    "synthesis_cokes": 36,
+    "high_grade_suede": 18,
+    "reinforcing_agent": 90,
+    "crystal_c": 300,
+    "gemstone_c": 166
+  }
 }

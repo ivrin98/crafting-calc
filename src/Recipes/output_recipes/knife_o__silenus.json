@@ -1,14 +1,15 @@
 {
-    "id": 159,
-    "recipe_level": 3,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "knife_o__silenus_edge": 6,
-        "steel_mold": 2,
-        "steel": 118,
-        "cokes": 118,
-        "crystal_d": 300,
-        "gemstone_d": 91
-    }
+  "id": 159,
+  "display_name": "Knife O  Silenus",
+  "recipe_level": 3,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "knife_o__silenus_edge": 6,
+    "steel_mold": 2,
+    "steel": 118,
+    "cokes": 118,
+    "crystal_d": 300,
+    "gemstone_d": 91
+  }
 }

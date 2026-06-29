@@ -1,14 +1,15 @@
 {
-    "id": 91,
-    "recipe_level": 4,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "sage_s_rag_lining": 8,
-        "leather": 140,
-        "cord": 70,
-        "braided_hemp": 35,
-        "crystal_d": 130,
-        "gemstone_d": 36
-    }
+  "id": 91,
+  "display_name": "Sage's Rag",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "sage_s_rag_lining": 8,
+    "leather": 140,
+    "cord": 70,
+    "braided_hemp": 35,
+    "crystal_d": 130,
+    "gemstone_d": 36
+  }
 }

@@ -1,11 +1,12 @@
 {
-    "id": 35,
-    "recipe_level": 2,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "coarse_bone_powder": 3,
-        "varnish": 3,
-        "stone_of_purity": 1
-    }
+  "id": 35,
+  "display_name": "Varnish Of Purity",
+  "recipe_level": 2,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "coarse_bone_powder": 3,
+    "varnish": 3,
+    "stone_of_purity": 1
+  }
 }

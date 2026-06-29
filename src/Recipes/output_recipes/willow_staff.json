@@ -1,12 +1,13 @@
 {
-    "id": 3,
-    "recipe_level": 1,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "willow_staff_head": 1,
-        "iron_ore": 12,
-        "animal_bone": 24,
-        "stem": 12
-    }
+  "id": 3,
+  "display_name": "Willow Staff",
+  "recipe_level": 1,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "willow_staff_head": 1,
+    "iron_ore": 12,
+    "animal_bone": 24,
+    "stem": 12
+  }
 }

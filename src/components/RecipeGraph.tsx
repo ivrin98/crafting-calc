@@ -29,7 +29,7 @@ export default function RecipeGraph({
           className={recipe ? "tree-card craftable" : "tree-card raw"}
           style={{ marginLeft: depth * 28 }}
         >
-          <strong>{recipeKey ?? normalized}</strong>
+          <strong>{recipe?.display_name ?? recipeKey ?? normalized}</strong>
           <span>Needed: {requiredQty}</span>
           <span>Owned: {owned}</span>
           <span>Missing: {missing}</span>

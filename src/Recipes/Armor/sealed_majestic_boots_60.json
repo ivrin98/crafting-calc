@@ -1,0 +1,17 @@
+{
+  "id": 543,
+  "display_name": "Sealed Majestic Boots 60%",
+  "recipe_level": 8,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sealed_magestic_boots_i": 1,
+    "sealed_magestic_boots_lining": 14,
+    "maestro_anvil_lock": 1,
+    "crafted_leather": 40,
+    "high_grade_suede": 24,
+    "asofe": 8,
+    "crystal_a": 11,
+    "gemstone_a": 3
+  }
+}

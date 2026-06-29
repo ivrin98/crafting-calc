@@ -1,13 +1,14 @@
 {
-    "id": 82,
-    "recipe_level": 3,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "mithril_tunic_fabric": 7,
-        "leather": 84,
-        "cord": 42,
-        "crystal_d": 70,
-        "gemstone_d": 17
-    }
+  "id": 82,
+  "display_name": "Mithril Tunic",
+  "recipe_level": 3,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "mithril_tunic_fabric": 7,
+    "leather": 84,
+    "cord": 42,
+    "crystal_d": 70,
+    "gemstone_d": 17
+  }
 }

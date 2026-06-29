@@ -1,9 +1,10 @@
 {
-    "id": 25,
-    "recipe_level": 1,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "animal_skin": 6
-    }
+  "id": 25,
+  "display_name": "Leather",
+  "recipe_level": 1,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "animal_skin": 6
+  }
 }

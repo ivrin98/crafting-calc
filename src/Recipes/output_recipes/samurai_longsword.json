@@ -1,15 +1,16 @@
 {
-    "id": 246,
-    "recipe_level": 6,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "samurai_longsword_blade": 11,
-        "artisan_s_frame": 3,
-        "mithirl_alloy": 82,
-        "synthesis_cokes": 41,
-        "reinforcing_agent": 164,
-        "crystal_c": 410,
-        "gemstone_c": 248
-    }
+  "id": 246,
+  "display_name": "Samurai Longsword",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "samurai_longsword_blade": 11,
+    "artisan_s_frame": 3,
+    "mithirl_alloy": 82,
+    "synthesis_cokes": 41,
+    "reinforcing_agent": 164,
+    "crystal_c": 410,
+    "gemstone_c": 248
+  }
 }

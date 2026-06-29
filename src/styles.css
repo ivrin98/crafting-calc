@@ -1,17 +1,5 @@
 body{font-family:Arial,sans-serif;margin:0} table td{padding:4px 12px;}
 
-.materials-table {
-  width: fit-content;
-  margin: 12px auto 28px auto;
-
-  border-collapse: separate;
-  border-spacing: 0;
-
-  background: #ffffff;
-  border: 1px solid #ddd;
-  border-radius: 10px;
-}
-
 .materials-table th,
 .materials-table td {
   border: 1px solid #ddd;
@@ -77,12 +65,28 @@ body{font-family:Arial,sans-serif;margin:0} table td{padding:4px 12px;}
   margin-bottom: 8px;
 }
 
-.selected-recipe-row select {
-  min-width: 260px;
+.recipe-select-wrapper {
+  width: 360px;
+  min-width: 360px;
+  max-width: 360px;
 }
 
-.selected-recipe-row input {
-  width: 80px;
+.recipe-select-wrapper > div {
+  width: 100%;
+}
+
+.recipe-select-wrapper {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  margin-bottom: 8px;
+  width: 360px;
+  min-width: 360px;
+  max-width: 360px;
+}
+
+.recipe-select-wrapper > div {
+  width: 100%;
 }
 
 .recipe-tree-grid {
@@ -100,6 +104,13 @@ body{font-family:Arial,sans-serif;margin:0} table td{padding:4px 12px;}
   border-radius: 8px;
 }
 
+.recipe-total-cost {
+  min-width: 220px;
+  padding: 8px 12px;
+  border: 2px solid #8b0015;
+  font-weight: 700;
+}
+
 body {
   background: #f7f7f7;
   color: #222;
@@ -112,10 +123,17 @@ body.dark {
 
 body.dark input,
 body.dark select,
+body.dark option,
 body.dark button {
   background: #1e1e1e;
   color: #eeeeee;
   border: 1px solid #555;
+}
+
+body.dark .recipe-select-wrapper,
+body.dark .recipe-select-wrapper *,
+body.dark h3 {
+  color: #eeeeee;
 }
 
 body.dark .materials-table th,

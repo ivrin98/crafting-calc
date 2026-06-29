@@ -1,10 +1,11 @@
 {
-    "id": 693,
-    "recipe_level": 1,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "fish_oil": 4,
-        "fish_scale": 4
-    }
+  "id": 693,
+  "display_name": "Quick Step Potion",
+  "recipe_level": 1,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "fish_oil": 4,
+    "fish_scale": 4
+  }
 }

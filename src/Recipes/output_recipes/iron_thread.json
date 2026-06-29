@@ -1,10 +1,11 @@
 {
-    "id": 607,
-    "recipe_level": 4,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "thread": 10,
-        "iron_ore": 5
-    }
+  "id": 607,
+  "display_name": "Iron Thread",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "thread": 10,
+    "iron_ore": 5
+  }
 }

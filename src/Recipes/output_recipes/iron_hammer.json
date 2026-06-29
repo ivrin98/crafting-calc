@@ -1,12 +1,13 @@
 {
-    "id": 145,
-    "recipe_level": 1,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "iron_hammer_head": 3,
-        "iron_ore": 260,
-        "coal": 260,
-        "suede": 130
-    }
+  "id": 145,
+  "display_name": "Iron Hammer",
+  "recipe_level": 1,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "iron_hammer_head": 3,
+    "iron_ore": 260,
+    "coal": 260,
+    "suede": 130
+  }
 }

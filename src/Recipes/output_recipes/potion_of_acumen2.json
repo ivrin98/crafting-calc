@@ -1,10 +1,11 @@
 {
-    "id": 697,
-    "recipe_level": 1,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "fish_oil": 10,
-        "fish_scale": 7
-    }
+  "id": 697,
+  "display_name": "Potion Of Acumen2%",
+  "recipe_level": 1,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "fish_oil": 10,
+    "fish_scale": 7
+  }
 }

@@ -1,11 +1,12 @@
 {
-    "id": 38,
-    "recipe_level": 4,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "varnish_of_purity": 1,
-        "steel": 2,
-        "mithril_ore": 1
-    }
+  "id": 38,
+  "display_name": "Mithirl Alloy",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "varnish_of_purity": 1,
+    "steel": 2,
+    "mithril_ore": 1
+  }
 }

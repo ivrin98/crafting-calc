@@ -1,15 +1,16 @@
 {
-    "id": 193,
-    "recipe_level": 4,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "scythe_edge": 8,
-        "mithirl_alloy": 40,
-        "synthesis_cokes": 20,
-        "high_grade_suede": 10,
-        "reinforcing_agent": 50,
-        "crystal_d": 700,
-        "gemstone_c": 81
-    }
+  "id": 193,
+  "display_name": "Scythe",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "scythe_edge": 8,
+    "mithirl_alloy": 40,
+    "synthesis_cokes": 20,
+    "high_grade_suede": 10,
+    "reinforcing_agent": 50,
+    "crystal_d": 700,
+    "gemstone_c": 81
+  }
 }

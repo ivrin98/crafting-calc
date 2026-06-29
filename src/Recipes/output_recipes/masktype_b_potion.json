@@ -1,12 +1,13 @@
 {
-    "id": 701,
-    "recipe_level": 3,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_masktype_b_potion": 1,
-        "fish_oil_average": 6,
-        "fish_scale": 50,
-        "shiny_fish_scale": 15
-    }
+  "id": 701,
+  "display_name": "Masktype B Potion",
+  "recipe_level": 3,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_masktype_b_potion": 1,
+    "fish_oil_average": 6,
+    "fish_scale": 50,
+    "shiny_fish_scale": 15
+  }
 }

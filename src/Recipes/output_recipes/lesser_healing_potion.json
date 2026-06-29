@@ -1,9 +1,10 @@
 {
-    "id": 686,
-    "recipe_level": 1,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "fish_oil": 2
-    }
+  "id": 686,
+  "display_name": "Lesser Healing Potion",
+  "recipe_level": 1,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "fish_oil": 2
+  }
 }

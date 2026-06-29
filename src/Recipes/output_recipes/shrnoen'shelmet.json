@@ -1,15 +1,16 @@
 {
-    "id": 434,
-    "recipe_level": 6,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_shrnoen_s_helmet": 1,
-        "shrnoen_s_helmet_design": 12,
-        "maestro_mold": 1,
-        "crafted_leather": 40,
-        "asofe": 4,
-        "crystal_c": 41,
-        "gemstone_b": 4
-    }
+  "id": 434,
+  "display_name": "Shrnoen'shelmet",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_shrnoen_s_helmet": 1,
+    "shrnoen_s_helmet_design": 12,
+    "maestro_mold": 1,
+    "crafted_leather": 40,
+    "asofe": 4,
+    "crystal_c": 41,
+    "gemstone_b": 4
+  }
 }

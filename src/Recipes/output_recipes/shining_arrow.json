@@ -1,10 +1,11 @@
 {
-    "id": 625,
-    "recipe_level": 5,
-    "success_rate": 100,
-    "outputqty": 500,
-    "materials": {
-        "mithril_ore": 2,
-        "braided_hemp": 4
-    }
+  "id": 625,
+  "display_name": "Shining Arrow",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 500,
+  "materials": {
+    "mithril_ore": 2,
+    "braided_hemp": 4
+  }
 }

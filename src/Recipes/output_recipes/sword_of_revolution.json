@@ -1,14 +1,15 @@
 {
-    "id": 165,
-    "recipe_level": 3,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "sword_of_revolution_blade": 7,
-        "steel_mold": 2,
-        "steel": 175,
-        "cokes": 175,
-        "crystal_d": 430,
-        "gemstone_d": 139
-    }
+  "id": 165,
+  "display_name": "Sword Of Revolution",
+  "recipe_level": 3,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "sword_of_revolution_blade": 7,
+    "steel_mold": 2,
+    "steel": 175,
+    "cokes": 175,
+    "crystal_d": 430,
+    "gemstone_d": 139
+  }
 }

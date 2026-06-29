@@ -1,14 +1,15 @@
 {
-    "id": 161,
-    "recipe_level": 3,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "tome_of_blood_page": 6,
-        "steel": 70,
-        "coarse_bone_powder": 140,
-        "braided_hemp": 70,
-        "crystal_d": 300,
-        "gemstone_d": 91
-    }
+  "id": 161,
+  "display_name": "Tome Of Blood",
+  "recipe_level": 3,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "tome_of_blood_page": 6,
+    "steel": 70,
+    "coarse_bone_powder": 140,
+    "braided_hemp": 70,
+    "crystal_d": 300,
+    "gemstone_d": 91
+  }
 }

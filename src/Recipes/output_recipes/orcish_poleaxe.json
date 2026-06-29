@@ -1,15 +1,16 @@
 {
-    "id": 253,
-    "recipe_level": 6,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "orcish_poleaxe_blade": 11,
-        "mithirl_alloy": 104,
-        "synthesis_cokes": 52,
-        "high_grade_suede": 26,
-        "reinforcing_agent": 130,
-        "crystal_c": 420,
-        "gemstone_c": 248
-    }
+  "id": 253,
+  "display_name": "Orcish Poleaxe",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "orcish_poleaxe_blade": 11,
+    "mithirl_alloy": 104,
+    "synthesis_cokes": 52,
+    "high_grade_suede": 26,
+    "reinforcing_agent": 130,
+    "crystal_c": 420,
+    "gemstone_c": 248
+  }
 }

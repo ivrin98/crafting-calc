@@ -1,10 +1,11 @@
 {
-    "id": 1,
-    "recipe_level": 1,
-    "success_rate": 100,
-    "outputqty": 500,
-    "materials": {
-        "stem": 4,
-        "iron_ore": 2
-    }
+  "id": 1,
+  "display_name": "Wooden Arrow",
+  "recipe_level": 1,
+  "success_rate": 100,
+  "outputqty": 500,
+  "materials": {
+    "stem": 4,
+    "iron_ore": 2
+  }
 }

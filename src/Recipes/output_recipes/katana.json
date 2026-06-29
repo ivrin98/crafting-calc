@@ -1,15 +1,16 @@
 {
-    "id": 209,
-    "recipe_level": 5,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "katana_blade": 9,
-        "artisan_s_frame": 2,
-        "mithirl_alloy": 33,
-        "synthesis_cokes": 33,
-        "reinforcing_agent": 66,
-        "crystal_c": 180,
-        "gemstone_c": 105
-    }
+  "id": 209,
+  "display_name": "Katana",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "katana_blade": 9,
+    "artisan_s_frame": 2,
+    "mithirl_alloy": 33,
+    "synthesis_cokes": 33,
+    "reinforcing_agent": 66,
+    "crystal_c": 180,
+    "gemstone_c": 105
+  }
 }

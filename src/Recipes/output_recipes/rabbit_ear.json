@@ -1,12 +1,13 @@
 {
-    "id": 779,
-    "recipe_level": 4,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_rabbit_ear": 1,
-        "rabbit_ear_fabric": 20,
-        "fish_gem": 300,
-        "shiny_fish_gem": 150
-    }
+  "id": 779,
+  "display_name": "Rabbit Ear",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_rabbit_ear": 1,
+    "rabbit_ear_fabric": 20,
+    "fish_gem": 300,
+    "shiny_fish_gem": 150
+  }
 }

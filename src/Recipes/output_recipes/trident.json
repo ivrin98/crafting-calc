@@ -1,13 +1,14 @@
 {
-    "id": 150,
-    "recipe_level": 2,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "trident_edge": 4,
-        "steel": 80,
-        "cokes": 40,
-        "high_grade_suede": 20,
-        "gemstone_d": 34
-    }
+  "id": 150,
+  "display_name": "Trident",
+  "recipe_level": 2,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "trident_edge": 4,
+    "steel": 80,
+    "cokes": 40,
+    "high_grade_suede": 20,
+    "gemstone_d": 34
+  }
 }
