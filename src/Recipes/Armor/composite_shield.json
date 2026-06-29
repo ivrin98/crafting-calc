@@ -1,0 +1,15 @@
+{
+  "id": 340,
+  "display_name": "Composite Shield",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "composite_shield_fragment": 10,
+    "mithril_alloy": 6,
+    "synthetic_cokes": 2,
+    "crafted_leather": 2,
+    "crystal_c": 17,
+    "gemstone_c": 7
+  }
+}

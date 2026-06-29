@@ -1,0 +1,19 @@
+{
+  "id": 805,
+  "display_name": "Spiritual Eye 100%",
+  "recipe_level": 7,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_spiritual_eye_100": 1,
+    "spiritual_eye_piece": 13,
+    "crystal_b": 415,
+    "enria": 61,
+    "gemstone_b": 143,
+    "mithril_alloy": 122,
+    "durable_metal_plate": 244,
+    "synthetic_cokes": 122,
+    "high_grade_suede": 61,
+    "warsmith's's_holder": 2
+  }
+}

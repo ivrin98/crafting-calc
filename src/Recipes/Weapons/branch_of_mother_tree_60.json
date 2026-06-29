@@ -1,0 +1,19 @@
+{
+  "id": 597,
+  "display_name": "Branch of The Mother Tree 60%",
+  "recipe_level": 8,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_branch_of_mother_tree_60": 1,
+    "branch_of_mother_tree_head": 14,
+    "maestro_holder": 3,
+    "oriharukon": 77,
+    "coarse_bone_powder": 154,
+    "compound_braid": 77,
+    "enria": 77,
+    "durable_metal_plate": 154,
+    "crystal_a": 193,
+    "gemstone_a": 74
+  }
+}

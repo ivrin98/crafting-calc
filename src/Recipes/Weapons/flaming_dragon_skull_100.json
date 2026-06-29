@@ -1,0 +1,19 @@
+{
+  "id": 807,
+  "display_name": "Flaming Dragon Skull 100%",
+  "recipe_level": 7,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_flaming_dragon_skull_100": 1,
+    "flaming_dragon_skull_piece": 14,
+    "crystal_a": 370,
+    "enria": 97,
+    "gemstone_a": 74,
+    "mithril_alloy": 194,
+    "durable_metal_plate": 388,
+    "synthetic_cokes": 194,
+    "high_grade_suede": 97,
+    "warsmith's's_holder": 2
+  }
+}

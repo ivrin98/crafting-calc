@@ -1,0 +1,17 @@
+{
+  "id": 398,
+  "display_name": "Blue Wolf Tunic 100%",
+  "recipe_level": 7,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_blue_wolf_tunic_100": 1,
+    "blue_wolf_tunic_fabric": 13,
+    "maestro_anvil_lock": 2,
+    "crafted_leather": 88,
+    "metallic_fiber": 44,
+    "asofe": 44,
+    "crystal_b": 73,
+    "gemstone_b": 14
+  }
+}

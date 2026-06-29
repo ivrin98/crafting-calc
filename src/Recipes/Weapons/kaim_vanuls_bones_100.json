@@ -1,0 +1,18 @@
+{
+  "id": 795,
+  "display_name": "Spell Breaker 100%",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_spell_breaker_100": 1,
+    "spell_breaker_head": 12,
+    "high_grade_suede": 59,
+    "crystal_c": 499,
+    "enria": 59,
+    "gemstone_b": 62,
+    "mithril_alloy": 118,
+    "synthetic_cokes": 118,
+    "maestro_holder": 3
+  }
+}

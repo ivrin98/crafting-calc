@@ -1,0 +1,14 @@
+{
+  "id": 290,
+  "display_name": "Plated Leather Gloves",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "plated_leather_gloves_design": 9,
+    "crafted_leather": 8,
+    "high_grade_suede": 1,
+    "crystal_c": 10,
+    "gemstone_c": 3
+  }
+}

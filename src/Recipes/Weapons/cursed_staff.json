@@ -1,0 +1,16 @@
+{
+  "id": 213,
+  "display_name": "Cursed Staff",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "cursed_staff_head": 9,
+    "oriharukon": 26,
+    "coarse_bone_powder": 52,
+    "compound_braid": 26,
+    "metal_hardener": 78,
+    "crystal_c": 180,
+    "gemstone_c": 105
+  }
+}

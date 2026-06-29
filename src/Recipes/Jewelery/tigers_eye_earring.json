@@ -1,0 +1,15 @@
+{
+  "id": 46,
+  "display_name": "Tiger's Eye Earring",
+  "recipe_level": 3,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "tigers_eye_earring_stone": 6,
+    "silver_mold": 1,
+    "cord": 30,
+    "varnish": 6,
+    "crystal_d": 22,
+    "gemstone_d": 4
+  }
+}

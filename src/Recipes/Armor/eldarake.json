@@ -1,0 +1,15 @@
+{
+  "id": 102,
+  "display_name": "Eldarake",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "eldarake_temper": 8,
+    "mithril_alloy": 3,
+    "synthetic_cokes": 1,
+    "crafted_leather": 1,
+    "crystal_d": 40,
+    "gemstone_c": 3
+  }
+}

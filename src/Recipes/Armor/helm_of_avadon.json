@@ -1,0 +1,14 @@
+{
+  "id": 139,
+  "display_name": "Helm of Avadon",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "helmet_o__avadon_design": 11,
+    "blacksmith's_frame": 1,
+    "crafted_leather": 26,
+    "crystal_c": 36,
+    "gemstone_c": 15
+  }
+}

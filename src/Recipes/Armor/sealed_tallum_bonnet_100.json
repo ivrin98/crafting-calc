@@ -1,12 +1,12 @@
 {
   "id": 566,
-  "display_name": "Sealed Tallum Bonnet 100%",
+  "display_name": "Sealed Tallum Helmet 100%",
   "recipe_level": 7,
   "success_rate": 100,
   "outputqty": 1,
   "materials": {
-    "recipe_sealed_tallum_bonnet": 1,
-    "sealed_tallum_bonnet_design": 13,
+    "recipe_sealed_tallum_helmet": 1,
+    "sealed_tallum_helmet_design": 13,
     "reorins_mold": 1,
     "crafted_leather": 90,
     "asofe": 9,

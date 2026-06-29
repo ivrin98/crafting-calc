@@ -1,0 +1,17 @@
+{
+  "id": 472,
+  "display_name": "Bow of Peril 60%",
+  "recipe_level": 7,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_bow_of_peril_60": 1,
+    "bow_of_peril_shaft": 13,
+    "crystal_b": 155,
+    "enria": 40,
+    "gemstone_b": 98,
+    "mithril_alloy": 200,
+    "compound_braid": 40,
+    "high_grade_suede": 40
+  }
+}

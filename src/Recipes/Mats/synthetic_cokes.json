@@ -1,0 +1,11 @@
+{
+  "id": 36,
+  "display_name": "Synthetic Cokes",
+  "recipe_level": 2,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "cokes": 3,
+    "oriharukon_ore": 1
+  }
+}

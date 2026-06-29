@@ -1,0 +1,16 @@
+{
+  "id": 251,
+  "display_name": "Great Pata",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "great_pata_blade": 11,
+    "mithril_alloy": 80,
+    "synthetic_cokes": 80,
+    "high_grade_suede": 40,
+    "metal_hardener": 160,
+    "crystal_c": 410,
+    "gemstone_c": 248
+  }
+}

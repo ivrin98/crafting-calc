@@ -1,0 +1,18 @@
+{
+  "id": 473,
+  "display_name": "Bow of Peril 100%",
+  "recipe_level": 7,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_bow_of_peril_100": 1,
+    "bow_of_peril_shaft": 13,
+    "crystal_b": 328,
+    "enria": 57,
+    "gemstone_b": 98,
+    "mithril_alloy": 285,
+    "high_grade_suede": 57,
+    "compound_braid": 57,
+    "maestro_holder": 3
+  }
+}

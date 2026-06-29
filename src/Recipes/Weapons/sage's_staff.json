@@ -1,0 +1,16 @@
+{
+  "id": 234,
+  "display_name": "Sage's Staff",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "sage_s_staff_head": 10,
+    "oriharukon": 37,
+    "coarse_bone_powder": 74,
+    "compound_braid": 37,
+    "metal_hardener": 111,
+    "crystal_c": 300,
+    "gemstone_c": 166
+  }
+}

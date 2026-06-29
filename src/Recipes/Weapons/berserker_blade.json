@@ -1,0 +1,16 @@
+{
+  "id": 573,
+  "display_name": "Berserker Blade",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "berserker_blade_edge": 11,
+    "artisan's_frame": 3,
+    "mithril_alloy": 86,
+    "synthetic_cokes": 43,
+    "metal_hardener": 172,
+    "crystal_c": 375,
+    "gemstone_c": 248
+  }
+}

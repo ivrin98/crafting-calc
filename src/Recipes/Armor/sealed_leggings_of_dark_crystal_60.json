@@ -1,0 +1,17 @@
+{
+  "id": 521,
+  "display_name": "Sealed Dark Crystal Leggings 60%",
+  "recipe_level": 7,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sealed_dark_crystal_leggings_60": 1,
+    "sealed_dark_crystal_leggings_design": 13,
+    "maestro_anvil_lock": 1,
+    "crafted_leather": 60,
+    "metallic_fiber": 36,
+    "asofe": 12,
+    "crystal_b": 22,
+    "gemstone_b": 43
+  }
+}

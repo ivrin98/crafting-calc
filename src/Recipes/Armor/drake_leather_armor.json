@@ -1,0 +1,15 @@
+{
+  "id": 125,
+  "display_name": "Drake Leather Armor",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "drake_leather_armor_texture": 11,
+    "crafted_leather": 96,
+    "metallic_fiber": 48,
+    "compound_braid": 24,
+    "crystal_c": 100,
+    "gemstone_c": 53
+  }
+}

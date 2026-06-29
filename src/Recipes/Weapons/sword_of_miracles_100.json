@@ -1,0 +1,18 @@
+{
+  "id": 602,
+  "display_name": "Sword Of Miracles 100%",
+  "recipe_level": 8,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sword_of_miracles_100": 1,
+    "sword_of_miracles_edge": 14,
+    "craftsman_mold": 4,
+    "mithril_alloy": 320,
+    "synthetic_cokes": 320,
+    "durable_metal_plate": 160,
+    "enria": 160,
+    "crystal_a": 372,
+    "gemstone_a": 74
+  }
+}

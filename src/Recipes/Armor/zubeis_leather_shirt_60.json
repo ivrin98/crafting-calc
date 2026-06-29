@@ -1,0 +1,16 @@
+{
+  "id": 361,
+  "display_name": "Zubei's Leather Shirt 60",
+  "recipe_level": 6,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_zubei's_leather_shirt_60": 1,
+    "zubei's_leather_shirt_fabric": 12,
+    "metallic_fiber": 20,
+    "crafted_leather": 40,
+    "asofe": 20,
+    "crystal_c": 65,
+    "gemstone_b": 9
+  }
+}

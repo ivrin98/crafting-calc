@@ -1,0 +1,17 @@
+{
+  "id": 615,
+  "display_name": "Sealed Majestic Earring 70%",
+  "recipe_level": 8,
+  "success_rate": 70,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sealed_majestic_earring_i": 1,
+    "sealed_majestic_earring_gemstone": 14,
+    "maestro_mold": 1,
+    "metallic_fiber": 65,
+    "varnish_of_purity": 39,
+    "thons": 13,
+    "crystal_a": 15,
+    "gemstone_a": 5
+  }
+}

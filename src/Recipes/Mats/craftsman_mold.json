@@ -1,0 +1,12 @@
+{
+  "id": 476,
+  "display_name": "Craftsman Mold",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "artisan's_frame": 2,
+    "mold_hardener": 20,
+    "enria": 5
+  }
+}

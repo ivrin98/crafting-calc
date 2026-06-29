@@ -1,0 +1,15 @@
+{
+  "id": 784,
+  "display_name": "Sword of Magic Fog",
+  "recipe_level": 3,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "sword_of_magic_fog_blade": 4,
+    "steel": 172,
+    "cokes": 172,
+    "steel_mold": 2,
+    "crystal_d": 430,
+    "gemstone_d": 139
+  }
+}

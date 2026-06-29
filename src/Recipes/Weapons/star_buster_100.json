@@ -1,0 +1,17 @@
+{
+  "id": 801,
+  "display_name": "Star Buster 100%",
+  "recipe_level": 7,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_star_buster_100": 1,
+    "star_buster_head": 13,
+    "high_grade_suede": 40,
+    "crystal_b": 168,
+    "enria": 40,
+    "gemstone_b": 98,
+    "mithril_alloy": 160,
+    "synthetic_cokes": 80
+  }
+}

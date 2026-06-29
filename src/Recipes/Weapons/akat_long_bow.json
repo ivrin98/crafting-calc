@@ -1,0 +1,16 @@
+{
+  "id": 240,
+  "display_name": "Akat Long Bow",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "akat_long_bow_shaft": 10,
+    "mithril_alloy": 85,
+    "compound_braid": 17,
+    "high_grade_suede": 17,
+    "metal_hardener": 102,
+    "crystal_c": 290,
+    "gemstone_c": 166
+  }
+}

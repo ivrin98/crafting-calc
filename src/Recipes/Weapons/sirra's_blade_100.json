@@ -1,0 +1,18 @@
+{
+  "id": 845,
+  "display_name": "Sirra's Blade 100%",
+  "recipe_level": 8,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sirra's_blade_100": 1,
+    "sirra's_blade_edge": 15,
+    "crystal_a": 480,
+    "enria": 210,
+    "gemstone_a": 100,
+    "mithril_alloy": 420,
+    "craftsman_mold": 4,
+    "durable_metal_plate": 210,
+    "synthetic_cokes": 420
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 202,
+  "display_name": "Wolverine Needle",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "needle_wolverine_edge": 8,
+    "artisan's_frame": 2,
+    "mithril_alloy": 25,
+    "synthetic_cokes": 25,
+    "metal_hardener": 50,
+    "crystal_d": 700,
+    "gemstone_c": 81
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 196,
+  "display_name": "Skull Graver",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "skull_graver_head": 8,
+    "mithril_alloy": 30,
+    "synthetic_cokes": 30,
+    "high_grade_suede": 15,
+    "metal_hardener": 60,
+    "crystal_d": 700,
+    "gemstone_c": 81
+  }
+}

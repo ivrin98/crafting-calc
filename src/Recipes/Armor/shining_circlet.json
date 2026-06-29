@@ -1,0 +1,14 @@
+{
+  "id": 121,
+  "display_name": "Shining Circlet",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "shining_circlet_pattern": 10,
+    "blacksmith's_frame": 1,
+    "crafted_leather": 14,
+    "crystal_c": 25,
+    "gemstone_c": 10
+  }
+}

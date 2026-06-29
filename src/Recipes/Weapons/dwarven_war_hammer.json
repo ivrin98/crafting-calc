@@ -1,0 +1,16 @@
+{
+  "id": 312,
+  "display_name": "Dwarven War Hammer",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "dwarven_warhammer_head": 9,
+    "mithril_alloy": 38,
+    "synthetic_cokes": 38,
+    "high_grade_suede": 19,
+    "metal_hardener": 76,
+    "crystal_c": 180,
+    "gemstone_c": 105
+  }
+}

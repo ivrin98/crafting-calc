@@ -5,8 +5,8 @@
   "success_rate": 100,
   "outputqty": 1,
   "materials": {
-    "recipe_sealed_dark_crystal_leather_mail": 1,
-    "sealed_dark_crystal_leather_mail_pattern": 13,
+    "recipe_sealed_dark_crystal_leather_armor": 1,
+    "sealed_dark_crystal_leather_armor_pattern": 13,
     "reorins_mold": 1,
     "crafted_leather": 180,
     "metallic_fiber": 108,

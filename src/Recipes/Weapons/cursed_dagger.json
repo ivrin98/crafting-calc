@@ -1,0 +1,16 @@
+{
+  "id": 201,
+  "display_name": "Cursed Dagger",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "cursed_dagger_blade": 8,
+    "artisan's_frame": 2,
+    "mithril_alloy": 25,
+    "synthetic_cokes": 25,
+    "metal_hardener": 50,
+    "crystal_d": 700,
+    "gemstone_c": 81
+  }
+}

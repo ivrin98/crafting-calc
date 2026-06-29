@@ -1,0 +1,19 @@
+{
+  "id": 594,
+  "display_name": "Halberd 100%",
+  "recipe_level": 7,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_halberd": 1,
+    "halberd_edge": 13,
+    "warsmith's_holder": 3,
+    "mithril_alloy": 172,
+    "synthetic_cokes": 86,
+    "high_grade_suede": 43,
+    "enria": 43,
+    "durable_metal_plate": 172,
+    "crystal_b": 419,
+    "gemstone_b": 143
+  }
+}

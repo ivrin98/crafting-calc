@@ -1,0 +1,16 @@
+{
+  "id": 790,
+  "display_name": "Karik Horn",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "karik_horn_piece": 10,
+    "mithril_alloy": 72,
+    "synthetic_cokes": 36,
+    "high_grade_suede": 18,
+    "metal_hardener": 90,
+    "crystal_c": 300,
+    "gemstone_c": 166
+  }
+}

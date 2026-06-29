@@ -1,0 +1,10 @@
+{
+  "id": 690,
+  "display_name": "Greater Antidote",
+  "recipe_level": 2,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "fish_oil": 3
+  }
+}

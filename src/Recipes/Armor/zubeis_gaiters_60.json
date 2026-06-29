@@ -1,0 +1,16 @@
+{
+  "id": 343,
+  "display_name": "Zubei's Gaiters 60",
+  "recipe_level": 6,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_zubei's_gaiters_60": 1,
+    "zubei's_gaiters_material": 12,
+    "blacksmith's_frame": 2,
+    "mithril_alloy": 12,
+    "asofe": 8,
+    "crystal_c": 45,
+    "gemstone_b": 7
+  }
+}

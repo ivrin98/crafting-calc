@@ -1,0 +1,16 @@
+{
+  "id": 205,
+  "display_name": "Crystallized Ice Bow",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "crystallized_ice_bow_shaft": 8,
+    "mithril_alloy": 45,
+    "compound_braid": 9,
+    "high_grade_suede": 9,
+    "metal_hardener": 54,
+    "crystal_d": 700,
+    "gemstone_c": 81
+  }
+}

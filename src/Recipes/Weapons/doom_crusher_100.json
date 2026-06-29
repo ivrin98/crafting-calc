@@ -1,0 +1,19 @@
+{
+  "id": 809,
+  "display_name": "Doom Crusher 100%",
+  "recipe_level": 7,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_doom_crusher_100": 1,
+    "doom_crusher_head": 14,
+    "crystal_a": 193,
+    "enria": 37,
+    "gemstone_a": 74,
+    "mithril_alloy": 148,
+    "durable_metal_plate": 148,
+    "synthetic_cokes": 74,
+    "high_grade_suede": 37,
+    "maestro_holder": 4
+  }
+}

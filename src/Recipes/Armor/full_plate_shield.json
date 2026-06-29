@@ -1,0 +1,15 @@
+{
+  "id": 310,
+  "display_name": "Full Plate Shield",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "full_plate_shield_fragment": 11,
+    "mithril_alloy": 9,
+    "synthetic_cokes": 3,
+    "crafted_leather": 3,
+    "crystal_c": 25,
+    "gemstone_c": 10
+  }
+}

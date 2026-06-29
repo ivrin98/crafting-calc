@@ -1,0 +1,17 @@
+{
+  "id": 560,
+  "display_name": "Sealed Majestic Plate Armor 100%",
+  "recipe_level": 8,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sealed_majestic_plate_armor_100": 1,
+    "sealed_majestic_plate_armor_pattern": 14,
+    "arcsmith_anvil": 4,
+    "mithril_alloy": 141,
+    "varnish_of_purity": 47,
+    "asofe": 94,
+    "crystal_a": 104,
+    "gemstone_a": 23
+  }
+}

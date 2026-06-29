@@ -1,0 +1,16 @@
+{
+  "id": 429,
+  "display_name": "Zubei's Gauntlets 60",
+  "recipe_level": 6,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_zubei's_gauntlets_60": 1,
+    "zubei's_gauntlets_part": 12,
+    "high_grade_suede": 2,
+    "crafted_leather": 16,
+    "asofe": 2,
+    "crystal_c": 25,
+    "gemstone_b": 2
+  }
+}

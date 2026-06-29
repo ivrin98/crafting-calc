@@ -1,0 +1,14 @@
+{
+  "id": 122,
+  "display_name": "Theca Leather Armor",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "theca_leather_armor_pattern": 10,
+    "crafted_leather": 54,
+    "metallic_fiber": 27,
+    "crystal_c": 55,
+    "gemstone_c": 25
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 390,
+  "display_name": "Blue Wolf Gaiters 100%",
+  "recipe_level": 7,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_blue_wolf_gaiters_100": 1,
+    "blue_wolf_gaiters_material": 13,
+    "maestro_mold": 2,
+    "mithril_alloy": 36,
+    "asofe": 24,
+    "crystal_b": 49,
+    "gemstone_b": 12
+  }
+}

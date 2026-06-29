@@ -1,0 +1,16 @@
+{
+  "id": 203,
+  "display_name": "Dark Elven Dagger",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "dark_elven_dagger_edge": 5,
+    "artisan's_frame": 2,
+    "crystal_d": 700,
+    "gemstone_c": 81,
+    "metal_hardener": 50,
+    "mithril_alloy": 25,
+    "synthetic_cokes": 25
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 847,
+  "display_name": "Sword of Ipos 100%",
+  "recipe_level": 8,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sword_of_ipos_100": 1,
+    "sword_of_ipos_blade": 15,
+    "crystal_a": 468,
+    "enria": 234,
+    "gemstone_a": 100,
+    "mithril_alloy": 468,
+    "craftsman_mold": 4,
+    "durable_metal_plate": 234,
+    "synthetic_cokes": 234
+  }
+}

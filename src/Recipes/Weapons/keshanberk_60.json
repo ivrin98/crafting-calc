@@ -1,0 +1,17 @@
+{
+  "id": 444,
+  "display_name": "Keshanberk 60%",
+  "recipe_level": 6,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_keshanberk_60": 1,
+    "keshanberk_blade": 12,
+    "artisan's_frame": 2,
+    "crystal_c": 360,
+    "enria": 36,
+    "gemstone_b": 62,
+    "mithril_alloy": 72,
+    "synthetic_cokes": 72
+  }
+}

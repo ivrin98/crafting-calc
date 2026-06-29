@@ -1,0 +1,13 @@
+{
+  "id": 314,
+  "display_name": "Key of Titan",
+  "recipe_level": 1,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "stakato_shell": 20,
+    "toad_lord_sac": 10,
+    "spider_thorn": 10,
+    "crystal_d": 10
+  }
+}

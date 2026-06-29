@@ -1,0 +1,16 @@
+{
+  "id": 238,
+  "display_name": "Dark Screamer",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "dark_screamer_edge": 10,
+    "artisan's_frame": 2,
+    "mithril_alloy": 50,
+    "synthetic_cokes": 50,
+    "metal_hardener": 100,
+    "crystal_c": 300,
+    "gemstone_c": 166
+  }
+}

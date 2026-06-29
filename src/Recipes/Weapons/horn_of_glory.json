@@ -1,0 +1,16 @@
+{
+  "id": 219,
+  "display_name": "Horn Of Glory",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "horn_of_glory_fragment": 9,
+    "oriharukon": 26,
+    "coarse_bone_powder": 52,
+    "compound_braid": 26,
+    "metal_hardener": 78,
+    "crystal_c": 180,
+    "gemstone_c": 105
+  }
+}

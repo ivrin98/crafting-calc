@@ -1,0 +1,15 @@
+{
+  "id": 783,
+  "display_name": "Steel Sword",
+  "recipe_level": 2,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "steel_sword_blade": 4,
+    "steel": 60,
+    "cokes": 30,
+    "steel_mold": 3,
+    "crystal_d": 117,
+    "gemstone_d": 34
+  }
+}

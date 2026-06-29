@@ -1,0 +1,16 @@
+{
+  "id": 792,
+  "display_name": "Ecliptic Sword",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "ecliptic_sword_blade": 11,
+    "artisan's_frame": 2,
+    "crystal_c": 410,
+    "gemstone_c": 248,
+    "metal_hardener": 152,
+    "mithril_alloy": 76,
+    "synthetic_cokes": 76
+  }
+}

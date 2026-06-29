@@ -1,0 +1,12 @@
+{
+  "id": 477,
+  "display_name": "Maestro Mold",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "blacksmith's_frame": 1,
+    "mold_glue": 10,
+    "asofe": 5
+  }
+}

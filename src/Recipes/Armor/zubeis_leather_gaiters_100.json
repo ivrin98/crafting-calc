@@ -1,0 +1,17 @@
+{
+  "id": 364,
+  "display_name": "Zubei's Leather Gaiters 100",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_zubei's_leather_gaiters_100": 1,
+    "zubei's_leather_gaiters_texture": 12,
+    "metallic_fiber": 29,
+    "crafted_leather": 29,
+    "maestro_anvil_lock": 1,
+    "asofe": 29,
+    "crystal_c": 70,
+    "gemstone_b": 5
+  }
+}

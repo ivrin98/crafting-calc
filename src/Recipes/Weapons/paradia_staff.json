@@ -1,0 +1,16 @@
+{
+  "id": 231,
+  "display_name": "Paradia Staff",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "paradia_staff_head": 10,
+    "oriharukon": 37,
+    "coarse_bone_powder": 74,
+    "compound_braid": 37,
+    "metal_hardener": 111,
+    "crystal_c": 300,
+    "gemstone_c": 166
+  }
+}

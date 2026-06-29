@@ -1,0 +1,15 @@
+{
+  "id": 185,
+  "display_name": "Light Crossbow",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "light_crossbowbow_shaft": 8,
+    "steel": 275,
+    "braided_hemp": 55,
+    "high_grade_suede": 55,
+    "crystal_d": 550,
+    "gemstone_d": 185
+  }
+}

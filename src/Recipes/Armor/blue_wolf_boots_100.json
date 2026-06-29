@@ -1,0 +1,17 @@
+{
+  "id": 410,
+  "display_name": "Blue Wolf Boots 100%",
+  "recipe_level": 7,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_blue_wolf_boots_100": 1,
+    "blue_wolf_boots_design": 13,
+    "maestro_anvil_lock": 1,
+    "crafted_leather": 48,
+    "high_grade_suede": 6,
+    "asofe": 6,
+    "crystal_b": 15,
+    "gemstone_b": 4
+  }
+}

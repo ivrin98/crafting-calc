@@ -1,0 +1,17 @@
+{
+  "id": 647,
+  "display_name": "Sealed Tateossian Earring 100%",
+  "recipe_level": 9,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sealed_tateossian_earring_100": 1,
+    "sealed_tateossian_earring_part": 17,
+    "warsmith's_mold": 1,
+    "metallic_fiber": 195,
+    "varnish_of_purity": 117,
+    "thons": 39,
+    "crystal_s": 29,
+    "gemstone_s": 3
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 236,
+  "display_name": "Mace of The Underworld",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "mace_of_underworld_head": 10,
+    "mithril_alloy": 54,
+    "synthetic_cokes": 54,
+    "high_grade_suede": 27,
+    "metal_hardener": 108,
+    "crystal_c": 300,
+    "gemstone_c": 166
+  }
+}

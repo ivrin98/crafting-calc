@@ -1,0 +1,16 @@
+{
+  "id": 369,
+  "display_name": "Stockings of Zubei 60%",
+  "recipe_level": 6,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_stockings_of_zubei_60": 1,
+    "stockings_of_zubei_fabric": 12,
+    "crafted_leather": 20,
+    "metallic_fiber": 20,
+    "asofe": 20,
+    "crystal_c": 34,
+    "gemstone_b": 5
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": 788,
+  "display_name": "Titan Hammer",
+  "recipe_level": 3,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "titan_hammer_piece": 7,
+    "steel": 176,
+    "cokes": 88,
+    "high_grade_suede": 44,
+    "crystal_d": 430,
+    "gemstone_d": 139
+  }
+}

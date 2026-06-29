@@ -1,0 +1,17 @@
+{
+  "id": 370,
+  "display_name": "Stockings of Zubei 100%",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_stockings_of_zubei_60": 1,
+    "stockings_of_zubei_fabric": 12,
+    "maestro_anvil_lock": 1,
+    "crafted_leather": 29,
+    "metallic_fiber": 29,
+    "asofe": 20,
+    "crystal_c": 34,
+    "gemstone_b": 5
+  }
+}

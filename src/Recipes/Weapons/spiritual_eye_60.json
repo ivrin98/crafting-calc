@@ -1,0 +1,19 @@
+{
+  "id": 804,
+  "display_name": "Spiritual Eye 60%",
+  "recipe_level": 8,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_spiritual_eye_60": 1,
+    "spiritual_eye_piece": 13,
+    "crystal_b": 215,
+    "enria": 30,
+    "gemstone_b": 143,
+    "mithril_alloy": 60,
+    "maestro_holder": 3,
+    "durable_metal_plate": 120,
+    "synthetic_cokes": 60,
+    "high_grade_suede": 30
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 198,
+  "display_name": "Crystal Staff",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "crystal_staff_head": 8,
+    "oriharukon": 20,
+    "coarse_bone_powder": 40,
+    "compound_braid": 20,
+    "metal_hardener": 60,
+    "crystal_d": 700,
+    "gemstone_c": 81
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 235,
+  "display_name": "Club Of Nature",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "club_of_nature_head": 10,
+    "oriharukon": 37,
+    "coarse_bone_powder": 74,
+    "compound_braid": 37,
+    "metal_hardener": 111,
+    "crystal_c": 300,
+    "gemstone_c": 166
+  }
+}

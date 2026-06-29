@@ -1,0 +1,18 @@
+{
+  "id": 396,
+  "display_name": "Leather Armor Of Doom 100%",
+  "recipe_level": 7,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_leather_armor_of_doom": 1,
+    "leather_armor_of_doom_design": 12,
+    "maestro_anvil_lock": 3,
+    "crafted_leather": 140,
+    "metallic_fiber": 70,
+    "compound_braid": 35,
+    "asofe": 35,
+    "crystal_b": 107,
+    "gemstone_b": 22
+  }
+}

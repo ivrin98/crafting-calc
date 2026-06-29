@@ -1,0 +1,16 @@
+{
+  "id": 344,
+  "display_name": "Zubei's Gaiters 100",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_zubei's_gaiters_100": 1,
+    "zubei's_gaiters_material": 12,
+    "maestro_mold": 2,
+    "mithril_alloy": 21,
+    "asofe": 14,
+    "crystal_c": 72,
+    "gemstone_b": 7
+  }
+}

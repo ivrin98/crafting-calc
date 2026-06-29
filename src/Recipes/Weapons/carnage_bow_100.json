@@ -1,0 +1,19 @@
+{
+  "id": 582,
+  "display_name": "Carnage Bow 100%",
+  "recipe_level": 7,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_carnage_bow": 1,
+    "carnage_bow_shaft": 13,
+    "warsmith's_holder": 2,
+    "mithril_alloy": 305,
+    "compound_braid": 61,
+    "high_grade_suede": 61,
+    "enria": 61,
+    "durable_metal_plate": 122,
+    "crystal_b": 421,
+    "gemstone_b": 143
+  }
+}

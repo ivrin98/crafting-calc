@@ -1,0 +1,17 @@
+{
+  "id": 810,
+  "display_name": "Guardian Sword 60%",
+  "recipe_level": 7,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_guardian_sword_60": 1,
+    "guardian_sword_blade": 13,
+    "artisan's_frame": 3,
+    "crystal_b": 159,
+    "enria": 67,
+    "gemstone_b": 98,
+    "mithril_alloy": 134,
+    "synthetic_cokes": 67
+  }
+}

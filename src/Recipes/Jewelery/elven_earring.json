@@ -1,0 +1,15 @@
+{
+  "id": 47,
+  "display_name": "Elven Earring",
+  "recipe_level": 3,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "elven_earring_beads": 7,
+    "silver_mold": 1,
+    "cord": 60,
+    "varnish": 12,
+    "crystal_d": 30,
+    "gemstone_d": 6
+  }
+}

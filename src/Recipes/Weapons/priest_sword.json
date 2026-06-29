@@ -1,0 +1,15 @@
+{
+  "id": 784,
+  "display_name": "Priest Sword",
+  "recipe_level": 2,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "priest_sword_blade": 4,
+    "steel": 50,
+    "cokes": 50,
+    "steel_mold": 2,
+    "crystal_d": 117,
+    "gemstone_d": 34
+  }
+}

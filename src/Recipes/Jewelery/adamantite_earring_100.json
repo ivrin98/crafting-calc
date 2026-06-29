@@ -1,0 +1,17 @@
+{
+  "id": 329,
+  "display_name": "Adamantite Earring 100%",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_adamantite_earring": 1,
+    "adamantite_earring_gemstone": 12,
+    "maestro_mold": 1,
+    "metallic_fiber": 40,
+    "varnish_of_purity": 8,
+    "thons": 8,
+    "crystal_c": 35,
+    "gemstone_b": 4
+  }
+}

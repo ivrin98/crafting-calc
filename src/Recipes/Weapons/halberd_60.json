@@ -1,0 +1,19 @@
+{
+  "id": 593,
+  "display_name": "Halberd 60%",
+  "recipe_level": 7,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_halberd_i": 1,
+    "halberd_edge": 13,
+    "maestro_holder": 4,
+    "mithril_alloy": 84,
+    "synthetic_cokes": 42,
+    "high_grade_suede": 21,
+    "enria": 21,
+    "durable_metal_plate": 84,
+    "crystal_b": 222,
+    "gemstone_b": 143
+  }
+}

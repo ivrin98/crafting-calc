@@ -1,0 +1,16 @@
+{
+  "id": 816,
+  "display_name": "Dwarven Hammer",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "dwarven_hammer_piece": 11,
+    "mithril_alloy": 104,
+    "synthetic_cokes": 52,
+    "high_grade_suede": 26,
+    "metal_hardener": 130,
+    "crystal_c": 420,
+    "gemstone_c": 248
+  }
+}

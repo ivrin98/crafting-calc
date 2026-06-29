@@ -1,0 +1,18 @@
+{
+  "id": 520,
+  "display_name": "Sealed Majestic Leather Armor 100%",
+  "recipe_level": 8,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sealed_majestic_leather_armor_100": 1,
+    "sealed_majestic_leather_armor_fabric": 14,
+    "arcsmith_anvil": 1,
+    "crafted_leather": 400,
+    "metallic_fiber": 200,
+    "compound_braid": 100,
+    "asofe": 100,
+    "crystal_a": 87,
+    "gemstone_a": 17
+  }
+}

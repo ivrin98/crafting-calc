@@ -1,0 +1,19 @@
+{
+  "id": 812,
+  "display_name": "Destroyer Hammer 60%",
+  "recipe_level": 7,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_destroyer_hammer_60": 1,
+    "hammer_piece_of_destroyer": 13,
+    "crystal_b": 222,
+    "enria": 21,
+    "gemstone_b": 143,
+    "mithril_alloy": 84,
+    "maestro_holder": 4,
+    "durable_metal_plate": 84,
+    "synthetic_cokes": 42,
+    "high_grade_suede": 21
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 522,
+  "display_name": "Sealed Dark Crystal Leggings 100%",
+  "recipe_level": 7,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sealed_dark_crystal_leggings_100": 1,
+    "sealed_dark_crystal_leggings_design": 13,
+    "reorins_mold": 1,
+    "crafted_leather": 100,
+    "metallic_fiber": 60,
+    "asofe": 20,
+    "crystal_b": 44,
+    "gemstone_b": 39
+  }
+}

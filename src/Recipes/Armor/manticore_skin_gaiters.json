@@ -1,0 +1,14 @@
+{
+  "id": 81,
+  "display_name": "Manticore Skin Gaiters",
+  "recipe_level": 3,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "manticore_skin_gaiters_pattern": 7,
+    "leather": 45,
+    "cord": 45,
+    "crystal_d": 45,
+    "gemstone_d": 10
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": 495,
+  "display_name": "Knuckle Duster",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "knuckle_dust_edge": 9,
+    "mithril_alloy": 54,
+    "synthetic_cokes": 54,
+    "high_grade_suede": 27,
+    "crystal_c": 200,
+    "gemstone_c": 105
+  }
+}

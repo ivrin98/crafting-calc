@@ -1,0 +1,16 @@
+{
+  "id": 218,
+  "display_name": "Tears Of Fairy",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "tears_of_fairy_drop": 9,
+    "oriharukon": 26,
+    "coarse_bone_powder": 52,
+    "compound_braid": 26,
+    "metal_hardener": 78,
+    "crystal_c": 180,
+    "gemstone_c": 105
+  }
+}

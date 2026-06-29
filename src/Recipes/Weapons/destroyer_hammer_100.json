@@ -1,0 +1,19 @@
+{
+  "id": 813,
+  "display_name": "Destroyer Hammer 100%",
+  "recipe_level": 7,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_destroyer_hammer_100": 1,
+    "hammer_piece_of_destroyer": 13,
+    "crystal_b": 419,
+    "enria": 43,
+    "gemstone_b": 143,
+    "mithril_alloy": 172,
+    "warsmith's's holder": 3,
+    "durable_metal_plate": 172,
+    "synthetic_cokes": 86,
+    "high_grade_suede": 43
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 797,
+  "display_name": "Ice Storm Hammer 100%",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_ice_storm_hammer_100": 1,
+    "ice_storm_hammer_head": 12,
+    "high_grade_suede": 40,
+    "crystal_c": 353,
+    "enria": 40,
+    "gemstone_b": 62,
+    "mithril_alloy": 160,
+    "synthetic_cokes": 80,
+    "maestro_holder": 4
+  }
+}

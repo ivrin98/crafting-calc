@@ -1,0 +1,16 @@
+{
+  "id": 385,
+  "display_name": "Blue Wolf Breastplate 60%",
+  "recipe_level": 7,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_blue_wolf_breastplate_60": 1,
+    "blue_wolf_breastplate_part": 13,
+    "blacksmith's_frame": 3,
+    "mithril_alloy": 36,
+    "asofe": 24,
+    "crystal_b": 40,
+    "gemstone_b": 20
+  }
+}

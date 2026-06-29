@@ -1,0 +1,16 @@
+{
+  "id": 341,
+  "display_name": "Zubei's Breastplate 60",
+  "recipe_level": 6,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_zubei's_breastplate_60": 1,
+    "zubei's_breastplate_part": 12,
+    "blacksmith's_frame": 3,
+    "mithril_alloy": 18,
+    "asofe": 12,
+    "crystal_c": 82,
+    "gemstone_b": 12
+  }
+}

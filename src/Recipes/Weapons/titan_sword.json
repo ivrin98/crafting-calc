@@ -1,0 +1,15 @@
+{
+  "id": 785,
+  "display_name": "Titan Sword",
+  "recipe_level": 3,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "titan_sword_blade": 4,
+    "steel": 210,
+    "cokes": 105,
+    "steel_mold": 3,
+    "crystal_d": 430,
+    "gemstone_d": 139
+  }
+}

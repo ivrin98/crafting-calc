@@ -1,0 +1,15 @@
+{
+  "id": 50,
+  "display_name": "Omen Beast's Eye Earring",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "omen_beasts_eye_earring_gemstone": 8,
+    "silver_mold": 1,
+    "cord": 90,
+    "varnish": 18,
+    "crystal_d": 40,
+    "gemstone_d": 8
+  }
+}

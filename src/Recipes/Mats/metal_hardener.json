@@ -1,0 +1,12 @@
+{
+  "id": 497,
+  "display_name": "Metal Hardener",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "stem": 10,
+    "varnish": 10,
+    "iron_ore": 10
+  }
+}

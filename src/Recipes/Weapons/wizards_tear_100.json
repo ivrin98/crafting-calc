@@ -1,0 +1,17 @@
+{
+  "id": 799,
+  "display_name": "Wizard's Tear 100%",
+  "recipe_level": 7,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_wizards_tear_100": 1,
+    "blade_of_wizards_tear": 13,
+    "craftsman_mold": 2,
+    "crystal_b": 341,
+    "enria": 86,
+    "gemstone_b": 98,
+    "mithril_alloy": 172,
+    "synthetic_cokes": 172
+  }
+}

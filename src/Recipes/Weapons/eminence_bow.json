@@ -1,0 +1,16 @@
+{
+  "id": 252,
+  "display_name": "Eminence Bow",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "eminence_bow_shaft": 11,
+    "mithril_alloy": 120,
+    "compound_braid": 24,
+    "high_grade_suede": 24,
+    "metal_hardener": 144,
+    "crystal_c": 420,
+    "gemstone_c": 248
+  }
+}

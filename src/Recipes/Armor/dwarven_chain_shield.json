@@ -1,0 +1,15 @@
+{
+  "id": 291,
+  "display_name": "Dwarven Chain Shield",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "dwarven_chain_shield_fragment": 9,
+    "mithril_alloy": 3,
+    "synthetic_cokes": 1,
+    "crafted_leather": 1,
+    "crystal_c": 12,
+    "gemstone_c": 4
+  }
+}

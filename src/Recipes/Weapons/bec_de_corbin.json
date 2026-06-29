@@ -1,0 +1,16 @@
+{
+  "id": 210,
+  "display_name": "Bec de Corbin",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "bec_de_corbin_blade": 9,
+    "crystal_c": 170,
+    "gemstone_c": 105,
+    "metal_hardener": 65,
+    "mithril_alloy": 52,
+    "synthetic_cokes": 26,
+    "high_grade_suede": 13
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": 80,
+  "display_name": "Manticore Skin Shirt",
+  "recipe_level": 3,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "manticore_skin_shirt_texture": 7,
+    "leather": 84,
+    "cord": 42,
+    "crystal_d": 70,
+    "gemstone_d": 17
+  }
+}

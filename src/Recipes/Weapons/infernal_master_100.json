@@ -1,0 +1,18 @@
+{
+  "id": 815,
+  "display_name": "Infernal Master 100%",
+  "recipe_level": 7,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_infernal_master_100": 1,
+    "infernal_master_blade": 13,
+    "crystal_b": 417,
+    "enria": 98,
+    "gemstone_b": 143,
+    "mithril_alloy": 196,
+    "craftsman_mold": 4,
+    "durable_metal_plate": 98,
+    "synthetic_cokes": 98
+  }
+}

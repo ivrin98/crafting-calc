@@ -1,0 +1,18 @@
+{
+  "id": 394,
+  "display_name": "Blue Wolf Leather Armor 100%",
+  "recipe_level": 7,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_blue_wolf_leather_armor_100": 1,
+    "blue_wolf_leather_armor_texture": 12,
+    "maestro_anvil_lock": 3,
+    "crafted_leather": 140,
+    "metallic_fiber": 75,
+    "compound_braid": 35,
+    "asofe": 35,
+    "crystal_b": 107,
+    "gemstone_b": 22
+  }
+}

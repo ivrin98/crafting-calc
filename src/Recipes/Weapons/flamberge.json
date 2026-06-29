@@ -1,0 +1,16 @@
+{
+  "id": 190,
+  "display_name": "Flamberge",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "flamberge_blade": 8,
+    "artisan's_frame": 3,
+    "mithril_alloy": 24,
+    "synthetic_cokes": 12,
+    "metal_hardener": 48,
+    "crystal_d": 700,
+    "gemstone_c": 81
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": 110,
+  "display_name": "Knight's Shield",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "knight's_shield_fragment": 9,
+    "mithril_alloy": 4,
+    "synthetic_cokes": 1,
+    "crafted_leather": 1,
+    "crystal_c": 12,
+    "gemstone_c": 4
+  }
+}

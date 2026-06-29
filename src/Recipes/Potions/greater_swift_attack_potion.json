@@ -1,0 +1,11 @@
+{
+  "id": 696,
+  "display_name": "Greater Swift Attack Potion",
+  "recipe_level": 3,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "fish_oil_average": 10,
+    "fish_scale": 12
+  }
+}

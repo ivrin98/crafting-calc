@@ -1,0 +1,16 @@
+{
+  "id": 789,
+  "display_name": "Pa'agrian Sword",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "pa'agrian_sword_blade": 10,
+    "artisan's_frame": 3,
+    "crystal_c": 300,
+    "gemstone_c": 166,
+    "metal_hardener": 104,
+    "mithril_alloy": 52,
+    "synthetic_cokes": 26
+  }
+}

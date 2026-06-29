@@ -1,0 +1,16 @@
+{
+  "id": 406,
+  "display_name": "Blue Wolf Helmet 100%",
+  "recipe_level": 7,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_blue_wolf_helmet_100": 1,
+    "blue_wolf_helmet_design": 13,
+    "maestro_mold": 1,
+    "crafted_leather": 50,
+    "asofe": 5,
+    "crystal_b": 39,
+    "gemstone_b": 7
+  }
+}

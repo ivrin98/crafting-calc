@@ -1,0 +1,16 @@
+{
+  "id": 195,
+  "display_name": "War Pick",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "war_pick_head": 8,
+    "mithril_alloy": 30,
+    "synthetic_cokes": 30,
+    "high_grade_suede": 15,
+    "metal_hardener": 60,
+    "crystal_d": 700,
+    "gemstone_c": 81
+  }
+}

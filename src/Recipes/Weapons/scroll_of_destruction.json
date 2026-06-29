@@ -1,0 +1,16 @@
+{
+  "id": 258,
+  "display_name": "Scroll Of Destruction",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "scroll_of_destruction_page": 11,
+    "oriharukon": 54,
+    "coarse_bone_powder": 108,
+    "compound_braid": 54,
+    "metal_hardener": 162,
+    "crystal_c": 410,
+    "gemstone_c": 248
+  }
+}

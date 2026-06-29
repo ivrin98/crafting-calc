@@ -1,0 +1,16 @@
+{
+  "id": 244,
+  "display_name": "Scorpion",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "scorpion_blade": 10,
+    "mithril_alloy": 80,
+    "synthetic_cokes": 40,
+    "high_grade_suede": 20,
+    "metal_hardener": 100,
+    "crystal_c": 330,
+    "gemstone_c": 187
+  }
+}

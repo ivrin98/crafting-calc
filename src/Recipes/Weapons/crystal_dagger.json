@@ -1,0 +1,16 @@
+{
+  "id": 250,
+  "display_name": "Crystal Dagger",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "crystal_dagger_blade": 11,
+    "artisan's_frame": 2,
+    "mithril_alloy": 76,
+    "synthetic_cokes": 76,
+    "metal_hardener": 152,
+    "crystal_c": 410,
+    "gemstone_c": 248
+  }
+}

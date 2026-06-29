@@ -1,0 +1,16 @@
+{
+  "id": 228,
+  "display_name": "War Axe",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "war_axe_blade": 10,
+    "mithril_alloy": 54,
+    "synthetic_cokes": 54,
+    "high_grade_suede": 27,
+    "metal_hardener": 108,
+    "crystal_c": 300,
+    "gemstone_c": 166
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 800,
+  "display_name": "Kaim Vanul's Bones 60%",
+  "recipe_level": 7,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_kaim_vanuls_bones_60": 1,
+    "bones_head_of_kaim_vanul": 13,
+    "high_grade_suede": 60,
+    "crystal_b": 165,
+    "enria": 60,
+    "gemstone_b": 98,
+    "mithril_alloy": 120,
+    "synthetic_cokes": 120
+  }
+}

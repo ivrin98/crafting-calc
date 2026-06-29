@@ -1,0 +1,15 @@
+{
+  "id": 289,
+  "display_name": "Chain Shield",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "chain_shield_fragment": 8,
+    "mithril_alloy": 3,
+    "synthetic_cokes": 1,
+    "crafted_leather": 1,
+    "crystal_d": 40,
+    "gemstone_c": 3
+  }
+}
