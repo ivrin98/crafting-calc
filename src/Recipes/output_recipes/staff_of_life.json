@@ -1,11 +1,11 @@
 {
   "id": 182,
-  "display_name": "Life Stick",
+  "display_name": "Staff of Life",
   "recipe_level": 4,
   "success_rate": 100,
   "outputqty": 1,
   "materials": {
-    "life_stick_shaft": 8,
+    "staff_of_lift_shaft": 8,
     "steel": 130,
     "coarse_bone_powder": 260,
     "braided_hemp": 130,
