@@ -1,16 +1,17 @@
 {
-    "id": 648,
-    "recipe_level": 9,
-    "success_rate": 70,
-    "outputqty": 1,
-    "materials": {
-        "rp_sealed_ring_of_aurakyria_i": 1,
-        "sealed_ring_of_aurakyria_gem": 17,
-        "maestro_mold": 1,
-        "metallic_fiber": 85,
-        "varnish_of_purity": 51,
-        "thons": 17,
-        "crystal_s": 12,
-        "gemstone_s": 2
-    }
+  "id": 648,
+  "display_name": "Sealed Ring Of Aurakyria 70%",
+  "recipe_level": 9,
+  "success_rate": 70,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sealed_ring_of_aurakyria_i": 1,
+    "sealed_ring_of_aurakyria_gem": 17,
+    "maestro_mold": 1,
+    "metallic_fiber": 85,
+    "varnish_of_purity": 51,
+    "thons": 17,
+    "crystal_s": 12,
+    "gemstone_s": 2
+  }
 }

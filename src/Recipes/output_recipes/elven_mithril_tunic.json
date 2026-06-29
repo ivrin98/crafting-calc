@@ -1,13 +1,14 @@
 {
-    "id": 264,
-    "recipe_level": 3,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "elven_mithril_tunic_pattern": 7,
-        "leather": 84,
-        "cord": 42,
-        "crystal_d": 70,
-        "gemstone_d": 17
-    }
+  "id": 264,
+  "display_name": "Elven Mithril Tunic",
+  "recipe_level": 3,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "elven_mithril_tunic_pattern": 7,
+    "leather": 84,
+    "cord": 42,
+    "crystal_d": 70,
+    "gemstone_d": 17
+  }
 }

@@ -1,14 +1,15 @@
 {
-    "id": 176,
-    "recipe_level": 4,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "blue_crystal_skull_part": 7,
-        "steel": 110,
-        "coarse_bone_powder": 220,
-        "braided_hemp": 110,
-        "crystal_d": 470,
-        "gemstone_d": 153
-    }
+  "id": 176,
+  "display_name": "Blue Crystal Skull",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "blue_crystal_skull_part": 7,
+    "steel": 110,
+    "coarse_bone_powder": 220,
+    "braided_hemp": 110,
+    "crystal_d": 470,
+    "gemstone_d": 153
+  }
 }

@@ -1,10 +1,11 @@
 {
-    "id": 488,
-    "recipe_level": 7,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "spiritshot_a": 300,
-        "rope_of_magic_a": 9
-    }
+  "id": 488,
+  "display_name": "Comp Spiritshot A",
+  "recipe_level": 7,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "spiritshot_a": 300,
+    "rope_of_magic_a": 9
+  }
 }

@@ -1,17 +1,18 @@
 {
-    "id": 384,
-    "recipe_level": 7,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_doom_shield": 1,
-        "doom_shield_fragment": 13,
-        "maestro_anvil_lock": 1,
-        "mithirl_alloy": 9,
-        "synthesis_cokes": 3,
-        "crafted_leather": 3,
-        "asofe": 3,
-        "crystal_b": 20,
-        "gemstone_b": 4
-    }
+  "id": 384,
+  "display_name": "Doom Shield 100%",
+  "recipe_level": 7,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_doom_shield": 1,
+    "doom_shield_fragment": 13,
+    "maestro_anvil_lock": 1,
+    "mithirl_alloy": 9,
+    "synthesis_cokes": 3,
+    "crafted_leather": 3,
+    "asofe": 3,
+    "crystal_b": 20,
+    "gemstone_b": 4
+  }
 }

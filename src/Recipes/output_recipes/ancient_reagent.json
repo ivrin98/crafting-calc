@@ -1,14 +1,15 @@
 {
-    "id": 188,
-    "recipe_level": 4,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "ancient_reagent_remnant": 8,
-        "steel": 130,
-        "coarse_bone_powder": 260,
-        "braided_hemp": 130,
-        "crystal_d": 550,
-        "gemstone_d": 185
-    }
+  "id": 188,
+  "display_name": "Ancient Reagent",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "ancient_reagent_remnant": 8,
+    "steel": 130,
+    "coarse_bone_powder": 260,
+    "braided_hemp": 130,
+    "crystal_d": 550,
+    "gemstone_d": 185
+  }
 }

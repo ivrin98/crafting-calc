@@ -1,14 +1,15 @@
 {
-    "id": 61,
-    "recipe_level": 5,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "necklace_of_mermaid_teardrop": 10,
-        "blacksmith_s_frame": 1,
-        "compound_braid": 20,
-        "varnish_of_purity": 4,
-        "crystal_c": 26,
-        "gemstone_c": 11
-    }
+  "id": 61,
+  "display_name": "Necklace Of Mermaid",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "necklace_of_mermaid_teardrop": 10,
+    "blacksmith_s_frame": 1,
+    "compound_braid": 20,
+    "varnish_of_purity": 4,
+    "crystal_c": 26,
+    "gemstone_c": 11
+  }
 }

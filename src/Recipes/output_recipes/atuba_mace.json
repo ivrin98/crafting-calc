@@ -1,14 +1,15 @@
 {
-    "id": 189,
-    "recipe_level": 4,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "atuba_mace_head": 8,
-        "steel": 220,
-        "cokes": 110,
-        "high_grade_suede": 55,
-        "crystal_d": 550,
-        "gemstone_d": 185
-    }
+  "id": 189,
+  "display_name": "Atuba Mace",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "atuba_mace_head": 8,
+    "steel": 220,
+    "cokes": 110,
+    "high_grade_suede": 55,
+    "crystal_d": 550,
+    "gemstone_d": 185
+  }
 }

@@ -1,17 +1,18 @@
 {
-    "id": 636,
-    "recipe_level": 9,
-    "success_rate": 60,
-    "outputqty": 1,
-    "materials": {
-        "rp_dragon_hunter_axe_i": 1,
-        "dragon_hunter_axe_blade": 17,
-        "warsmith_holder": 4,
-        "mithirl_alloy": 248,
-        "synthesis_cokes": 124,
-        "reinforcing_plate": 248,
-        "enria": 62,
-        "crystal_s": 214,
-        "gemstone_s": 43
-    }
+  "id": 636,
+  "display_name": "Dragon Hunter Axe 60%",
+  "recipe_level": 9,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_dragon_hunter_axe_i": 1,
+    "dragon_hunter_axe_blade": 17,
+    "warsmith_holder": 4,
+    "mithirl_alloy": 248,
+    "synthesis_cokes": 124,
+    "reinforcing_plate": 248,
+    "enria": 62,
+    "crystal_s": 214,
+    "gemstone_s": 43
+  }
 }

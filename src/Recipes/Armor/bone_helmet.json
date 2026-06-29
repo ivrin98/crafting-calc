@@ -1,12 +1,13 @@
 {
-    "id": 70,
-    "recipe_level": 2,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "bone_helmet_design": 4,
-        "steel_mold": 1,
-        "leather": 15,
-        "gemstone_d": 2
-    }
+  "id": 70,
+  "display_name": "Bone Helmet",
+  "recipe_level": 2,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "bone_helmet_design": 4,
+    "steel_mold": 1,
+    "leather": 15,
+    "gemstone_d": 2
+  }
 }

@@ -1,16 +1,17 @@
 {
-    "id": 65,
-    "recipe_level": 7,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_sage_s_necklace": 1,
-        "sage_s_necklace_chain": 13,
-        "maestro_mold": 1,
-        "compound_braid": 55,
-        "varnish_of_purity": 11,
-        "thons": 11,
-        "crystal_b": 37,
-        "gemstone_b": 8
-    }
+  "id": 65,
+  "display_name": "Sage's Necklace",
+  "recipe_level": 7,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sage_s_necklace": 1,
+    "sage_s_necklace_chain": 13,
+    "maestro_mold": 1,
+    "compound_braid": 55,
+    "varnish_of_purity": 11,
+    "thons": 11,
+    "crystal_b": 37,
+    "gemstone_b": 8
+  }
 }

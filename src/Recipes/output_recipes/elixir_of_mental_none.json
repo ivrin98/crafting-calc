@@ -1,10 +1,11 @@
 {
-    "id": 832,
-    "recipe_level": 1,
-    "success_rate": 100,
-    "outputqty": 10,
-    "materials": {
-        "spirit_ore": 30,
-        "mysterious_solvent": 20
-    }
+  "id": 832,
+  "display_name": "Elixir Of Mental None",
+  "recipe_level": 1,
+  "success_rate": 100,
+  "outputqty": 10,
+  "materials": {
+    "spirit_ore": 30,
+    "mysterious_solvent": 20
+  }
 }

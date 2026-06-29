@@ -1,13 +1,14 @@
 {
-    "id": 298,
-    "recipe_level": 5,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "theca_leather_boots_texture": 10,
-        "crafted_leather": 18,
-        "high_grade_suede": 2,
-        "crystal_c": 20,
-        "gemstone_c": 7
-    }
+  "id": 298,
+  "display_name": "Theca Leather Boots",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "theca_leather_boots_texture": 10,
+    "crafted_leather": 18,
+    "high_grade_suede": 2,
+    "crystal_c": 20,
+    "gemstone_c": 7
+  }
 }

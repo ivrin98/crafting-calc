@@ -1,17 +1,18 @@
 {
-    "id": 639,
-    "recipe_level": 9,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_saint_spear": 1,
-        "saint_spear_blade": 17,
-        "warsmith_holder": 8,
-        "mithirl_alloy": 464,
-        "synthesis_cokes": 232,
-        "reinforcing_plate": 464,
-        "enria": 116,
-        "crystal_s": 395,
-        "gemstone_s": 43
-    }
+  "id": 639,
+  "display_name": "Saint Spear 100%",
+  "recipe_level": 9,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_saint_spear": 1,
+    "saint_spear_blade": 17,
+    "warsmith_holder": 8,
+    "mithirl_alloy": 464,
+    "synthesis_cokes": 232,
+    "reinforcing_plate": 464,
+    "enria": 116,
+    "crystal_s": 395,
+    "gemstone_s": 43
+  }
 }

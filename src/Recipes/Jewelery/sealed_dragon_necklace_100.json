@@ -1,16 +1,17 @@
 {
-    "id": 651,
-    "recipe_level": 9,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_sealed_dragon_necklace": 1,
-        "sealed_dragon_necklace_wire": 17,
-        "warsmith_mold": 1,
-        "metallic_fiber": 280,
-        "varnish_of_purity": 168,
-        "thons": 56,
-        "crystal_s": 39,
-        "gemstone_s": 4
-    }
+  "id": 651,
+  "display_name": "Sealed Dragon Necklace 100%",
+  "recipe_level": 9,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sealed_dragon_necklace": 1,
+    "sealed_dragon_necklace_wire": 17,
+    "warsmith_mold": 1,
+    "metallic_fiber": 280,
+    "varnish_of_purity": 168,
+    "thons": 56,
+    "crystal_s": 39,
+    "gemstone_s": 4
+  }
 }

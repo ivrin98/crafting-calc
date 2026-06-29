@@ -1,10 +1,11 @@
 {
-    "id": 20,
-    "recipe_level": 2,
-    "success_rate": 100,
-    "outputqty": 156,
-    "materials": {
-        "soul_ore": 3,
-        "crystal_d": 1
-    }
+  "id": 20,
+  "display_name": "Soulshot D",
+  "recipe_level": 2,
+  "success_rate": 100,
+  "outputqty": 156,
+  "materials": {
+    "soul_ore": 3,
+    "crystal_d": 1
+  }
 }

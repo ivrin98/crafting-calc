@@ -1,13 +1,14 @@
 {
-    "id": 263,
-    "recipe_level": 3,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "brigandine_gaiters_material": 7,
-        "steel_mold": 2,
-        "steel": 32,
-        "crystal_d": 60,
-        "gemstone_d": 14
-    }
+  "id": 263,
+  "display_name": "Brigandine Gaiters",
+  "recipe_level": 3,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "brigandine_gaiters_material": 7,
+    "steel_mold": 2,
+    "steel": 32,
+    "crystal_d": 60,
+    "gemstone_d": 14
+  }
 }

@@ -1,11 +1,12 @@
 {
-    "id": 17,
-    "recipe_level": 1,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "piece_bone_gaiters_fragment": 3,
-        "steel_mold": 2,
-        "animal_bone": 14
-    }
+  "id": 17,
+  "display_name": "Piece Bone Gaiters",
+  "recipe_level": 1,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "piece_bone_gaiters_fragment": 3,
+    "steel_mold": 2,
+    "animal_bone": 14
+  }
 }

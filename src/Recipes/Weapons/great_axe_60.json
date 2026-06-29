@@ -1,16 +1,17 @@
 {
-    "id": 456,
-    "recipe_level": 6,
-    "success_rate": 60,
-    "outputqty": 1,
-    "materials": {
-        "rp_great_axe_i": 1,
-        "great_axe_head": 12,
-        "mithirl_alloy": 100,
-        "synthesis_cokes": 50,
-        "high_grade_suede": 25,
-        "enria": 25,
-        "crystal_c": 360,
-        "gemstone_b": 62
-    }
+  "id": 456,
+  "display_name": "Great Axe 60%",
+  "recipe_level": 6,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_great_axe_i": 1,
+    "great_axe_head": 12,
+    "mithirl_alloy": 100,
+    "synthesis_cokes": 50,
+    "high_grade_suede": 25,
+    "enria": 25,
+    "crystal_c": 360,
+    "gemstone_b": 62
+  }
 }

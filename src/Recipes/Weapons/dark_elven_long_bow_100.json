@@ -1,17 +1,18 @@
 {
-    "id": 455,
-    "recipe_level": 6,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_dark_elven_long_bow": 1,
-        "dark_elven_long_bow_shaft": 12,
-        "maestro_holder": 3,
-        "mithirl_alloy": 185,
-        "compound_braid": 37,
-        "high_grade_suede": 37,
-        "enria": 37,
-        "crystal_c": 534,
-        "gemstone_b": 62
-    }
+  "id": 455,
+  "display_name": "Dark Elven Long Bow 100%",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_dark_elven_long_bow": 1,
+    "dark_elven_long_bow_shaft": 12,
+    "maestro_holder": 3,
+    "mithirl_alloy": 185,
+    "compound_braid": 37,
+    "high_grade_suede": 37,
+    "enria": 37,
+    "crystal_c": 534,
+    "gemstone_b": 62
+  }
 }

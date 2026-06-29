@@ -1,11 +1,12 @@
 {
-    "id": 7,
-    "recipe_level": 1,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "brandish_blade": 2,
-        "iron_ore": 110,
-        "coal": 55
-    }
+  "id": 7,
+  "display_name": "Brandish",
+  "recipe_level": 1,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "brandish_blade": 2,
+    "iron_ore": 110,
+    "coal": 55
+  }
 }

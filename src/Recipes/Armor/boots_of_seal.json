@@ -1,13 +1,14 @@
 {
-    "id": 285,
-    "recipe_level": 4,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "boots_of_seal_pattern": 8,
-        "crafted_leather": 8,
-        "high_grade_suede": 1,
-        "crystal_d": 40,
-        "gemstone_c": 3
-    }
+  "id": 285,
+  "display_name": "Boots Of Seal",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "boots_of_seal_pattern": 8,
+    "crafted_leather": 8,
+    "high_grade_suede": 1,
+    "crystal_d": 40,
+    "gemstone_c": 3
+  }
 }

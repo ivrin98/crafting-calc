@@ -1,14 +1,15 @@
 {
-    "id": 172,
-    "recipe_level": 3,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "hammer_in_flames_head": 7,
-        "steel": 180,
-        "cokes": 90,
-        "high_grade_suede": 45,
-        "crystal_d": 430,
-        "gemstone_d": 139
-    }
+  "id": 172,
+  "display_name": "Hammer In Flames",
+  "recipe_level": 3,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "hammer_in_flames_head": 7,
+    "steel": 180,
+    "cokes": 90,
+    "high_grade_suede": 45,
+    "crystal_d": 430,
+    "gemstone_d": 139
+  }
 }

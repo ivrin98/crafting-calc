@@ -1,13 +1,14 @@
 {
-    "id": 96,
-    "recipe_level": 4,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "mithril_boots_design": 8,
-        "crafted_leather": 8,
-        "high_grade_suede": 1,
-        "crystal_d": 40,
-        "gemstone_d": 9
-    }
+  "id": 96,
+  "display_name": "Mithril Boots",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "mithril_boots_design": 8,
+    "crafted_leather": 8,
+    "high_grade_suede": 1,
+    "crystal_d": 40,
+    "gemstone_d": 9
+  }
 }

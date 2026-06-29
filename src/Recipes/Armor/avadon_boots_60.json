@@ -1,15 +1,16 @@
 {
-    "id": 425,
-    "recipe_level": 6,
-    "success_rate": 60,
-    "outputqty": 1,
-    "materials": {
-        "rp_avadon_boots_i": 1,
-        "avadon_boots_design": 12,
-        "crafted_leather": 16,
-        "high_grade_suede": 2,
-        "asofe": 2,
-        "crystal_c": 25,
-        "gemstone_b": 2
-    }
+  "id": 425,
+  "display_name": "Avadon Boots 60%",
+  "recipe_level": 6,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_avadon_boots_i": 1,
+    "avadon_boots_design": 12,
+    "crafted_leather": 16,
+    "high_grade_suede": 2,
+    "asofe": 2,
+    "crystal_c": 25,
+    "gemstone_b": 2
+  }
 }

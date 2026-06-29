@@ -1,17 +1,18 @@
 {
-    "id": 533,
-    "recipe_level": 7,
-    "success_rate": 60,
-    "outputqty": 1,
-    "materials": {
-        "rp_sealed_dark_crystal_shield_i": 1,
-        "sealed_dark_crystal_shield_fragment": 13,
-        "maestro_anvil_lock": 1,
-        "mithirl_alloy": 12,
-        "synthesis_cokes": 4,
-        "crafted_leather": 4,
-        "asofe": 4,
-        "crystal_b": 9,
-        "gemstone_b": 22
-    }
+  "id": 533,
+  "display_name": "Sealed Dark Crystal Shield 60%",
+  "recipe_level": 7,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sealed_dark_crystal_shield_i": 1,
+    "sealed_dark_crystal_shield_fragment": 13,
+    "maestro_anvil_lock": 1,
+    "mithirl_alloy": 12,
+    "synthesis_cokes": 4,
+    "crafted_leather": 4,
+    "asofe": 4,
+    "crystal_b": 9,
+    "gemstone_b": 22
+  }
 }

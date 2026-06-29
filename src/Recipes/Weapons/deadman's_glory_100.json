@@ -1,17 +1,18 @@
 {
-    "id": 463,
-    "recipe_level": 7,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_deadman_s_glory": 1,
-        "deadman_s_glory_stone": 13,
-        "maestro_holder": 3,
-        "mithirl_alloy": 172,
-        "synthesis_cokes": 172,
-        "high_grade_suede": 86,
-        "enria": 86,
-        "crystal_b": 339,
-        "gemstone_b": 98
-    }
+  "id": 463,
+  "display_name": "Deadman's Glory 100%",
+  "recipe_level": 7,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_deadman_s_glory": 1,
+    "deadman_s_glory_stone": 13,
+    "maestro_holder": 3,
+    "mithirl_alloy": 172,
+    "synthesis_cokes": 172,
+    "high_grade_suede": 86,
+    "enria": 86,
+    "crystal_b": 339,
+    "gemstone_b": 98
+  }
 }

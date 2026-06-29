@@ -1,16 +1,17 @@
 {
-    "id": 391,
-    "recipe_level": 7,
-    "success_rate": 60,
-    "outputqty": 1,
-    "materials": {
-        "rp_doom_plate_armor_i": 1,
-        "doom_plate_armor_temper": 13,
-        "blacksmith_s_frame": 4,
-        "mithirl_alloy": 45,
-        "varnish_of_purity": 15,
-        "asofe": 30,
-        "crystal_b": 60,
-        "gemstone_b": 31
-    }
+  "id": 391,
+  "display_name": "Doom Plate Armor 60%",
+  "recipe_level": 7,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_doom_plate_armor_i": 1,
+    "doom_plate_armor_temper": 13,
+    "blacksmith_s_frame": 4,
+    "mithirl_alloy": 45,
+    "varnish_of_purity": 15,
+    "asofe": 30,
+    "crystal_b": 60,
+    "gemstone_b": 31
+  }
 }

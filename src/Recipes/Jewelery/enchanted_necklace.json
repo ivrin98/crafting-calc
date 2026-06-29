@@ -1,14 +1,15 @@
 {
-    "id": 45,
-    "recipe_level": 2,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "enchanted_necklace_chain": 5,
-        "silver_mold": 1,
-        "braided_hemp": 15,
-        "varnish": 3,
-        "crystal_d": 18,
-        "gemstone_d": 3
-    }
+  "id": 45,
+  "display_name": "Enchanted Necklace",
+  "recipe_level": 2,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "enchanted_necklace_chain": 5,
+    "silver_mold": 1,
+    "braided_hemp": 15,
+    "varnish": 3,
+    "crystal_d": 18,
+    "gemstone_d": 3
+  }
 }

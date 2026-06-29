@@ -1,16 +1,17 @@
 {
-    "id": 346,
-    "recipe_level": 7,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_implosion_boots": 1,
-        "implosion_boots_part": 13,
-        "maestro_anvil_lock": 1,
-        "crafted_leather": 48,
-        "high_grade_suede": 6,
-        "asofe": 6,
-        "crystal_b": 15,
-        "gemstone_b": 4
-    }
+  "id": 346,
+  "display_name": "Implosion Boots 100%",
+  "recipe_level": 7,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_implosion_boots": 1,
+    "implosion_boots_part": 13,
+    "maestro_anvil_lock": 1,
+    "crafted_leather": 48,
+    "high_grade_suede": 6,
+    "asofe": 6,
+    "crystal_b": 15,
+    "gemstone_b": 4
+  }
 }

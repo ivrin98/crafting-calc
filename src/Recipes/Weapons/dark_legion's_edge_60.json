@@ -1,17 +1,18 @@
 {
-    "id": 599,
-    "recipe_level": 8,
-    "success_rate": 60,
-    "outputqty": 1,
-    "materials": {
-        "rp_dark_legion_s_edge_i": 1,
-        "dark_legion_s_edge_edge": 14,
-        "craftsman_mold": 3,
-        "mithirl_alloy": 156,
-        "synthesis_cokes": 156,
-        "reinforcing_plate": 78,
-        "enria": 78,
-        "crystal_a": 161,
-        "gemstone_a": 74
-    }
+  "id": 599,
+  "display_name": "Dark Legion's Edge 60%",
+  "recipe_level": 8,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_dark_legion_s_edge_i": 1,
+    "dark_legion_s_edge_edge": 14,
+    "craftsman_mold": 3,
+    "mithirl_alloy": 156,
+    "synthesis_cokes": 156,
+    "reinforcing_plate": 78,
+    "enria": 78,
+    "crystal_a": 161,
+    "gemstone_a": 74
+  }
 }

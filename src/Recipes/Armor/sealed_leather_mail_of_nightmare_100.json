@@ -1,17 +1,18 @@
 {
-    "id": 518,
-    "recipe_level": 8,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_sealed_leather_mail_of_nightmare": 1,
-        "sealed_leather_mail_of_nightmare_fabric": 14,
-        "arcsmith_anvil": 1,
-        "crafted_leather": 400,
-        "metallic_fiber": 200,
-        "compound_braid": 100,
-        "asofe": 100,
-        "crystal_a": 87,
-        "gemstone_a": 17
-    }
+  "id": 518,
+  "display_name": "Sealed Leather Mail Of Nightmare 100%",
+  "recipe_level": 8,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sealed_leather_mail_of_nightmare": 1,
+    "sealed_leather_mail_of_nightmare_fabric": 14,
+    "arcsmith_anvil": 1,
+    "crafted_leather": 400,
+    "metallic_fiber": 200,
+    "compound_braid": 100,
+    "asofe": 100,
+    "crystal_a": 87,
+    "gemstone_a": 17
+  }
 }

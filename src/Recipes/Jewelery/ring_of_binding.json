@@ -1,14 +1,15 @@
 {
-    "id": 261,
-    "recipe_level": 6,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "ring_of_binding_gemstone": 11,
-        "silver_mold": 1,
-        "metallic_fiber": 40,
-        "varnish_of_purity": 8,
-        "crystal_c": 20,
-        "gemstone_c": 7
-    }
+  "id": 261,
+  "display_name": "Ring Of Binding",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "ring_of_binding_gemstone": 11,
+    "silver_mold": 1,
+    "metallic_fiber": 40,
+    "varnish_of_purity": 8,
+    "crystal_c": 20,
+    "gemstone_c": 7
+  }
 }

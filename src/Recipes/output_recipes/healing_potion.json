@@ -1,10 +1,11 @@
 {
-    "id": 687,
-    "recipe_level": 2,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "fish_oil": 2,
-        "fish_scale": 1
-    }
+  "id": 687,
+  "display_name": "Healing Potion",
+  "recipe_level": 2,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "fish_oil": 2,
+    "fish_scale": 1
+  }
 }

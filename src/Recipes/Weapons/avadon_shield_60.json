@@ -1,16 +1,17 @@
 {
-    "id": 478,
-    "recipe_level": 6,
-    "success_rate": 60,
-    "outputqty": 1,
-    "materials": {
-        "rp_avadon_shield_i": 1,
-        "avadon_shield_fragment": 12,
-        "mithirl_alloy": 9,
-        "synthesis_cokes": 3,
-        "crafted_leather": 3,
-        "asofe": 3,
-        "crystal_c": 8,
-        "gemstone_b": 3
-    }
+  "id": 478,
+  "display_name": "Avadon Shield 60%",
+  "recipe_level": 6,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_avadon_shield_i": 1,
+    "avadon_shield_fragment": 12,
+    "mithirl_alloy": 9,
+    "synthesis_cokes": 3,
+    "crafted_leather": 3,
+    "asofe": 3,
+    "crystal_c": 8,
+    "gemstone_b": 3
+  }
 }

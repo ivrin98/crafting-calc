@@ -1,13 +1,14 @@
 {
-    "id": 119,
-    "recipe_level": 5,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "mithril_gauntlet_design": 10,
-        "crafted_leather": 16,
-        "high_grade_suede": 2,
-        "crystal_c": 16,
-        "gemstone_c": 6
-    }
+  "id": 119,
+  "display_name": "Mithril Gauntlet",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "mithril_gauntlet_design": 10,
+    "crafted_leather": 16,
+    "high_grade_suede": 2,
+    "crystal_c": 16,
+    "gemstone_c": 6
+  }
 }

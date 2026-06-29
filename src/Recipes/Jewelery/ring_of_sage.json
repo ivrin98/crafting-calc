@@ -1,16 +1,17 @@
 {
-    "id": 64,
-    "recipe_level": 7,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_ring_of_sage": 1,
-        "ring_of_sage_gemstone": 13,
-        "blacksmith_s_frame": 1,
-        "metallic_fiber": 50,
-        "varnish_of_purity": 10,
-        "thons": 10,
-        "crystal_b": 18,
-        "gemstone_b": 4
-    }
+  "id": 64,
+  "display_name": "Ring Of Sage",
+  "recipe_level": 7,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_ring_of_sage": 1,
+    "ring_of_sage_gemstone": 13,
+    "blacksmith_s_frame": 1,
+    "metallic_fiber": 50,
+    "varnish_of_purity": 10,
+    "thons": 10,
+    "crystal_b": 18,
+    "gemstone_b": 4
+  }
 }

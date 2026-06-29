@@ -1,13 +1,14 @@
 {
-    "id": 269,
-    "recipe_level": 3,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "elven_mithril_boots_design": 7,
-        "leather": 24,
-        "high_grade_suede": 3,
-        "crystal_d": 24,
-        "gemstone_d": 5
-    }
+  "id": 269,
+  "display_name": "Elven Mithril Boots",
+  "recipe_level": 3,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "elven_mithril_boots_design": 7,
+    "leather": 24,
+    "high_grade_suede": 3,
+    "crystal_d": 24,
+    "gemstone_d": 5
+  }
 }

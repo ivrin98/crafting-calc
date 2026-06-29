@@ -1,15 +1,16 @@
 {
-    "id": 255,
-    "recipe_level": 6,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "blessed_branch_splinter": 11,
-        "oriharukon": 54,
-        "coarse_bone_powder": 108,
-        "compound_braid": 54,
-        "reinforcing_agent": 162,
-        "crystal_c": 410,
-        "gemstone_c": 248
-    }
+  "id": 255,
+  "display_name": "Blessed Branch",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "blessed_branch_splinter": 11,
+    "oriharukon": 54,
+    "coarse_bone_powder": 108,
+    "compound_braid": 54,
+    "reinforcing_agent": 162,
+    "crystal_c": 410,
+    "gemstone_c": 248
+  }
 }

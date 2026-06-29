@@ -1,12 +1,13 @@
 {
-    "id": 739,
-    "recipe_level": 5,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_dye_s2d2_c": 1,
-        "fish_oil_high": 7,
-        "thin_fish_bone": 98,
-        "thick_fish_bone": 22
-    }
+  "id": 739,
+  "display_name": "Dye S2d2 C",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_dye_s2d2_c": 1,
+    "fish_oil_high": 7,
+    "thin_fish_bone": 98,
+    "thick_fish_bone": 22
+  }
 }

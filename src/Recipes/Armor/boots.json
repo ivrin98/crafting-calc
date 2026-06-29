@@ -1,11 +1,12 @@
 {
-    "id": 68,
-    "recipe_level": 1,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "boots_lining": 3,
-        "animal_skin": 40,
-        "suede": 5
-    }
+  "id": 68,
+  "display_name": "Boots",
+  "recipe_level": 1,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "boots_lining": 3,
+    "animal_skin": 40,
+    "suede": 5
+  }
 }

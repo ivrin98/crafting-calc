@@ -1,14 +1,15 @@
 {
-    "id": 108,
-    "recipe_level": 5,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "robe_of_seal_fabric": 9,
-        "crafted_leather": 40,
-        "metallic_fiber": 20,
-        "compound_braid": 10,
-        "crystal_c": 50,
-        "gemstone_c": 21
-    }
+  "id": 108,
+  "display_name": "Robe Of Seal",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "robe_of_seal_fabric": 9,
+    "crafted_leather": 40,
+    "metallic_fiber": 20,
+    "compound_braid": 10,
+    "crystal_c": 50,
+    "gemstone_c": 21
+  }
 }

@@ -1,13 +1,14 @@
 {
-    "id": 98,
-    "recipe_level": 4,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "chain_gaiters_part": 8,
-        "blacksmith_s_frame": 2,
-        "mithirl_alloy": 1,
-        "crystal_d": 90,
-        "gemstone_c": 8
-    }
+  "id": 98,
+  "display_name": "Chain Gaiters",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "chain_gaiters_part": 8,
+    "blacksmith_s_frame": 2,
+    "mithirl_alloy": 1,
+    "crystal_d": 90,
+    "gemstone_c": 8
+  }
 }

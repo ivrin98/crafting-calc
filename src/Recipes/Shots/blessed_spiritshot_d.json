@@ -1,10 +1,11 @@
 {
-    "id": 323,
-    "recipe_level": 2,
-    "success_rate": 100,
-    "outputqty": 100,
-    "materials": {
-        "spirit_ore": 8,
-        "crystal_d": 2
-    }
+  "id": 323,
+  "display_name": "Blessed Spiritshot D",
+  "recipe_level": 2,
+  "success_rate": 100,
+  "outputqty": 100,
+  "materials": {
+    "spirit_ore": 8,
+    "crystal_d": 2
+  }
 }

@@ -1,14 +1,15 @@
 {
-    "id": 667,
-    "recipe_level": 9,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_sealed_draconic_leather_gloves": 1,
-        "sealed_draconic_leather_gloves_fabric": 17,
-        "warsmith_mold": 1,
-        "asofe": 31,
-        "crystal_s": 30,
-        "gemstone_s": 2
-    }
+  "id": 667,
+  "display_name": "Sealed Draconic Leather Gloves 100%",
+  "recipe_level": 9,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sealed_draconic_leather_gloves": 1,
+    "sealed_draconic_leather_gloves_fabric": 17,
+    "warsmith_mold": 1,
+    "asofe": 31,
+    "crystal_s": 30,
+    "gemstone_s": 2
+  }
 }

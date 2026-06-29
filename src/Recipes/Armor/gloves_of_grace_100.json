@@ -1,16 +1,17 @@
 {
-    "id": 416,
-    "recipe_level": 7,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_gloves_of_grace": 1,
-        "gloves_of_grace_lining": 13,
-        "maestro_anvil_lock": 1,
-        "crafted_leather": 48,
-        "high_grade_suede": 6,
-        "asofe": 6,
-        "crystal_b": 15,
-        "gemstone_b": 4
-    }
+  "id": 416,
+  "display_name": "Gloves Of Grace 100%",
+  "recipe_level": 7,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_gloves_of_grace": 1,
+    "gloves_of_grace_lining": 13,
+    "maestro_anvil_lock": 1,
+    "crafted_leather": 48,
+    "high_grade_suede": 6,
+    "asofe": 6,
+    "crystal_b": 15,
+    "gemstone_b": 4
+  }
 }

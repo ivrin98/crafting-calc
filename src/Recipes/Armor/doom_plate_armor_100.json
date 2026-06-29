@@ -1,16 +1,17 @@
 {
-    "id": 392,
-    "recipe_level": 7,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_doom_plate_armor": 1,
-        "doom_plate_armor_temper": 13,
-        "maestro_mold": 4,
-        "mithirl_alloy": 69,
-        "varnish_of_purity": 23,
-        "asofe": 46,
-        "crystal_b": 136,
-        "gemstone_b": 31
-    }
+  "id": 392,
+  "display_name": "Doom Plate Armor 100%",
+  "recipe_level": 7,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_doom_plate_armor": 1,
+    "doom_plate_armor_temper": 13,
+    "maestro_mold": 4,
+    "mithirl_alloy": 69,
+    "varnish_of_purity": 23,
+    "asofe": 46,
+    "crystal_b": 136,
+    "gemstone_b": 31
+  }
 }

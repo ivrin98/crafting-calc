@@ -1,17 +1,18 @@
 {
-    "id": 527,
-    "recipe_level": 8,
-    "success_rate": 60,
-    "outputqty": 1,
-    "materials": {
-        "rp_sealed_robe_of_nightmare_i": 1,
-        "sealed_robe_of_nightmare_fabric": 14,
-        "maestro_anvil_lock": 1,
-        "crafted_leather": 204,
-        "metallic_fiber": 102,
-        "compound_braid": 51,
-        "asofe": 51,
-        "crystal_a": 53,
-        "gemstone_a": 17
-    }
+  "id": 527,
+  "display_name": "Sealed Robe Of Nightmare 60%",
+  "recipe_level": 8,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sealed_robe_of_nightmare_i": 1,
+    "sealed_robe_of_nightmare_fabric": 14,
+    "maestro_anvil_lock": 1,
+    "crafted_leather": 204,
+    "metallic_fiber": 102,
+    "compound_braid": 51,
+    "asofe": 51,
+    "crystal_a": 53,
+    "gemstone_a": 17
+  }
 }

@@ -1,16 +1,17 @@
 {
-    "id": 431,
-    "recipe_level": 6,
-    "success_rate": 60,
-    "outputqty": 1,
-    "materials": {
-        "rp_shrnoen_s_shield_i": 1,
-        "shrnoen_s_shield_fragment": 12,
-        "mithirl_alloy": 6,
-        "synthesis_cokes": 2,
-        "crafted_leather": 2,
-        "asofe": 2,
-        "crystal_c": 25,
-        "gemstone_b": 3
-    }
+  "id": 431,
+  "display_name": "Shrnoen's Shield 60%",
+  "recipe_level": 6,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_shrnoen_s_shield_i": 1,
+    "shrnoen_s_shield_fragment": 12,
+    "mithirl_alloy": 6,
+    "synthesis_cokes": 2,
+    "crafted_leather": 2,
+    "asofe": 2,
+    "crystal_c": 25,
+    "gemstone_b": 3
+  }
 }

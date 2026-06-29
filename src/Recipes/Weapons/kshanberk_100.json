@@ -1,16 +1,17 @@
 {
-    "id": 445,
-    "recipe_level": 6,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_kshanberk": 1,
-        "kshanberk_blade": 12,
-        "craftsman_mold": 2,
-        "mithirl_alloy": 114,
-        "synthesis_cokes": 114,
-        "enria": 57,
-        "crystal_c": 517,
-        "gemstone_b": 62
-    }
+  "id": 445,
+  "display_name": "Kshanberk 100%",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_kshanberk": 1,
+    "kshanberk_blade": 12,
+    "craftsman_mold": 2,
+    "mithirl_alloy": 114,
+    "synthesis_cokes": 114,
+    "enria": 57,
+    "crystal_c": 517,
+    "gemstone_b": 62
+  }
 }

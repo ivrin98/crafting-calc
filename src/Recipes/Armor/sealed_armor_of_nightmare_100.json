@@ -1,16 +1,17 @@
 {
-    "id": 558,
-    "recipe_level": 8,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_sealed_armor_of_nightmare": 1,
-        "sealed_armor_of_nightmare_pattern": 14,
-        "arcsmith_anvil": 4,
-        "mithirl_alloy": 141,
-        "varnish_of_purity": 47,
-        "asofe": 94,
-        "crystal_a": 104,
-        "gemstone_a": 23
-    }
+  "id": 558,
+  "display_name": "Sealed Armor Of Nightmare 100%",
+  "recipe_level": 8,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sealed_armor_of_nightmare": 1,
+    "sealed_armor_of_nightmare_pattern": 14,
+    "arcsmith_anvil": 4,
+    "mithirl_alloy": 141,
+    "varnish_of_purity": 47,
+    "asofe": 94,
+    "crystal_a": 104,
+    "gemstone_a": 23
+  }
 }

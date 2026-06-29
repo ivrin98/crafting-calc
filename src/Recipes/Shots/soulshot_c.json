@@ -1,10 +1,11 @@
 {
-    "id": 21,
-    "recipe_level": 4,
-    "success_rate": 100,
-    "outputqty": 476,
-    "materials": {
-        "soul_ore": 15,
-        "crystal_c": 1
-    }
+  "id": 21,
+  "display_name": "Soulshot C",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 476,
+  "materials": {
+    "soul_ore": 15,
+    "crystal_c": 1
+  }
 }

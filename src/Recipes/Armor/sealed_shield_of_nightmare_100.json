@@ -1,17 +1,18 @@
 {
-    "id": 536,
-    "recipe_level": 8,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_sealed_shield_of_nightmare": 1,
-        "sealed_shield_of_nightmare_fragment": 14,
-        "reorins_mold": 1,
-        "mithirl_alloy": 33,
-        "synthesis_cokes": 11,
-        "crafted_leather": 11,
-        "asofe": 11,
-        "crystal_a": 26,
-        "gemstone_a": 3
-    }
+  "id": 536,
+  "display_name": "Sealed Shield Of Nightmare 100%",
+  "recipe_level": 8,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sealed_shield_of_nightmare": 1,
+    "sealed_shield_of_nightmare_fragment": 14,
+    "reorins_mold": 1,
+    "mithirl_alloy": 33,
+    "synthesis_cokes": 11,
+    "crafted_leather": 11,
+    "asofe": 11,
+    "crystal_a": 26,
+    "gemstone_a": 3
+  }
 }

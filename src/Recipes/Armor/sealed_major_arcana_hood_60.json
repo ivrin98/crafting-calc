@@ -1,13 +1,14 @@
 {
-    "id": 678,
-    "recipe_level": 9,
-    "success_rate": 60,
-    "outputqty": 1,
-    "materials": {
-        "rp_sealed_major_arcana_hood_i": 1,
-        "sealed_major_arcana_hood_pattern": 17,
-        "reorins_mold": 1,
-        "crystal_s": 25,
-        "gemstone_s": 4
-    }
+  "id": 678,
+  "display_name": "Sealed Major Arcana Hood 60%",
+  "recipe_level": 9,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sealed_major_arcana_hood_i": 1,
+    "sealed_major_arcana_hood_pattern": 17,
+    "reorins_mold": 1,
+    "crystal_s": 25,
+    "gemstone_s": 4
+  }
 }

@@ -1,10 +1,11 @@
 {
-    "id": 837,
-    "recipe_level": 6,
-    "success_rate": 100,
-    "outputqty": 10,
-    "materials": {
-        "spirit_ore": 360,
-        "mysterious_solvent": 60
-    }
+  "id": 837,
+  "display_name": "Elixir Of Mental's",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 10,
+  "materials": {
+    "spirit_ore": 360,
+    "mysterious_solvent": 60
+  }
 }

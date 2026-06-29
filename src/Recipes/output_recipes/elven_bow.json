@@ -1,14 +1,15 @@
 {
-    "id": 155,
-    "recipe_level": 2,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "elven_bow_shaft": 5,
-        "steel": 100,
-        "braided_hemp": 20,
-        "high_grade_suede": 20,
-        "crystal_d": 200,
-        "gemstone_d": 57
-    }
+  "id": 155,
+  "display_name": "Elven Bow",
+  "recipe_level": 2,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "elven_bow_shaft": 5,
+    "steel": 100,
+    "braided_hemp": 20,
+    "high_grade_suede": 20,
+    "crystal_d": 200,
+    "gemstone_d": 57
+  }
 }

@@ -1,16 +1,17 @@
 {
-    "id": 460,
-    "recipe_level": 7,
-    "success_rate": 60,
-    "outputqty": 1,
-    "materials": {
-        "rp_lancia_i": 1,
-        "lancia_blade": 13,
-        "mithirl_alloy": 160,
-        "synthesis_cokes": 80,
-        "high_grade_suede": 40,
-        "enria": 40,
-        "crystal_b": 168,
-        "gemstone_b": 98
-    }
+  "id": 460,
+  "display_name": "Lancia 60%",
+  "recipe_level": 7,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_lancia_i": 1,
+    "lancia_blade": 13,
+    "mithirl_alloy": 160,
+    "synthesis_cokes": 80,
+    "high_grade_suede": 40,
+    "enria": 40,
+    "crystal_b": 168,
+    "gemstone_b": 98
+  }
 }

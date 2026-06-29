@@ -1,15 +1,16 @@
 {
-    "id": 654,
-    "recipe_level": 9,
-    "success_rate": 60,
-    "outputqty": 1,
-    "materials": {
-        "rp_sealed_imperial_crusader_gaiters_i": 1,
-        "sealed_imperial_crusader_gaiters_pattern": 17,
-        "arcsmith_anvil": 2,
-        "mithirl_alloy": 72,
-        "asofe": 48,
-        "crystal_s": 37,
-        "gemstone_s": 6
-    }
+  "id": 654,
+  "display_name": "Sealed Imperial Crusader Gaiters 60%",
+  "recipe_level": 9,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sealed_imperial_crusader_gaiters_i": 1,
+    "sealed_imperial_crusader_gaiters_pattern": 17,
+    "arcsmith_anvil": 2,
+    "mithirl_alloy": 72,
+    "asofe": 48,
+    "crystal_s": 37,
+    "gemstone_s": 6
+  }
 }

@@ -1,10 +1,11 @@
 {
-    "id": 833,
-    "recipe_level": 2,
-    "success_rate": 100,
-    "outputqty": 10,
-    "materials": {
-        "spirit_ore": 80,
-        "mysterious_solvent": 20
-    }
+  "id": 833,
+  "display_name": "Elixir Of Mental D",
+  "recipe_level": 2,
+  "success_rate": 100,
+  "outputqty": 10,
+  "materials": {
+    "spirit_ore": 80,
+    "mysterious_solvent": 20
+  }
 }

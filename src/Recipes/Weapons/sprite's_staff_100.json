@@ -1,17 +1,18 @@
 {
-    "id": 443,
-    "recipe_level": 6,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_sprite_s_staff": 1,
-        "sprite_s_staff_head": 12,
-        "maestro_holder": 3,
-        "oriharukon": 75,
-        "coarse_bone_powder": 150,
-        "compound_braid": 75,
-        "enria": 75,
-        "crystal_c": 491,
-        "gemstone_b": 62
-    }
+  "id": 443,
+  "display_name": "Sprite's Staff 100%",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sprite_s_staff": 1,
+    "sprite_s_staff_head": 12,
+    "maestro_holder": 3,
+    "oriharukon": 75,
+    "coarse_bone_powder": 150,
+    "compound_braid": 75,
+    "enria": 75,
+    "crystal_c": 491,
+    "gemstone_b": 62
+  }
 }

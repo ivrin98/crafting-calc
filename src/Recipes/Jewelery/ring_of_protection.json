@@ -1,14 +1,15 @@
 {
-    "id": 57,
-    "recipe_level": 5,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "ring_of_protection_gemstone": 9,
-        "silver_mold": 1,
-        "metallic_fiber": 15,
-        "varnish_of_purity": 3,
-        "crystal_c": 10,
-        "gemstone_c": 3
-    }
+  "id": 57,
+  "display_name": "Ring Of Protection",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "ring_of_protection_gemstone": 9,
+    "silver_mold": 1,
+    "metallic_fiber": 15,
+    "varnish_of_purity": 3,
+    "crystal_c": 10,
+    "gemstone_c": 3
+  }
 }

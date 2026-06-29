@@ -1,10 +1,11 @@
 {
-    "id": 26,
-    "recipe_level": 2,
-    "success_rate": 100,
-    "outputqty": 20,
-    "materials": {
-        "steel": 2,
-        "thread": 25
-    }
+  "id": 26,
+  "display_name": "Cord",
+  "recipe_level": 2,
+  "success_rate": 100,
+  "outputqty": 20,
+  "materials": {
+    "steel": 2,
+    "thread": 25
+  }
 }

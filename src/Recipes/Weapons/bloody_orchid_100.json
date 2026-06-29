@@ -1,17 +1,18 @@
 {
-    "id": 584,
-    "recipe_level": 7,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_bloody_orchid": 1,
-        "bloody_orchid_head": 13,
-        "craftsman_mold": 4,
-        "mithirl_alloy": 196,
-        "synthesis_cokes": 196,
-        "reinforcing_plate": 98,
-        "enria": 98,
-        "crystal_b": 344,
-        "gemstone_b": 143
-    }
+  "id": 584,
+  "display_name": "Bloody Orchid 100%",
+  "recipe_level": 7,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_bloody_orchid": 1,
+    "bloody_orchid_head": 13,
+    "craftsman_mold": 4,
+    "mithirl_alloy": 196,
+    "synthesis_cokes": 196,
+    "reinforcing_plate": 98,
+    "enria": 98,
+    "crystal_b": 344,
+    "gemstone_b": 143
+  }
 }

@@ -1,13 +1,14 @@
 {
-    "id": 114,
-    "recipe_level": 5,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rind_leather_gaiters_material": 9,
-        "crafted_leather": 20,
-        "metallic_fiber": 20,
-        "crystal_c": 20,
-        "gemstone_c": 8
-    }
+  "id": 114,
+  "display_name": "Rind Leather Gaiters",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "rind_leather_gaiters_material": 9,
+    "crafted_leather": 20,
+    "metallic_fiber": 20,
+    "crystal_c": 20,
+    "gemstone_c": 8
+  }
 }

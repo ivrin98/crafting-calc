@@ -1,9 +1,10 @@
 {
-    "id": 316,
-    "recipe_level": 2,
-    "success_rate": 100,
-    "outputqty": 5,
-    "materials": {
-        "amber_lump": 1
-    }
+  "id": 316,
+  "display_name": "Amber Bead",
+  "recipe_level": 2,
+  "success_rate": 100,
+  "outputqty": 5,
+  "materials": {
+    "amber_lump": 1
+  }
 }

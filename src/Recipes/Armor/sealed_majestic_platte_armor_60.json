@@ -1,16 +1,17 @@
 {
-    "id": 559,
-    "recipe_level": 8,
-    "success_rate": 60,
-    "outputqty": 1,
-    "materials": {
-        "rp_sealed_majestic_platte_armor_i": 1,
-        "sealed_majestic_platte_armor_pattern": 14,
-        "maestro_mold": 4,
-        "mithirl_alloy": 99,
-        "varnish_of_purity": 33,
-        "asofe": 66,
-        "crystal_a": 61,
-        "gemstone_a": 23
-    }
+  "id": 559,
+  "display_name": "Sealed Majestic Platte Armor 60%",
+  "recipe_level": 8,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sealed_majestic_platte_armor_i": 1,
+    "sealed_majestic_platte_armor_pattern": 14,
+    "maestro_mold": 4,
+    "mithirl_alloy": 99,
+    "varnish_of_purity": 33,
+    "asofe": 66,
+    "crystal_a": 61,
+    "gemstone_a": 23
+  }
 }

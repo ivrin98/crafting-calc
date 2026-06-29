@@ -1,17 +1,18 @@
 {
-    "id": 526,
-    "recipe_level": 7,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_sealed_dark_crystal_robe": 1,
-        "sealed_dark_crystal_robe_fabric": 13,
-        "arcsmith_anvil": 1,
-        "crafted_leather": 210,
-        "metallic_fiber": 126,
-        "compound_braid": 42,
-        "asofe": 42,
-        "crystal_b": 173,
-        "gemstone_b": 103
-    }
+  "id": 526,
+  "display_name": "Sealed Dark Crystal Robe 100%",
+  "recipe_level": 7,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sealed_dark_crystal_robe": 1,
+    "sealed_dark_crystal_robe_fabric": 13,
+    "arcsmith_anvil": 1,
+    "crafted_leather": 210,
+    "metallic_fiber": 126,
+    "compound_braid": 42,
+    "asofe": 42,
+    "crystal_b": 173,
+    "gemstone_b": 103
+  }
 }

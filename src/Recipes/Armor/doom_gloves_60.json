@@ -1,15 +1,16 @@
 {
-    "id": 411,
-    "recipe_level": 7,
-    "success_rate": 60,
-    "outputqty": 1,
-    "materials": {
-        "rp_doom_gloves_i": 1,
-        "doom_gloves_part": 13,
-        "crafted_leather": 32,
-        "high_grade_suede": 4,
-        "asofe": 4,
-        "crystal_b": 8,
-        "gemstone_b": 4
-    }
+  "id": 411,
+  "display_name": "Doom Gloves 60%",
+  "recipe_level": 7,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_doom_gloves_i": 1,
+    "doom_gloves_part": 13,
+    "crafted_leather": 32,
+    "high_grade_suede": 4,
+    "asofe": 4,
+    "crystal_b": 8,
+    "gemstone_b": 4
+  }
 }

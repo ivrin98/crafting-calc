@@ -1,9 +1,10 @@
 {
-    "id": 692,
-    "recipe_level": 2,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "fish_oil": 3
-    }
+  "id": 692,
+  "display_name": "Emergency Dressing",
+  "recipe_level": 2,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "fish_oil": 3
+  }
 }

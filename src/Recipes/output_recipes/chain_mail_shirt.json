@@ -1,13 +1,14 @@
 {
-    "id": 97,
-    "recipe_level": 4,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "chain_mail_shirt_material": 8,
-        "blacksmith_s_frame": 3,
-        "mithirl_alloy": 1,
-        "crystal_d": 150,
-        "gemstone_c": 14
-    }
+  "id": 97,
+  "display_name": "Chain Mail Shirt",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "chain_mail_shirt_material": 8,
+    "blacksmith_s_frame": 3,
+    "mithirl_alloy": 1,
+    "crystal_d": 150,
+    "gemstone_c": 14
+  }
 }

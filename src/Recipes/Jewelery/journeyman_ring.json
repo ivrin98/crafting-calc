@@ -1,13 +1,14 @@
 {
-    "id": 315,
-    "recipe_level": 1,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "journeyman_deco_beads": 1,
-        "journeyman_gem": 1,
-        "steel": 1,
-        "varnish": 10,
-        "crystal_d": 10
-    }
+  "id": 315,
+  "display_name": "Journeyman Ring",
+  "recipe_level": 1,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "journeyman_deco_beads": 1,
+    "journeyman_gem": 1,
+    "steel": 1,
+    "varnish": 10,
+    "crystal_d": 10
+  }
 }

@@ -1,10 +1,11 @@
 {
-    "id": 22,
-    "recipe_level": 6,
-    "success_rate": 100,
-    "outputqty": 450,
-    "materials": {
-        "soul_ore": 54,
-        "crystal_b": 1
-    }
+  "id": 22,
+  "display_name": "Soulshot B",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 450,
+  "materials": {
+    "soul_ore": 54,
+    "crystal_b": 1
+  }
 }

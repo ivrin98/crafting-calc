@@ -1,10 +1,11 @@
 {
-    "id": 507,
-    "recipe_level": 8,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "spiritshot_s": 1000,
-        "rope_of_magic_s": 20
-    }
+  "id": 507,
+  "display_name": "Adv Comp Spiritshot S",
+  "recipe_level": 8,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "spiritshot_s": 1000,
+    "rope_of_magic_s": 20
+  }
 }

@@ -1,14 +1,15 @@
 {
-    "id": 179,
-    "recipe_level": 4,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "bonebreaker_head": 8,
-        "steel": 160,
-        "cokes": 160,
-        "high_grade_suede": 80,
-        "crystal_d": 550,
-        "gemstone_d": 185
-    }
+  "id": 179,
+  "display_name": "Bonebreaker",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "bonebreaker_head": 8,
+    "steel": 160,
+    "cokes": 160,
+    "high_grade_suede": 80,
+    "crystal_d": 550,
+    "gemstone_d": 185
+  }
 }

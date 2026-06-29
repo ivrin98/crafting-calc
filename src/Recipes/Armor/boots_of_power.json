@@ -1,13 +1,14 @@
 {
-    "id": 86,
-    "recipe_level": 3,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "boots_of_power_pattern": 7,
-        "leather": 24,
-        "high_grade_suede": 3,
-        "crystal_d": 24,
-        "gemstone_d": 5
-    }
+  "id": 86,
+  "display_name": "Boots Of Power",
+  "recipe_level": 3,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "boots_of_power_pattern": 7,
+    "leather": 24,
+    "high_grade_suede": 3,
+    "crystal_d": 24,
+    "gemstone_d": 5
+  }
 }

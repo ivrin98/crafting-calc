@@ -1,17 +1,18 @@
 {
-    "id": 586,
-    "recipe_level": 8,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_soul_separator": 1,
-        "soul_separator_head": 14,
-        "craftsman_mold": 4,
-        "mithirl_alloy": 334,
-        "synthesis_cokes": 334,
-        "reinforcing_plate": 167,
-        "enria": 167,
-        "crystal_a": 295,
-        "gemstone_a": 74
-    }
+  "id": 586,
+  "display_name": "Soul Separator 100%",
+  "recipe_level": 8,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_soul_separator": 1,
+    "soul_separator_head": 14,
+    "craftsman_mold": 4,
+    "mithirl_alloy": 334,
+    "synthesis_cokes": 334,
+    "reinforcing_plate": 167,
+    "enria": 167,
+    "crystal_a": 295,
+    "gemstone_a": 74
+  }
 }

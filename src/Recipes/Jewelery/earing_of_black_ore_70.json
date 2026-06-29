@@ -1,16 +1,17 @@
 {
-    "id": 334,
-    "recipe_level": 7,
-    "success_rate": 70,
-    "outputqty": 1,
-    "materials": {
-        "rp_earing_of_black_ore_i": 1,
-        "earing_of_black_ore_piece": 13,
-        "blacksmith_s_frame": 1,
-        "metallic_fiber": 50,
-        "varnish_of_purity": 10,
-        "thons": 10,
-        "crystal_b": 16,
-        "gemstone_b": 6
-    }
+  "id": 334,
+  "display_name": "Earing Of Black Ore 70%",
+  "recipe_level": 7,
+  "success_rate": 70,
+  "outputqty": 1,
+  "materials": {
+    "recipe_earing_of_black_ore_i": 1,
+    "earing_of_black_ore_piece": 13,
+    "blacksmith_s_frame": 1,
+    "metallic_fiber": 50,
+    "varnish_of_purity": 10,
+    "thons": 10,
+    "crystal_b": 16,
+    "gemstone_b": 6
+  }
 }

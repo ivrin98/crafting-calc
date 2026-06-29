@@ -1,13 +1,14 @@
 {
-    "id": 309,
-    "recipe_level": 6,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "divine_gloves_design": 11,
-        "crafted_leather": 24,
-        "high_grade_suede": 3,
-        "crystal_c": 24,
-        "gemstone_c": 10
-    }
+  "id": 309,
+  "display_name": "Divine Gloves",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "divine_gloves_design": 11,
+    "crafted_leather": 24,
+    "high_grade_suede": 3,
+    "crystal_c": 24,
+    "gemstone_c": 10
+  }
 }

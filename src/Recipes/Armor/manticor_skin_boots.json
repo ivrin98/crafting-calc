@@ -1,13 +1,14 @@
 {
-    "id": 267,
-    "recipe_level": 3,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "manticor_skin_boots_lining": 7,
-        "leather": 24,
-        "high_grade_suede": 3,
-        "crystal_d": 24,
-        "gemstone_d": 5
-    }
+  "id": 267,
+  "display_name": "Manticor Skin Boots",
+  "recipe_level": 3,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "manticor_skin_boots_lining": 7,
+    "leather": 24,
+    "high_grade_suede": 3,
+    "crystal_d": 24,
+    "gemstone_d": 5
+  }
 }

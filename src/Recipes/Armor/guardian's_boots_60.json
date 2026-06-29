@@ -1,15 +1,16 @@
 {
-    "id": 349,
-    "recipe_level": 6,
-    "success_rate": 60,
-    "outputqty": 1,
-    "materials": {
-        "rp_guardian_s_boots_i": 1,
-        "guardian_s_boots_fabric": 12,
-        "crafted_leather": 16,
-        "high_grade_suede": 2,
-        "asofe": 2,
-        "crystal_c": 25,
-        "gemstone_b": 2
-    }
+  "id": 349,
+  "display_name": "Guardian's Boots 60%",
+  "recipe_level": 6,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_guardian_s_boots_i": 1,
+    "guardian_s_boots_fabric": 12,
+    "crafted_leather": 16,
+    "high_grade_suede": 2,
+    "asofe": 2,
+    "crystal_c": 25,
+    "gemstone_b": 2
+  }
 }

@@ -1,13 +1,14 @@
 {
-    "id": 129,
-    "recipe_level": 6,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "cap_of_mana_pattern": 11,
-        "blacksmith_s_frame": 1,
-        "crafted_leather": 26,
-        "crystal_c": 36,
-        "gemstone_c": 15
-    }
+  "id": 129,
+  "display_name": "Cap Of Mana",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "cap_of_mana_pattern": 11,
+    "blacksmith_s_frame": 1,
+    "crafted_leather": 26,
+    "crystal_c": 36,
+    "gemstone_c": 15
+  }
 }

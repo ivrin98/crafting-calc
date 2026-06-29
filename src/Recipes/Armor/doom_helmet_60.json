@@ -1,15 +1,16 @@
 {
-    "id": 407,
-    "recipe_level": 7,
-    "success_rate": 60,
-    "outputqty": 1,
-    "materials": {
-        "rp_doom_helmet_i": 1,
-        "doom_helmet_pattern": 13,
-        "blacksmith_s_frame": 1,
-        "crafted_leather": 40,
-        "asofe": 4,
-        "crystal_b": 14,
-        "gemstone_b": 7
-    }
+  "id": 407,
+  "display_name": "Doom Helmet 60%",
+  "recipe_level": 7,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_doom_helmet_i": 1,
+    "doom_helmet_pattern": 13,
+    "blacksmith_s_frame": 1,
+    "crafted_leather": 40,
+    "asofe": 4,
+    "crystal_b": 14,
+    "gemstone_b": 7
+  }
 }

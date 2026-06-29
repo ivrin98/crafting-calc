@@ -1,10 +1,11 @@
 {
-    "id": 829,
-    "recipe_level": 4,
-    "success_rate": 100,
-    "outputqty": 10,
-    "materials": {
-        "soul_ore": 380,
-        "mysterious_solvent": 50
-    }
+  "id": 829,
+  "display_name": "Elixir Of Life B",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 10,
+  "materials": {
+    "soul_ore": 380,
+    "mysterious_solvent": 50
+  }
 }

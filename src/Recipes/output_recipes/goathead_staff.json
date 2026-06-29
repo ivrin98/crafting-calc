@@ -1,14 +1,15 @@
 {
-    "id": 163,
-    "recipe_level": 3,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "goathead_staff_head": 7,
-        "steel": 100,
-        "coarse_bone_powder": 200,
-        "braided_hemp": 100,
-        "crystal_d": 430,
-        "gemstone_d": 139
-    }
+  "id": 163,
+  "display_name": "Goathead Staff",
+  "recipe_level": 3,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "goathead_staff_head": 7,
+    "steel": 100,
+    "coarse_bone_powder": 200,
+    "braided_hemp": 100,
+    "crystal_d": 430,
+    "gemstone_d": 139
+  }
 }

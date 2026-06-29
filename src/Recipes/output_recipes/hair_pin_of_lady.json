@@ -1,12 +1,13 @@
 {
-    "id": 683,
-    "recipe_level": 4,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_hair_pin_of_lady": 1,
-        "hair_pin_of_lady_piece": 20,
-        "fish_gem": 300,
-        "shiny_fish_gem": 150
-    }
+  "id": 683,
+  "display_name": "Hair Pin Of Lady",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_hair_pin_of_lady": 1,
+    "hair_pin_of_lady_piece": 20,
+    "fish_gem": 300,
+    "shiny_fish_gem": 150
+  }
 }

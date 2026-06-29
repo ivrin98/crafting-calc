@@ -1,13 +1,14 @@
 {
-    "id": 307,
-    "recipe_level": 6,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "full_plate_gauntlet_part": 11,
-        "crafted_leather": 24,
-        "high_grade_suede": 3,
-        "crystal_c": 24,
-        "gemstone_c": 10
-    }
+  "id": 307,
+  "display_name": "Full Plate Gauntlet",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "full_plate_gauntlet_part": 11,
+    "crafted_leather": 24,
+    "high_grade_suede": 3,
+    "crystal_c": 24,
+    "gemstone_c": 10
+  }
 }

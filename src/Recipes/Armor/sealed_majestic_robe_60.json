@@ -1,17 +1,18 @@
 {
-    "id": 529,
-    "recipe_level": 8,
-    "success_rate": 60,
-    "outputqty": 1,
-    "materials": {
-        "rp_sealed_majestic_robe_i": 1,
-        "sealed_majestic_robe_fabric": 14,
-        "maestro_anvil_lock": 1,
-        "crafted_leather": 204,
-        "metallic_fiber": 102,
-        "compound_braid": 51,
-        "asofe": 51,
-        "crystal_a": 53,
-        "gemstone_a": 17
-    }
+  "id": 529,
+  "display_name": "Sealed Majestic Robe 60%",
+  "recipe_level": 8,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sealed_majestic_robe_i": 1,
+    "sealed_majestic_robe_fabric": 14,
+    "maestro_anvil_lock": 1,
+    "crafted_leather": 204,
+    "metallic_fiber": 102,
+    "compound_braid": 51,
+    "asofe": 51,
+    "crystal_a": 53,
+    "gemstone_a": 17
+  }
 }

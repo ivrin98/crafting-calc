@@ -1,16 +1,17 @@
 {
-    "id": 664,
-    "recipe_level": 9,
-    "success_rate": 60,
-    "outputqty": 1,
-    "materials": {
-        "rp_sealed_draconic_leather_armor_i": 1,
-        "sealed_draconic_leather_armor_part": 17,
-        "arcsmith_anvil": 3,
-        "metallic_fiber": 168,
-        "compound_braid": 84,
-        "asofe": 84,
-        "crystal_s": 75,
-        "gemstone_s": 14
-    }
+  "id": 664,
+  "display_name": "Sealed Draconic Leather Armor 60%",
+  "recipe_level": 9,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sealed_draconic_leather_armor_i": 1,
+    "sealed_draconic_leather_armor_part": 17,
+    "arcsmith_anvil": 3,
+    "metallic_fiber": 168,
+    "compound_braid": 84,
+    "asofe": 84,
+    "crystal_s": 75,
+    "gemstone_s": 14
+  }
 }

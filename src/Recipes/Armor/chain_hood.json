@@ -1,13 +1,14 @@
 {
-    "id": 280,
-    "recipe_level": 4,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "chain_hood_pattern": 8,
-        "blacksmith_s_frame": 1,
-        "crafted_leather": 2,
-        "crystal_d": 60,
-        "gemstone_c": 5
-    }
+  "id": 280,
+  "display_name": "Chain Hood",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "chain_hood_pattern": 8,
+    "blacksmith_s_frame": 1,
+    "crafted_leather": 2,
+    "crystal_d": 60,
+    "gemstone_c": 5
+  }
 }

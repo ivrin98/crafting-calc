@@ -1,16 +1,17 @@
 {
-    "id": 615,
-    "recipe_level": 8,
-    "success_rate": 70,
-    "outputqty": 1,
-    "materials": {
-        "rp_sealed_majestic_earing_i": 1,
-        "sealed_majestic_earing_gemstone": 14,
-        "maestro_mold": 1,
-        "metallic_fiber": 65,
-        "varnish_of_purity": 39,
-        "thons": 13,
-        "crystal_a": 15,
-        "gemstone_a": 5
-    }
+  "id": 615,
+  "display_name": "Sealed Majestic Earing 70%",
+  "recipe_level": 8,
+  "success_rate": 70,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sealed_majestic_earing_i": 1,
+    "sealed_majestic_earing_gemstone": 14,
+    "maestro_mold": 1,
+    "metallic_fiber": 65,
+    "varnish_of_purity": 39,
+    "thons": 13,
+    "crystal_a": 15,
+    "gemstone_a": 5
+  }
 }

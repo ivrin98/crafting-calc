@@ -1,14 +1,15 @@
 {
-    "id": 102,
-    "recipe_level": 4,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "eldarake_temper": 8,
-        "mithirl_alloy": 3,
-        "synthesis_cokes": 1,
-        "crafted_leather": 1,
-        "crystal_d": 40,
-        "gemstone_c": 3
-    }
+  "id": 102,
+  "display_name": "Eldarake",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "eldarake_temper": 8,
+    "mithirl_alloy": 3,
+    "synthesis_cokes": 1,
+    "crafted_leather": 1,
+    "crystal_d": 40,
+    "gemstone_c": 3
+  }
 }

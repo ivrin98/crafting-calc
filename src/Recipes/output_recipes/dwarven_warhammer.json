@@ -1,15 +1,16 @@
 {
-    "id": 312,
-    "recipe_level": 5,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "dwarven_warhammer_head": 9,
-        "mithirl_alloy": 38,
-        "synthesis_cokes": 38,
-        "high_grade_suede": 19,
-        "reinforcing_agent": 76,
-        "crystal_c": 180,
-        "gemstone_c": 105
-    }
+  "id": 312,
+  "display_name": "Dwarven Warhammer",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "dwarven_warhammer_head": 9,
+    "mithirl_alloy": 38,
+    "synthesis_cokes": 38,
+    "high_grade_suede": 19,
+    "reinforcing_agent": 76,
+    "crystal_c": 180,
+    "gemstone_c": 105
+  }
 }

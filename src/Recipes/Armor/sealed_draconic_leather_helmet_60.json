@@ -1,13 +1,14 @@
 {
-    "id": 670,
-    "recipe_level": 9,
-    "success_rate": 60,
-    "outputqty": 1,
-    "materials": {
-        "rp_sealed_draconic_leather_helmet_i": 1,
-        "sealed_draconic_leather_helmet_pattern": 17,
-        "reorins_mold": 1,
-        "crystal_s": 25,
-        "gemstone_s": 4
-    }
+  "id": 670,
+  "display_name": "Sealed Draconic Leather Helmet 60%",
+  "recipe_level": 9,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sealed_draconic_leather_helmet_i": 1,
+    "sealed_draconic_leather_helmet_pattern": 17,
+    "reorins_mold": 1,
+    "crystal_s": 25,
+    "gemstone_s": 4
+  }
 }

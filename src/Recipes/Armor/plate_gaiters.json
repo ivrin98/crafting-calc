@@ -1,13 +1,14 @@
 {
-    "id": 89,
-    "recipe_level": 4,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "plate_gaiters_part": 8,
-        "steel_mold": 2,
-        "steel": 45,
-        "crystal_d": 70,
-        "gemstone_d": 19
-    }
+  "id": 89,
+  "display_name": "Plate Gaiters",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "plate_gaiters_part": 8,
+    "steel_mold": 2,
+    "steel": 45,
+    "crystal_d": 70,
+    "gemstone_d": 19
+  }
 }

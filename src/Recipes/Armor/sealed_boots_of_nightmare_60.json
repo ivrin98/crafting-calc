@@ -1,16 +1,17 @@
 {
-    "id": 541,
-    "recipe_level": 8,
-    "success_rate": 60,
-    "outputqty": 1,
-    "materials": {
-        "rp_sealed_boots_of_nightmare_i": 1,
-        "sealed_boots_of_nightmare_lining": 14,
-        "maestro_anvil_lock": 1,
-        "crafted_leather": 40,
-        "high_grade_suede": 24,
-        "asofe": 8,
-        "crystal_a": 11,
-        "gemstone_a": 3
-    }
+  "id": 541,
+  "display_name": "Sealed Boots Of Nightmare 60%",
+  "recipe_level": 8,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sealed_boots_of_nightmare_i": 1,
+    "sealed_boots_of_nightmare_lining": 14,
+    "maestro_anvil_lock": 1,
+    "crafted_leather": 40,
+    "high_grade_suede": 24,
+    "asofe": 8,
+    "crystal_a": 11,
+    "gemstone_a": 3
+  }
 }

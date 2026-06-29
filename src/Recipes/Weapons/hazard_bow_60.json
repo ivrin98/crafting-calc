@@ -1,16 +1,17 @@
 {
-    "id": 472,
-    "recipe_level": 7,
-    "success_rate": 60,
-    "outputqty": 1,
-    "materials": {
-        "rp_hazard_bow_i": 1,
-        "hazard_bow_shaft": 13,
-        "mithirl_alloy": 200,
-        "compound_braid": 40,
-        "high_grade_suede": 40,
-        "enria": 40,
-        "crystal_b": 155,
-        "gemstone_b": 98
-    }
+  "id": 472,
+  "display_name": "Hazard Bow 60%",
+  "recipe_level": 7,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_hazard_bow_i": 1,
+    "hazard_bow_shaft": 13,
+    "mithirl_alloy": 200,
+    "compound_braid": 40,
+    "high_grade_suede": 40,
+    "enria": 40,
+    "crystal_b": 155,
+    "gemstone_b": 98
+  }
 }

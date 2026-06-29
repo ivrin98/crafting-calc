@@ -1,12 +1,13 @@
 {
-    "id": 10,
-    "recipe_level": 1,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "bow_of_forest_shaft": 3,
-        "iron_ore": 225,
-        "braided_hemp": 45,
-        "suede": 45
-    }
+  "id": 10,
+  "display_name": "Bow Of Forest",
+  "recipe_level": 1,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "bow_of_forest_shaft": 3,
+    "iron_ore": 225,
+    "braided_hemp": 45,
+    "suede": 45
+  }
 }

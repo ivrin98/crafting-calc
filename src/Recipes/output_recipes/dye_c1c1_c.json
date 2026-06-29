@@ -1,12 +1,13 @@
 {
-    "id": 729,
-    "recipe_level": 4,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_dye_c1c1_c": 1,
-        "fish_oil_high": 5,
-        "thin_fish_bone": 90,
-        "thick_fish_bone": 15
-    }
+  "id": 729,
+  "display_name": "Dye C1c1 C",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_dye_c1c1_c": 1,
+    "fish_oil_high": 5,
+    "thin_fish_bone": 90,
+    "thick_fish_bone": 15
+  }
 }

@@ -1,16 +1,17 @@
 {
-    "id": 442,
-    "recipe_level": 6,
-    "success_rate": 60,
-    "outputqty": 1,
-    "materials": {
-        "rp_sprite_s_staff_i": 1,
-        "sprite_s_staff_head": 12,
-        "oriharukon": 50,
-        "coarse_bone_powder": 100,
-        "compound_braid": 50,
-        "enria": 50,
-        "crystal_c": 330,
-        "gemstone_b": 62
-    }
+  "id": 442,
+  "display_name": "Sprite's Staff 60%",
+  "recipe_level": 6,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sprite_s_staff_i": 1,
+    "sprite_s_staff_head": 12,
+    "oriharukon": 50,
+    "coarse_bone_powder": 100,
+    "compound_braid": 50,
+    "enria": 50,
+    "crystal_c": 330,
+    "gemstone_b": 62
+  }
 }

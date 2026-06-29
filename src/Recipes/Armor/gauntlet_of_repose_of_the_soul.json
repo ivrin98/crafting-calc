@@ -1,13 +1,14 @@
 {
-    "id": 84,
-    "recipe_level": 3,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "gauntlet_of_repose_of_the_soul_pattern": 7,
-        "leather": 24,
-        "high_grade_suede": 3,
-        "crystal_d": 24,
-        "gemstone_d": 5
-    }
+  "id": 84,
+  "display_name": "Gauntlet Of Repose Of The Soul",
+  "recipe_level": 3,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "gauntlet_of_repose_of_the_soul_pattern": 7,
+    "leather": 24,
+    "high_grade_suede": 3,
+    "crystal_d": 24,
+    "gemstone_d": 5
+  }
 }

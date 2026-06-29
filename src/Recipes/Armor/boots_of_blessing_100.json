@@ -1,16 +1,17 @@
 {
-    "id": 388,
-    "recipe_level": 6,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_boots_of_blessing": 1,
-        "boots_of_blessing_design": 12,
-        "maestro_anvil_lock": 1,
-        "crafted_leather": 24,
-        "high_grade_suede": 3,
-        "asofe": 3,
-        "crystal_c": 33,
-        "gemstone_b": 2
-    }
+  "id": 388,
+  "display_name": "Boots Of Blessing 100%",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_boots_of_blessing": 1,
+    "boots_of_blessing_design": 12,
+    "maestro_anvil_lock": 1,
+    "crafted_leather": 24,
+    "high_grade_suede": 3,
+    "asofe": 3,
+    "crystal_c": 33,
+    "gemstone_b": 2
+  }
 }

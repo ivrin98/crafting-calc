@@ -1,13 +1,14 @@
 {
-    "id": 294,
-    "recipe_level": 5,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "gloves_of_seal_pattern": 9,
-        "crafted_leather": 10,
-        "high_grade_suede": 1,
-        "crystal_c": 12,
-        "gemstone_c": 4
-    }
+  "id": 294,
+  "display_name": "Gloves Of Seal",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "gloves_of_seal_pattern": 9,
+    "crafted_leather": 10,
+    "high_grade_suede": 1,
+    "crystal_c": 12,
+    "gemstone_c": 4
+  }
 }

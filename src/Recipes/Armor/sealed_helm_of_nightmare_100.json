@@ -1,15 +1,16 @@
 {
-    "id": 568,
-    "recipe_level": 8,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_sealed_helm_of_nightmare": 1,
-        "sealed_helm_of_nightmare_design": 14,
-        "reorins_mold": 1,
-        "crafted_leather": 160,
-        "asofe": 16,
-        "crystal_a": 27,
-        "gemstone_a": 5
-    }
+  "id": 568,
+  "display_name": "Sealed Helm Of Nightmare 100%",
+  "recipe_level": 8,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sealed_helm_of_nightmare": 1,
+    "sealed_helm_of_nightmare_design": 14,
+    "reorins_mold": 1,
+    "crafted_leather": 160,
+    "asofe": 16,
+    "crystal_a": 27,
+    "gemstone_a": 5
+  }
 }

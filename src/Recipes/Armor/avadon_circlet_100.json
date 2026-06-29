@@ -1,15 +1,16 @@
 {
-    "id": 374,
-    "recipe_level": 6,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_avadon_circlet": 1,
-        "avadon_circlet_pattern": 12,
-        "maestro_mold": 1,
-        "crafted_leather": 40,
-        "asofe": 4,
-        "crystal_c": 41,
-        "gemstone_b": 4
-    }
+  "id": 374,
+  "display_name": "Avadon Circlet 100%",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_avadon_circlet": 1,
+    "avadon_circlet_pattern": 12,
+    "maestro_mold": 1,
+    "crafted_leather": 40,
+    "asofe": 4,
+    "crystal_c": 41,
+    "gemstone_b": 4
+  }
 }

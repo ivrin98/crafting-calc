@@ -1,11 +1,12 @@
 {
-    "id": 699,
-    "recipe_level": 2,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_bighead_potion": 1,
-        "fish_oil_average": 10,
-        "fish_scale": 28
-    }
+  "id": 699,
+  "display_name": "Bighead Potion",
+  "recipe_level": 2,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_bighead_potion": 1,
+    "fish_oil_average": 10,
+    "fish_scale": 28
+  }
 }

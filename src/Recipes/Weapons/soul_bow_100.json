@@ -1,18 +1,19 @@
 {
-    "id": 580,
-    "recipe_level": 8,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_soul_bow": 1,
-        "soul_bow_shaft": 14,
-        "warsmith_holder": 2,
-        "mithirl_alloy": 490,
-        "compound_braid": 98,
-        "high_grade_suede": 98,
-        "enria": 98,
-        "reinforcing_plate": 196,
-        "crystal_a": 369,
-        "gemstone_a": 74
-    }
+  "id": 580,
+  "display_name": "Soul Bow 100%",
+  "recipe_level": 8,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_soul_bow": 1,
+    "soul_bow_shaft": 14,
+    "warsmith_holder": 2,
+    "mithirl_alloy": 490,
+    "compound_braid": 98,
+    "high_grade_suede": 98,
+    "enria": 98,
+    "reinforcing_plate": 196,
+    "crystal_a": 369,
+    "gemstone_a": 74
+  }
 }

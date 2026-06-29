@@ -1,15 +1,16 @@
 {
-    "id": 561,
-    "recipe_level": 7,
-    "success_rate": 60,
-    "outputqty": 1,
-    "materials": {
-        "rp_sealed_dark_crystal_gaiters_i": 1,
-        "sealed_dark_crystal_gaiters_pattern": 13,
-        "maestro_mold": 2,
-        "mithirl_alloy": 24,
-        "asofe": 16,
-        "crystal_b": 27,
-        "gemstone_b": 59
-    }
+  "id": 561,
+  "display_name": "Sealed Dark Crystal Gaiters 60%",
+  "recipe_level": 7,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sealed_dark_crystal_gaiters_i": 1,
+    "sealed_dark_crystal_gaiters_pattern": 13,
+    "maestro_mold": 2,
+    "mithirl_alloy": 24,
+    "asofe": 16,
+    "crystal_b": 27,
+    "gemstone_b": 59
+  }
 }

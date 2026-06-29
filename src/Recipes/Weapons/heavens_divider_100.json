@@ -1,17 +1,18 @@
 {
-    "id": 643,
-    "recipe_level": 9,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_heavens_divider": 1,
-        "heavens_divider_edge": 17,
-        "warsmith_holder": 8,
-        "mithirl_alloy": 540,
-        "synthesis_cokes": 270,
-        "reinforcing_plate": 270,
-        "enria": 270,
-        "crystal_s": 399,
-        "gemstone_s": 43
-    }
+  "id": 643,
+  "display_name": "Heavens Divider 100%",
+  "recipe_level": 9,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_heavens_divider": 1,
+    "heavens_divider_edge": 17,
+    "warsmith_holder": 8,
+    "mithirl_alloy": 540,
+    "synthesis_cokes": 270,
+    "reinforcing_plate": 270,
+    "enria": 270,
+    "crystal_s": 399,
+    "gemstone_s": 43
+  }
 }

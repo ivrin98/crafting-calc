@@ -1,13 +1,14 @@
 {
-    "id": 296,
-    "recipe_level": 5,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "demon_s_boots_fabric": 10,
-        "crafted_leather": 16,
-        "high_grade_suede": 2,
-        "crystal_c": 16,
-        "gemstone_c": 6
-    }
+  "id": 296,
+  "display_name": "Demon's Boots",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "demon_s_boots_fabric": 10,
+    "crafted_leather": 16,
+    "high_grade_suede": 2,
+    "crystal_c": 16,
+    "gemstone_c": 6
+  }
 }

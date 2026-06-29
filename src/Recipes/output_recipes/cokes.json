@@ -1,10 +1,11 @@
 {
-    "id": 29,
-    "recipe_level": 1,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "coal": 3,
-        "charcoal": 3
-    }
+  "id": 29,
+  "display_name": "Cokes",
+  "recipe_level": 1,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "coal": 3,
+    "charcoal": 3
+  }
 }

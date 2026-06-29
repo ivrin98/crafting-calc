@@ -1,14 +1,15 @@
 {
-    "id": 49,
-    "recipe_level": 3,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "elven_necklace_beads": 7,
-        "silver_mold": 1,
-        "braided_hemp": 70,
-        "varnish": 14,
-        "crystal_d": 38,
-        "gemstone_d": 9
-    }
+  "id": 49,
+  "display_name": "Elven Necklace",
+  "recipe_level": 3,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "elven_necklace_beads": 7,
+    "silver_mold": 1,
+    "braided_hemp": 70,
+    "varnish": 14,
+    "crystal_d": 38,
+    "gemstone_d": 9
+  }
 }

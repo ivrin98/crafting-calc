@@ -1,15 +1,16 @@
 {
-    "id": 343,
-    "recipe_level": 6,
-    "success_rate": 60,
-    "outputqty": 1,
-    "materials": {
-        "rp_shrnoen_s_gaiters_i": 1,
-        "shrnoen_s_gaiters_material": 12,
-        "blacksmith_s_frame": 2,
-        "mithirl_alloy": 12,
-        "asofe": 8,
-        "crystal_c": 45,
-        "gemstone_b": 7
-    }
+  "id": 343,
+  "display_name": "Shrnoen's Gaiters 60%",
+  "recipe_level": 6,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_shrnoen_s_gaiters_i": 1,
+    "shrnoen_s_gaiters_material": 12,
+    "blacksmith_s_frame": 2,
+    "mithirl_alloy": 12,
+    "asofe": 8,
+    "crystal_c": 45,
+    "gemstone_b": 7
+  }
 }

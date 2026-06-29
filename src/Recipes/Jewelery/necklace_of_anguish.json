@@ -1,11 +1,12 @@
 {
-    "id": 18,
-    "recipe_level": 1,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "necklace_of_anguish_chain": 2,
-        "stem": 20,
-        "varnish": 4
-    }
+  "id": 18,
+  "display_name": "Necklace Of Anguish",
+  "recipe_level": 1,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "necklace_of_anguish_chain": 2,
+    "stem": 20,
+    "varnish": 4
+  }
 }

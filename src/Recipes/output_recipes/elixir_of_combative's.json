@@ -1,10 +1,11 @@
 {
-    "id": 843,
-    "recipe_level": 6,
-    "success_rate": 100,
-    "outputqty": 10,
-    "materials": {
-        "soul_ore": 220,
-        "mysterious_solvent": 50
-    }
+  "id": 843,
+  "display_name": "Elixir Of Combative's",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 10,
+  "materials": {
+    "soul_ore": 220,
+    "mysterious_solvent": 50
+  }
 }

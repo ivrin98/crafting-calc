@@ -1,12 +1,13 @@
 {
-    "id": 762,
-    "recipe_level": 6,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_dye_s4c4_c": 1,
-        "fish_oil_high": 16,
-        "thin_fish_bone": 230,
-        "thick_fish_bone": 60
-    }
+  "id": 762,
+  "display_name": "Dye S4c4 C",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_dye_s4c4_c": 1,
+    "fish_oil_high": 16,
+    "thin_fish_bone": 230,
+    "thick_fish_bone": 60
+  }
 }

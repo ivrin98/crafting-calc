@@ -1,16 +1,17 @@
 {
-    "id": 330,
-    "recipe_level": 6,
-    "success_rate": 70,
-    "outputqty": 1,
-    "materials": {
-        "rp_adamantite_ring_i": 1,
-        "adamantite_ring_wire": 12,
-        "silver_mold": 1,
-        "metallic_fiber": 25,
-        "varnish_of_purity": 5,
-        "thons": 5,
-        "crystal_c": 22,
-        "gemstone_b": 2
-    }
+  "id": 330,
+  "display_name": "Adamantite Ring 70%",
+  "recipe_level": 6,
+  "success_rate": 70,
+  "outputqty": 1,
+  "materials": {
+    "recipe_adamantite_ring_i": 1,
+    "adamantite_ring_wire": 12,
+    "silver_mold": 1,
+    "metallic_fiber": 25,
+    "varnish_of_purity": 5,
+    "thons": 5,
+    "crystal_c": 22,
+    "gemstone_b": 2
+  }
 }

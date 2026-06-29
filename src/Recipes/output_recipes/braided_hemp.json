@@ -1,9 +1,10 @@
 {
-    "id": 28,
-    "recipe_level": 1,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "stem": 5
-    }
+  "id": 28,
+  "display_name": "Braided Hemp",
+  "recipe_level": 1,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "stem": 5
+  }
 }

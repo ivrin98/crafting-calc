@@ -1,16 +1,17 @@
 {
-    "id": 380,
-    "recipe_level": 6,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_guardian_s_gloves": 1,
-        "guardian_s_gloves_design": 12,
-        "maestro_anvil_lock": 1,
-        "crafted_leather": 32,
-        "high_grade_suede": 4,
-        "asofe": 4,
-        "crystal_c": 15,
-        "gemstone_b": 2
-    }
+  "id": 380,
+  "display_name": "Guardian's Gloves 100%",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_guardian_s_gloves": 1,
+    "guardian_s_gloves_design": 12,
+    "maestro_anvil_lock": 1,
+    "crafted_leather": 32,
+    "high_grade_suede": 4,
+    "asofe": 4,
+    "crystal_c": 15,
+    "gemstone_b": 2
+  }
 }

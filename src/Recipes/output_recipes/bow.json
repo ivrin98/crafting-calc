@@ -1,12 +1,13 @@
 {
-    "id": 4,
-    "recipe_level": 1,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "bow_shaft": 1,
-        "iron_ore": 20,
-        "braided_hemp": 4,
-        "suede": 4
-    }
+  "id": 4,
+  "display_name": "Bow",
+  "recipe_level": 1,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "bow_shaft": 1,
+    "iron_ore": 20,
+    "braided_hemp": 4,
+    "suede": 4
+  }
 }

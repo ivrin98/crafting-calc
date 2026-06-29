@@ -1,18 +1,19 @@
 {
-    "id": 581,
-    "recipe_level": 7,
-    "success_rate": 60,
-    "outputqty": 1,
-    "materials": {
-        "rp_carnium_bow_i": 1,
-        "carnium_bow_shaft": 13,
-        "maestro_holder": 3,
-        "mithirl_alloy": 150,
-        "compound_braid": 30,
-        "high_grade_suede": 30,
-        "enria": 30,
-        "reinforcing_plate": 60,
-        "crystal_b": 219,
-        "gemstone_b": 143
-    }
+  "id": 581,
+  "display_name": "Carnium Bow 60%",
+  "recipe_level": 7,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_carnium_bow_i": 1,
+    "carnium_bow_shaft": 13,
+    "maestro_holder": 3,
+    "mithirl_alloy": 150,
+    "compound_braid": 30,
+    "high_grade_suede": 30,
+    "enria": 30,
+    "reinforcing_plate": 60,
+    "crystal_b": 219,
+    "gemstone_b": 143
+  }
 }

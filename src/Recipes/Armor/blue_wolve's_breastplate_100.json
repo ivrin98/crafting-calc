@@ -1,15 +1,16 @@
 {
-    "id": 386,
-    "recipe_level": 7,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_blue_wolve_s_breastplate": 1,
-        "blue_wolve_s_breastplate_part": 13,
-        "maestro_mold": 3,
-        "mithirl_alloy": 54,
-        "asofe": 36,
-        "crystal_b": 89,
-        "gemstone_b": 20
-    }
+  "id": 386,
+  "display_name": "Blue Wolve's Breastplate 100%",
+  "recipe_level": 7,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_blue_wolve_s_breastplate": 1,
+    "blue_wolve_s_breastplate_part": 13,
+    "maestro_mold": 3,
+    "mithirl_alloy": 54,
+    "asofe": 36,
+    "crystal_b": 89,
+    "gemstone_b": 20
+  }
 }

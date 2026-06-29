@@ -1,16 +1,17 @@
 {
-    "id": 661,
-    "recipe_level": 9,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_sealed_imperial_crusader_shield": 1,
-        "sealed_imperial_crusader_shield_part": 17,
-        "reorins_mold": 1,
-        "mithirl_alloy": 87,
-        "synthesis_cokes": 29,
-        "asofe": 29,
-        "crystal_s": 32,
-        "gemstone_s": 2
-    }
+  "id": 661,
+  "display_name": "Sealed Imperial Crusader Shield 100%",
+  "recipe_level": 9,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sealed_imperial_crusader_shield": 1,
+    "sealed_imperial_crusader_shield_part": 17,
+    "reorins_mold": 1,
+    "mithirl_alloy": 87,
+    "synthesis_cokes": 29,
+    "asofe": 29,
+    "crystal_s": 32,
+    "gemstone_s": 2
+  }
 }

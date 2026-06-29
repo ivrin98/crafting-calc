@@ -1,13 +1,14 @@
 {
-    "id": 286,
-    "recipe_level": 4,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "reinforce_mithril_gloves_design": 8,
-        "crafted_leather": 8,
-        "high_grade_suede": 1,
-        "crystal_d": 40,
-        "gemstone_c": 3
-    }
+  "id": 286,
+  "display_name": "Reinforce Mithril Gloves",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "reinforce_mithril_gloves_design": 8,
+    "crafted_leather": 8,
+    "high_grade_suede": 1,
+    "crystal_d": 40,
+    "gemstone_c": 3
+  }
 }

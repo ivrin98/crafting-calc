@@ -1,13 +1,14 @@
 {
-    "id": 281,
-    "recipe_level": 4,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "chain_boots_part": 8,
-        "crafted_leather": 8,
-        "high_grade_suede": 1,
-        "crystal_d": 40,
-        "gemstone_c": 3
-    }
+  "id": 281,
+  "display_name": "Chain Boots",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "chain_boots_part": 8,
+    "crafted_leather": 8,
+    "high_grade_suede": 1,
+    "crystal_d": 40,
+    "gemstone_c": 3
+  }
 }

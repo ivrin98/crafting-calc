@@ -1,15 +1,16 @@
 {
-    "id": 227,
-    "recipe_level": 5,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "deathbreath_sword_blade": 10,
-        "artisan_s_frame": 2,
-        "mithirl_alloy": 50,
-        "synthesis_cokes": 50,
-        "reinforcing_agent": 100,
-        "crystal_c": 300,
-        "gemstone_c": 166
-    }
+  "id": 227,
+  "display_name": "Deathbreath Sword",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "deathbreath_sword_blade": 10,
+    "artisan_s_frame": 2,
+    "mithirl_alloy": 50,
+    "synthesis_cokes": 50,
+    "reinforcing_agent": 100,
+    "crystal_c": 300,
+    "gemstone_c": 166
+  }
 }

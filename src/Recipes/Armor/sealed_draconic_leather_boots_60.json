@@ -1,14 +1,15 @@
 {
-    "id": 668,
-    "recipe_level": 9,
-    "success_rate": 60,
-    "outputqty": 1,
-    "materials": {
-        "rp_sealed_draconic_leather_boots_i": 1,
-        "sealed_draconic_leather_boots_design": 17,
-        "warsmith_mold": 1,
-        "asofe": 12,
-        "crystal_s": 16,
-        "gemstone_s": 2
-    }
+  "id": 668,
+  "display_name": "Sealed Draconic Leather Boots 60%",
+  "recipe_level": 9,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sealed_draconic_leather_boots_i": 1,
+    "sealed_draconic_leather_boots_design": 17,
+    "warsmith_mold": 1,
+    "asofe": 12,
+    "crystal_s": 16,
+    "gemstone_s": 2
+  }
 }

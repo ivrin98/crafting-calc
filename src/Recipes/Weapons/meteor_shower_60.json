@@ -1,18 +1,19 @@
 {
-    "id": 575,
-    "recipe_level": 7,
-    "success_rate": 60,
-    "outputqty": 1,
-    "materials": {
-        "rp_meteor_shower_i": 1,
-        "meteor_shower_head": 13,
-        "maestro_holder": 3,
-        "mithirl_alloy": 60,
-        "synthesis_cokes": 60,
-        "high_grade_suede": 30,
-        "enria": 30,
-        "reinforcing_plate": 120,
-        "crystal_b": 215,
-        "gemstone_b": 143
-    }
+  "id": 575,
+  "display_name": "Meteor Shower 60%",
+  "recipe_level": 7,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_meteor_shower_i": 1,
+    "meteor_shower_head": 13,
+    "maestro_holder": 3,
+    "mithirl_alloy": 60,
+    "synthesis_cokes": 60,
+    "high_grade_suede": 30,
+    "enria": 30,
+    "reinforcing_plate": 120,
+    "crystal_b": 215,
+    "gemstone_b": 143
+  }
 }

@@ -1,13 +1,14 @@
 {
-    "id": 109,
-    "recipe_level": 5,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "great_helmet_material": 9,
-        "blacksmith_s_frame": 1,
-        "crafted_leather": 6,
-        "crystal_c": 16,
-        "gemstone_c": 6
-    }
+  "id": 109,
+  "display_name": "Great Helmet",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "great_helmet_material": 9,
+    "blacksmith_s_frame": 1,
+    "crafted_leather": 6,
+    "crystal_c": 16,
+    "gemstone_c": 6
+  }
 }

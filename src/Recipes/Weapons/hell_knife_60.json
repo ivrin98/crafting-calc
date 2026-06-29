@@ -1,16 +1,17 @@
 {
-    "id": 450,
-    "recipe_level": 6,
-    "success_rate": 60,
-    "outputqty": 1,
-    "materials": {
-        "rp_hell_knife_i": 1,
-        "hell_knife_edge": 12,
-        "artisan_s_frame": 2,
-        "mithirl_alloy": 72,
-        "synthesis_cokes": 72,
-        "enria": 36,
-        "crystal_c": 360,
-        "gemstone_b": 62
-    }
+  "id": 450,
+  "display_name": "Hell Knife 60%",
+  "recipe_level": 6,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_hell_knife_i": 1,
+    "hell_knife_edge": 12,
+    "artisan_s_frame": 2,
+    "mithirl_alloy": 72,
+    "synthesis_cokes": 72,
+    "enria": 36,
+    "crystal_c": 360,
+    "gemstone_b": 62
+  }
 }

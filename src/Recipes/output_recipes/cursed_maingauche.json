@@ -1,14 +1,15 @@
 {
-    "id": 175,
-    "recipe_level": 3,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "cursed_maingauche_edge": 7,
-        "steel_mold": 2,
-        "steel": 175,
-        "cokes": 175,
-        "crystal_d": 430,
-        "gemstone_d": 139
-    }
+  "id": 175,
+  "display_name": "Cursed Maingauche",
+  "recipe_level": 3,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "cursed_maingauche_edge": 7,
+    "steel_mold": 2,
+    "steel": 175,
+    "cokes": 175,
+    "crystal_d": 430,
+    "gemstone_d": 139
+  }
 }

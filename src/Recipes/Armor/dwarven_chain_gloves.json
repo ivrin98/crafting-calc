@@ -1,13 +1,14 @@
 {
-    "id": 293,
-    "recipe_level": 5,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "dwarven_chain_gloves_design": 9,
-        "crafted_leather": 10,
-        "high_grade_suede": 1,
-        "crystal_c": 12,
-        "gemstone_c": 4
-    }
+  "id": 293,
+  "display_name": "Dwarven Chain Gloves",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "dwarven_chain_gloves_design": 9,
+    "crafted_leather": 10,
+    "high_grade_suede": 1,
+    "crystal_c": 12,
+    "gemstone_c": 4
+  }
 }

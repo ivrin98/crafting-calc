@@ -1,17 +1,18 @@
 {
-    "id": 441,
-    "recipe_level": 6,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_heavy_war_axe": 1,
-        "heavy_war_axe_head": 12,
-        "maestro_holder": 3,
-        "mithirl_alloy": 118,
-        "synthesis_cokes": 118,
-        "high_grade_suede": 59,
-        "enria": 59,
-        "crystal_c": 498,
-        "gemstone_b": 62
-    }
+  "id": 441,
+  "display_name": "Heavy War Axe 100%",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_heavy_war_axe": 1,
+    "heavy_war_axe_head": 12,
+    "maestro_holder": 3,
+    "mithirl_alloy": 118,
+    "synthesis_cokes": 118,
+    "high_grade_suede": 59,
+    "enria": 59,
+    "crystal_c": 498,
+    "gemstone_b": 62
+  }
 }

@@ -1,16 +1,17 @@
 {
-    "id": 546,
-    "recipe_level": 7,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_sealed_dark_crystal_gloves": 1,
-        "sealed_dark_crystal_gloves_design": 13,
-        "warsmith_mold": 1,
-        "crafted_leather": 20,
-        "high_grade_suede": 12,
-        "asofe": 4,
-        "crystal_b": 18,
-        "gemstone_b": 19
-    }
+  "id": 546,
+  "display_name": "Sealed Dark Crystal Gloves 100%",
+  "recipe_level": 7,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sealed_dark_crystal_gloves": 1,
+    "sealed_dark_crystal_gloves_design": 13,
+    "warsmith_mold": 1,
+    "crafted_leather": 20,
+    "high_grade_suede": 12,
+    "asofe": 4,
+    "crystal_b": 18,
+    "gemstone_b": 19
+  }
 }

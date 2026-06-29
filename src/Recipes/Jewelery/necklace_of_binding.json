@@ -1,14 +1,15 @@
 {
-    "id": 62,
-    "recipe_level": 6,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "necklace_of_binding_chain": 11,
-        "blacksmith_s_frame": 1,
-        "compound_braid": 35,
-        "varnish_of_purity": 7,
-        "crystal_c": 38,
-        "gemstone_c": 16
-    }
+  "id": 62,
+  "display_name": "Necklace Of Binding",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "necklace_of_binding_chain": 11,
+    "blacksmith_s_frame": 1,
+    "compound_braid": 35,
+    "varnish_of_purity": 7,
+    "crystal_c": 38,
+    "gemstone_c": 16
+  }
 }

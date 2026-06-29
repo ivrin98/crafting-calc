@@ -1,16 +1,17 @@
 {
-    "id": 617,
-    "recipe_level": 7,
-    "success_rate": 70,
-    "outputqty": 1,
-    "materials": {
-        "rp_sealed_phoenix_s_necklace_i": 1,
-        "sealed_phoenix_s_necklace_beads": 13,
-        "maestro_mold": 1,
-        "metallic_fiber": 55,
-        "varnish_of_purity": 33,
-        "thons": 11,
-        "crystal_b": 23,
-        "gemstone_b": 12
-    }
+  "id": 617,
+  "display_name": "Sealed Phoenix's Necklace 70%",
+  "recipe_level": 7,
+  "success_rate": 70,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sealed_phoenix_s_necklace_i": 1,
+    "sealed_phoenix_s_necklace_beads": 13,
+    "maestro_mold": 1,
+    "metallic_fiber": 55,
+    "varnish_of_purity": 33,
+    "thons": 11,
+    "crystal_b": 23,
+    "gemstone_b": 12
+  }
 }

@@ -1,16 +1,17 @@
 {
-    "id": 466,
-    "recipe_level": 7,
-    "success_rate": 60,
-    "outputqty": 1,
-    "materials": {
-        "rp_staff_of_evil_sprit_i": 1,
-        "staff_of_evil_sprit_head": 13,
-        "oriharukon": 75,
-        "coarse_bone_powder": 150,
-        "compound_braid": 75,
-        "enria": 75,
-        "crystal_b": 165,
-        "gemstone_b": 98
-    }
+  "id": 466,
+  "display_name": "Staff Of Evil Sprit 60%",
+  "recipe_level": 7,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_staff_of_evil_sprit_i": 1,
+    "staff_of_evil_sprit_head": 13,
+    "oriharukon": 75,
+    "coarse_bone_powder": 150,
+    "compound_braid": 75,
+    "enria": 75,
+    "crystal_b": 165,
+    "gemstone_b": 98
+  }
 }

@@ -1,16 +1,17 @@
 {
-    "id": 624,
-    "recipe_level": 8,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_sealed_majestic_ring": 1,
-        "sealed_majestic_ring_gemstrone": 14,
-        "maestro_mold": 1,
-        "metallic_fiber": 70,
-        "varnish_of_purity": 42,
-        "thons": 14,
-        "crystal_a": 15,
-        "gemstone_a": 3
-    }
+  "id": 624,
+  "display_name": "Sealed Majestic Ring 100%",
+  "recipe_level": 8,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sealed_majestic_ring": 1,
+    "sealed_majestic_ring_gemstrone": 14,
+    "maestro_mold": 1,
+    "metallic_fiber": 70,
+    "varnish_of_purity": 42,
+    "thons": 14,
+    "crystal_a": 15,
+    "gemstone_a": 3
+  }
 }

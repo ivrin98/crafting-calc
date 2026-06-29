@@ -1,16 +1,17 @@
 {
-    "id": 673,
-    "recipe_level": 9,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_sealed_major_arcana_robe": 1,
-        "sealed_major_arcana_robe_part": 17,
-        "arcsmith_anvil": 6,
-        "metallic_fiber": 304,
-        "compound_braid": 152,
-        "asofe": 152,
-        "crystal_s": 144,
-        "gemstone_s": 14
-    }
+  "id": 673,
+  "display_name": "Sealed Major Arcana Robe 100%",
+  "recipe_level": 9,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sealed_major_arcana_robe": 1,
+    "sealed_major_arcana_robe_part": 17,
+    "arcsmith_anvil": 6,
+    "metallic_fiber": 304,
+    "compound_braid": 152,
+    "asofe": 152,
+    "crystal_s": 144,
+    "gemstone_s": 14
+  }
 }

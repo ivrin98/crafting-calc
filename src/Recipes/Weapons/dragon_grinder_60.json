@@ -1,18 +1,19 @@
 {
-    "id": 587,
-    "recipe_level": 8,
-    "success_rate": 60,
-    "outputqty": 1,
-    "materials": {
-        "rp_dragon_grinder_i": 1,
-        "dragon_grinder_edge": 14,
-        "maestro_holder": 3,
-        "mithirl_alloy": 98,
-        "synthesis_cokes": 98,
-        "high_grade_suede": 49,
-        "enria": 49,
-        "reinforcing_plate": 196,
-        "crystal_a": 194,
-        "gemstone_a": 74
-    }
+  "id": 587,
+  "display_name": "Dragon Grinder 60%",
+  "recipe_level": 8,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_dragon_grinder_i": 1,
+    "dragon_grinder_edge": 14,
+    "maestro_holder": 3,
+    "mithirl_alloy": 98,
+    "synthesis_cokes": 98,
+    "high_grade_suede": 49,
+    "enria": 49,
+    "reinforcing_plate": 196,
+    "crystal_a": 194,
+    "gemstone_a": 74
+  }
 }

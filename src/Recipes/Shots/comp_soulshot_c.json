@@ -1,10 +1,11 @@
 {
-    "id": 481,
-    "recipe_level": 4,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "soulshot_c": 300,
-        "rope_of_magic_c": 3
-    }
+  "id": 481,
+  "display_name": "Comp Soulshot C",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "soulshot_c": 300,
+    "rope_of_magic_c": 3
+  }
 }

@@ -1,15 +1,16 @@
 {
-    "id": 652,
-    "recipe_level": 9,
-    "success_rate": 60,
-    "outputqty": 1,
-    "materials": {
-        "rp_sealed_imperial_crusader_armor_i": 1,
-        "sealed_imperial_crusader_armor_part": 17,
-        "arcsmith_anvil": 3,
-        "mithirl_alloy": 117,
-        "asofe": 78,
-        "crystal_s": 62,
-        "gemstone_s": 11
-    }
+  "id": 652,
+  "display_name": "Sealed Imperial Crusader Armor 60%",
+  "recipe_level": 9,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sealed_imperial_crusader_armor_i": 1,
+    "sealed_imperial_crusader_armor_part": 17,
+    "arcsmith_anvil": 3,
+    "mithirl_alloy": 117,
+    "asofe": 78,
+    "crystal_s": 62,
+    "gemstone_s": 11
+  }
 }

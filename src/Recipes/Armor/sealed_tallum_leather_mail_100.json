@@ -1,17 +1,18 @@
 {
-    "id": 516,
-    "recipe_level": 7,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_sealed_tallum_leather_mail": 1,
-        "sealed_tallum_leather_mail_pattern": 13,
-        "arcsmith_anvil": 1,
-        "crafted_leather": 260,
-        "metallic_fiber": 130,
-        "compound_braid": 65,
-        "asofe": 65,
-        "crystal_b": 99,
-        "gemstone_b": 103
-    }
+  "id": 516,
+  "display_name": "Sealed Tallum Leather Mail 100%",
+  "recipe_level": 7,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sealed_tallum_leather_mail": 1,
+    "sealed_tallum_leather_mail_pattern": 13,
+    "arcsmith_anvil": 1,
+    "crafted_leather": 260,
+    "metallic_fiber": 130,
+    "compound_braid": 65,
+    "asofe": 65,
+    "crystal_b": 99,
+    "gemstone_b": 103
+  }
 }

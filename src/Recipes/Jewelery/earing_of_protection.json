@@ -1,14 +1,15 @@
 {
-    "id": 56,
-    "recipe_level": 5,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "earing_of_protection_gemstone": 9,
-        "blacksmith_s_frame": 1,
-        "metallic_fiber": 5,
-        "varnish_of_purity": 1,
-        "crystal_c": 14,
-        "gemstone_c": 5
-    }
+  "id": 56,
+  "display_name": "Earing Of Protection",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "earing_of_protection_gemstone": 9,
+    "blacksmith_s_frame": 1,
+    "metallic_fiber": 5,
+    "varnish_of_purity": 1,
+    "crystal_c": 14,
+    "gemstone_c": 5
+  }
 }

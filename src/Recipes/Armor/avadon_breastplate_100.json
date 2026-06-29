@@ -1,15 +1,16 @@
 {
-    "id": 358,
-    "recipe_level": 6,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_avadon_breastplate": 1,
-        "avadon_breastplate_part": 12,
-        "maestro_mold": 3,
-        "mithirl_alloy": 33,
-        "asofe": 22,
-        "crystal_c": 129,
-        "gemstone_b": 12
-    }
+  "id": 358,
+  "display_name": "Avadon Breastplate 100%",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_avadon_breastplate": 1,
+    "avadon_breastplate_part": 12,
+    "maestro_mold": 3,
+    "mithirl_alloy": 33,
+    "asofe": 22,
+    "crystal_c": 129,
+    "gemstone_b": 12
+  }
 }

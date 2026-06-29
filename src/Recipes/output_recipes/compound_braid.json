@@ -1,10 +1,11 @@
 {
-    "id": 37,
-    "recipe_level": 2,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "braided_hemp": 5,
-        "thread": 5
-    }
+  "id": 37,
+  "display_name": "Compound Braid",
+  "recipe_level": 2,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "braided_hemp": 5,
+    "thread": 5
+  }
 }

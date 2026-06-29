@@ -1,13 +1,14 @@
 {
-    "id": 71,
-    "recipe_level": 2,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "dark_hose_fabric": 5,
-        "leather": 20,
-        "cord": 20,
-        "crystal_d": 20,
-        "gemstone_d": 4
-    }
+  "id": 71,
+  "display_name": "Dark Hose",
+  "recipe_level": 2,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "dark_hose_fabric": 5,
+    "leather": 20,
+    "cord": 20,
+    "crystal_d": 20,
+    "gemstone_d": 4
+  }
 }

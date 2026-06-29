@@ -1,13 +1,14 @@
 {
-    "id": 107,
-    "recipe_level": 5,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "dwarven_chain_gaiters_material": 9,
-        "blacksmith_s_frame": 2,
-        "mithirl_alloy": 3,
-        "crystal_c": 25,
-        "gemstone_c": 11
-    }
+  "id": 107,
+  "display_name": "Dwarven Chain Gaiters",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "dwarven_chain_gaiters_material": 9,
+    "blacksmith_s_frame": 2,
+    "mithirl_alloy": 3,
+    "crystal_c": 25,
+    "gemstone_c": 11
+  }
 }

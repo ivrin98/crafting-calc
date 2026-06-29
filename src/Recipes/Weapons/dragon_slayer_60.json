@@ -1,17 +1,18 @@
 {
-    "id": 571,
-    "recipe_level": 8,
-    "success_rate": 60,
-    "outputqty": 1,
-    "materials": {
-        "rp_dragon_slayer_i": 1,
-        "dragon_slayer_edge": 14,
-        "craftsman_mold": 3,
-        "mithirl_alloy": 156,
-        "synthesis_cokes": 78,
-        "reinforcing_plate": 78,
-        "enria": 78,
-        "crystal_a": 195,
-        "gemstone_a": 74
-    }
+  "id": 571,
+  "display_name": "Dragon Slayer 60%",
+  "recipe_level": 8,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_dragon_slayer_i": 1,
+    "dragon_slayer_edge": 14,
+    "craftsman_mold": 3,
+    "mithirl_alloy": 156,
+    "synthesis_cokes": 78,
+    "reinforcing_plate": 78,
+    "enria": 78,
+    "crystal_a": 195,
+    "gemstone_a": 74
+  }
 }

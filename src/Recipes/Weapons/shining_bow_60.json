@@ -1,17 +1,18 @@
 {
-    "id": 634,
-    "recipe_level": 9,
-    "success_rate": 60,
-    "outputqty": 1,
-    "materials": {
-        "rp_shining_bow_i": 1,
-        "shining_bow_shaft": 17,
-        "warsmith_holder": 4,
-        "mithirl_alloy": 375,
-        "synthesis_cokes": 75,
-        "reinforcing_plate": 150,
-        "enria": 75,
-        "crystal_s": 212,
-        "gemstone_s": 43
-    }
+  "id": 634,
+  "display_name": "Shining Bow 60%",
+  "recipe_level": 9,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_shining_bow_i": 1,
+    "shining_bow_shaft": 17,
+    "warsmith_holder": 4,
+    "mithirl_alloy": 375,
+    "synthesis_cokes": 75,
+    "reinforcing_plate": 150,
+    "enria": 75,
+    "crystal_s": 212,
+    "gemstone_s": 43
+  }
 }

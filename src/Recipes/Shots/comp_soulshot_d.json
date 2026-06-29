@@ -1,10 +1,11 @@
 {
-    "id": 480,
-    "recipe_level": 2,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "soulshot_d": 300,
-        "rope_of_magic_d": 3
-    }
+  "id": 480,
+  "display_name": "Comp Soulshot D",
+  "recipe_level": 2,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "soulshot_d": 300,
+    "rope_of_magic_d": 3
+  }
 }

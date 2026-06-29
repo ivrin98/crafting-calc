@@ -1,13 +1,14 @@
 {
-    "id": 106,
-    "recipe_level": 5,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "dwarven_chain_mail_shirt_material": 9,
-        "blacksmith_s_frame": 3,
-        "mithirl_alloy": 5,
-        "crystal_c": 42,
-        "gemstone_c": 19
-    }
+  "id": 106,
+  "display_name": "Dwarven Chain Mail Shirt",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "dwarven_chain_mail_shirt_material": 9,
+    "blacksmith_s_frame": 3,
+    "mithirl_alloy": 5,
+    "crystal_c": 42,
+    "gemstone_c": 19
+  }
 }

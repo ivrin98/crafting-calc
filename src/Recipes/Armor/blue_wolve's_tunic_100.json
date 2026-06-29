@@ -1,16 +1,17 @@
 {
-    "id": 398,
-    "recipe_level": 7,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_blue_wolve_s_tunic": 1,
-        "blue_wolve_s_tunic_fabric": 13,
-        "maestro_anvil_lock": 2,
-        "crafted_leather": 88,
-        "metallic_fiber": 44,
-        "asofe": 44,
-        "crystal_b": 73,
-        "gemstone_b": 14
-    }
+  "id": 398,
+  "display_name": "Blue Wolve's Tunic 100%",
+  "recipe_level": 7,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_blue_wolve_s_tunic": 1,
+    "blue_wolve_s_tunic_fabric": 13,
+    "maestro_anvil_lock": 2,
+    "crafted_leather": 88,
+    "metallic_fiber": 44,
+    "asofe": 44,
+    "crystal_b": 73,
+    "gemstone_b": 14
+  }
 }

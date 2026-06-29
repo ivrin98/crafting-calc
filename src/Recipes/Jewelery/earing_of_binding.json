@@ -1,14 +1,15 @@
 {
-    "id": 59,
-    "recipe_level": 5,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "earing_of_binding_gemstone": 10,
-        "blacksmith_s_frame": 1,
-        "metallic_fiber": 20,
-        "varnish_of_purity": 4,
-        "crystal_c": 22,
-        "gemstone_c": 8
-    }
+  "id": 59,
+  "display_name": "Earing Of Binding",
+  "recipe_level": 5,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "earing_of_binding_gemstone": 10,
+    "blacksmith_s_frame": 1,
+    "metallic_fiber": 20,
+    "varnish_of_purity": 4,
+    "crystal_c": 22,
+    "gemstone_c": 8
+  }
 }

@@ -1,13 +1,14 @@
 {
-    "id": 662,
-    "recipe_level": 9,
-    "success_rate": 60,
-    "outputqty": 1,
-    "materials": {
-        "rp_sealed_imperial_crusader_helmet_i": 1,
-        "sealed_imperial_crusader_helmet_pattern": 17,
-        "reorins_mold": 1,
-        "crystal_s": 25,
-        "gemstone_s": 4
-    }
+  "id": 662,
+  "display_name": "Sealed Imperial Crusader Helmet 60%",
+  "recipe_level": 9,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sealed_imperial_crusader_helmet_i": 1,
+    "sealed_imperial_crusader_helmet_pattern": 17,
+    "reorins_mold": 1,
+    "crystal_s": 25,
+    "gemstone_s": 4
+  }
 }

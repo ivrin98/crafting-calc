@@ -1,15 +1,16 @@
 {
-    "id": 360,
-    "recipe_level": 6,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_avadon_gaiters": 1,
-        "avadon_gaiters_material": 12,
-        "maestro_mold": 2,
-        "mithirl_alloy": 21,
-        "asofe": 14,
-        "crystal_c": 72,
-        "gemstone_b": 7
-    }
+  "id": 360,
+  "display_name": "Avadon Gaiters 100%",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_avadon_gaiters": 1,
+    "avadon_gaiters_material": 12,
+    "maestro_mold": 2,
+    "mithirl_alloy": 21,
+    "asofe": 14,
+    "crystal_c": 72,
+    "gemstone_b": 7
+  }
 }

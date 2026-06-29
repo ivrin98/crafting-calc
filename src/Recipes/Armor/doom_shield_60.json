@@ -1,16 +1,17 @@
 {
-    "id": 383,
-    "recipe_level": 7,
-    "success_rate": 60,
-    "outputqty": 1,
-    "materials": {
-        "rp_doom_shield_i": 1,
-        "doom_shield_fragment": 13,
-        "mithirl_alloy": 9,
-        "synthesis_cokes": 3,
-        "crafted_leather": 3,
-        "asofe": 3,
-        "crystal_b": 15,
-        "gemstone_b": 4
-    }
+  "id": 383,
+  "display_name": "Doom Shield 60%",
+  "recipe_level": 7,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_doom_shield_i": 1,
+    "doom_shield_fragment": 13,
+    "mithirl_alloy": 9,
+    "synthesis_cokes": 3,
+    "crafted_leather": 3,
+    "asofe": 3,
+    "crystal_b": 15,
+    "gemstone_b": 4
+  }
 }

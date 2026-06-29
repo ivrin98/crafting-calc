@@ -1,17 +1,18 @@
 {
-    "id": 372,
-    "recipe_level": 6,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_avadon_robe": 1,
-        "avadon_robe_fabric": 12,
-        "maestro_anvil_lock": 3,
-        "crafted_leather": 96,
-        "metallic_fiber": 48,
-        "compound_braid": 24,
-        "asofe": 24,
-        "crystal_c": 161,
-        "gemstone_b": 14
-    }
+  "id": 372,
+  "display_name": "Avadon Robe 100%",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_avadon_robe": 1,
+    "avadon_robe_fabric": 12,
+    "maestro_anvil_lock": 3,
+    "crafted_leather": 96,
+    "metallic_fiber": 48,
+    "compound_braid": 24,
+    "asofe": 24,
+    "crystal_c": 161,
+    "gemstone_b": 14
+  }
 }

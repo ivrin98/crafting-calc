@@ -1,16 +1,17 @@
 {
-    "id": 328,
-    "recipe_level": 6,
-    "success_rate": 70,
-    "outputqty": 1,
-    "materials": {
-        "rp_adamantite_earing_i": 1,
-        "adamantite_earing_gemstone": 12,
-        "blacksmith_s_frame": 1,
-        "metallic_fiber": 30,
-        "varnish_of_purity": 6,
-        "thons": 6,
-        "crystal_c": 28,
-        "gemstone_b": 4
-    }
+  "id": 328,
+  "display_name": "Adamantite Earing 70%",
+  "recipe_level": 6,
+  "success_rate": 70,
+  "outputqty": 1,
+  "materials": {
+    "recipe_adamantite_earing_i": 1,
+    "adamantite_earing_gemstone": 12,
+    "blacksmith_s_frame": 1,
+    "metallic_fiber": 30,
+    "varnish_of_purity": 6,
+    "thons": 6,
+    "crystal_c": 28,
+    "gemstone_b": 4
+  }
 }

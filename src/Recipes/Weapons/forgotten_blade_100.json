@@ -1,17 +1,18 @@
 {
-    "id": 627,
-    "recipe_level": 9,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_forgotten_blade": 1,
-        "forgotten_blade_edge": 17,
-        "warsmith_holder": 8,
-        "mithirl_alloy": 486,
-        "synthesis_cokes": 486,
-        "reinforcing_plate": 243,
-        "enria": 243,
-        "crystal_s": 399,
-        "gemstone_s": 43
-    }
+  "id": 627,
+  "display_name": "Forgotten Blade 100%",
+  "recipe_level": 9,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_forgotten_blade": 1,
+    "forgotten_blade_edge": 17,
+    "warsmith_holder": 8,
+    "mithirl_alloy": 486,
+    "synthesis_cokes": 486,
+    "reinforcing_plate": 243,
+    "enria": 243,
+    "crystal_s": 399,
+    "gemstone_s": 43
+  }
 }

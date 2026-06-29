@@ -5,6 +5,7 @@ import {
   finalizeResolvedResult,
   type ResolveResult,
 } from "./utils/resolver";
+import Select from "react-select";
 import type { Recipe, RecipeMap } from "./types";
 
 const recipeModules = import.meta.glob("./Recipes/**/*.json", {
@@ -48,7 +49,13 @@ function createEmptyResult(): ResolveResult {
 
 export default function App() {
   const recipes = useMemo(() => loadRecipes(), []);
-  const itemNames = useMemo(() => Object.keys(recipes).sort(), [recipes]);
+  const itemNames = useMemo(
+    () =>
+      Object.keys(recipes).sort((a, b) =>
+        getRecipeDisplayName(a, recipes).localeCompare(getRecipeDisplayName(b, recipes))
+      ),
+    [recipes]
+  ); 
 
   const [darkMode, setDarkMode] = useState(() => {
     return localStorage.getItem("recipeCrafterDarkMode") === "true";
@@ -69,6 +76,15 @@ export default function App() {
       },
     ];
   });
+
+  const [costs, setCosts] = useState<Record<string, number>>({});
+
+  function updateCost(itemName: string, value: string) {
+    setCosts((prev) => ({
+      ...prev,
+      [itemName]: Number(value) || 0,
+    }));
+  }
 
   const [inventory, setInventory] = useState<Record<string, number>>(() => {
     const saved = localStorage.getItem("recipeCrafterInventory");
@@ -110,9 +126,12 @@ export default function App() {
     a.name.localeCompare(b.name)
   );
 
-  const craftableRows = Object.values(resolved.craftable).sort((a, b) =>
-    a.name.localeCompare(b.name)
-  );
+  const selectedItems = new Set(selectedRecipes.map((r) => r.item));
+
+  const craftableRows = Object.values(resolved.craftable)
+    .filter((row) => !selectedItems.has(row.name))
+    .sort((a, b) => a.name.localeCompare(b.name));
+
 
   function updateSelectedRecipe(id: string, patch: Partial<SelectedRecipe>) {
     setSelectedRecipes((prev) =>
@@ -161,6 +180,45 @@ export default function App() {
     setInventory({});
   }
 
+  function getRecipeDisplayName(name: string, recipes: RecipeMap): string {
+  return recipes[name]?.display_name ?? name;
+}
+
+  const selectStyles = {
+    control: (base: any) => ({
+      ...base,
+      backgroundColor: "#1e1e1e",
+      color: "#eee",
+      borderColor: "#555",
+    }),
+    menu: (base: any) => ({
+      ...base,
+      backgroundColor: "#1e1e1e",
+    }),
+    option: (base: any, state: any) => ({
+      ...base,
+      backgroundColor: state.isFocused ? "#333" : "#1e1e1e",
+      color: "#eee",
+    }),
+    singleValue: (base: any) => ({
+      ...base,
+      color: "#eee",
+    }),
+    input: (base: any) => ({
+      ...base,
+      color: "#eee",
+    }),
+    placeholder: (base: any) => ({
+      ...base,
+      color: "#aaa",
+    }),
+  };
+
+  const totalProjectedCost = [...rawRows, ...craftableRows].reduce(
+    (sum, row) => sum + row.missing * (costs[row.name] ?? 0),
+    0
+  );
+
   return (
     <div style={{ padding: 20 }}>
       <div
@@ -193,20 +251,31 @@ export default function App() {
       {selectedRecipes.map((selected) => {
         const selectedRecipe = recipes[selected.item];
 
+        const recipeOptions = itemNames.map((name) => ({
+          value: name, // internal key
+          label: getRecipeDisplayName(name, recipes), // user-facing name
+        }));
+
         return (
           <div key={selected.id} className="selected-recipe-row">
-            <select
-              value={selected.item}
-              onChange={(e) =>
-                updateSelectedRecipe(selected.id, { item: e.target.value })
-              }
-            >
-              {itemNames.map((name) => (
-                <option key={name} value={name}>
-                  {name}
-                </option>
-              ))}
-            </select>
+            <div className="recipe-select-wrapper">
+              <Select
+                options={recipeOptions}
+                value={recipeOptions.find(
+                  (option) => option.value === selected.item
+                )}
+                onChange={(option) => {
+                  if (option) {
+                    updateSelectedRecipe(selected.id, {
+                      item: option.value,
+                    });
+                  }
+                }}
+                isSearchable
+                placeholder="Search recipe..."
+                styles={selectStyles}
+              />
+            </div>
 
             <input
               type="number"
@@ -219,23 +288,16 @@ export default function App() {
               }
             />
 
-            {selectedRecipe && (
-              <span>
-                Success: {selectedRecipe.success_rate}% | Output:{" "}
-                {selectedRecipe.outputqty}
-              </span>
-            )}
-
-            <button
-              type="button"
-              onClick={() => removeSelectedRecipe(selected.id)}
-              disabled={selectedRecipes.length === 1}
-            >
+            <button onClick={() => removeSelectedRecipe(selected.id)}>
               Remove
             </button>
           </div>
-        );
+        ); 
       })}
+
+      <div className="recipe-total-cost">
+        Total Cost: {totalProjectedCost.toLocaleString()}
+      </div>
 
       <button type="button" onClick={addSelectedRecipe}>
         Add Recipe
@@ -249,11 +311,13 @@ export default function App() {
         <tr>
           <th>Item</th>
           <th>Needed</th>
-          <th>I Have</th>
-          <th>Still Need Item</th>
+          <th>Owned</th>
+          <th>Left to get</th>
           <th>Can Craft</th>
           <th>Output</th>
           <th>Crafts</th>
+          <th>Cost Each</th>
+          <th>Total Cost</th>
         </tr>
       </thead>
 
@@ -276,6 +340,18 @@ export default function App() {
             <td>{row.craftableFromOwnedRaw || 0}</td>
             <td>{row.outputqty}</td>
             <td>{row.crafts}</td>
+            <td>
+              <input
+                type="number"
+                min={0}
+                value={costs[row.name] ?? ""}
+                onChange={(e) => updateCost(row.name, e.target.value)}
+              />
+            </td>
+
+            <td>
+              {(row.needed * (costs[row.name] ?? 0)).toLocaleString()}
+            </td>
           </tr>
         ))}
       </tbody>
@@ -290,8 +366,10 @@ export default function App() {
         <tr>
           <th>Item</th>
           <th>Needed</th>
-          <th>I Have</th>
-          <th>Still Need</th>
+          <th>Owned</th>
+          <th>Left to get</th>
+          <th>Cost Each</th>
+          <th>Total Cost</th>
         </tr>
       </thead>
 
@@ -311,6 +389,18 @@ export default function App() {
               />
             </td>
             <td>{row.missing}</td>
+            <td>
+              <input
+                type="number"
+                min={0}
+                value={costs[row.name] ?? ""}
+                onChange={(e) => updateCost(row.name, e.target.value)}
+              />
+            </td>
+
+            <td>
+              {(row.needed * (costs[row.name] ?? 0)).toLocaleString()}
+            </td>
           </tr>
         ))}
       </tbody>

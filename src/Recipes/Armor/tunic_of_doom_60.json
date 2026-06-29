@@ -1,15 +1,16 @@
 {
-    "id": 399,
-    "recipe_level": 7,
-    "success_rate": 60,
-    "outputqty": 1,
-    "materials": {
-        "rp_tunic_of_doom_i": 1,
-        "tunic_of_doom_pattern": 13,
-        "crafted_leather": 64,
-        "metallic_fiber": 32,
-        "asofe": 32,
-        "crystal_b": 32,
-        "gemstone_b": 14
-    }
+  "id": 399,
+  "display_name": "Tunic Of Doom 60%",
+  "recipe_level": 7,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_tunic_of_doom_i": 1,
+    "tunic_of_doom_pattern": 13,
+    "crafted_leather": 64,
+    "metallic_fiber": 32,
+    "asofe": 32,
+    "crystal_b": 32,
+    "gemstone_b": 14
+  }
 }

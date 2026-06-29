@@ -1,10 +1,11 @@
 {
-    "id": 33,
-    "recipe_level": 2,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "coarse_bone_powder": 1,
-        "suede": 3
-    }
+  "id": 33,
+  "display_name": "High Grade Suede",
+  "recipe_level": 2,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "coarse_bone_powder": 1,
+    "suede": 3
+  }
 }

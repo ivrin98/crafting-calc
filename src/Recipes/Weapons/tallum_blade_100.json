@@ -1,17 +1,18 @@
 {
-    "id": 606,
-    "recipe_level": 7,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_tallum_blade": 1,
-        "tallum_blade_edge": 13,
-        "craftsman_mold": 4,
-        "mithirl_alloy": 196,
-        "synthesis_cokes": 196,
-        "reinforcing_plate": 98,
-        "enria": 98,
-        "crystal_b": 344,
-        "gemstone_b": 143
-    }
+  "id": 606,
+  "display_name": "Tallum Blade 100%",
+  "recipe_level": 7,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_tallum_blade": 1,
+    "tallum_blade_edge": 13,
+    "craftsman_mold": 4,
+    "mithirl_alloy": 196,
+    "synthesis_cokes": 196,
+    "reinforcing_plate": 98,
+    "enria": 98,
+    "crystal_b": 344,
+    "gemstone_b": 143
+  }
 }

@@ -1,13 +1,14 @@
 {
-    "id": 88,
-    "recipe_level": 4,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "half_plate_temper": 8,
-        "steel_mold": 3,
-        "steel": 70,
-        "crystal_d": 120,
-        "gemstone_d": 32
-    }
+  "id": 88,
+  "display_name": "Half Plate",
+  "recipe_level": 4,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "half_plate_temper": 8,
+    "steel_mold": 3,
+    "steel": 70,
+    "crystal_d": 120,
+    "gemstone_d": 32
+  }
 }

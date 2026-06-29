@@ -1,13 +1,14 @@
 {
-    "id": 79,
-    "recipe_level": 3,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "brigandine_temper": 7,
-        "steel_mold": 3,
-        "steel": 54,
-        "crystal_d": 90,
-        "gemstone_d": 24
-    }
+  "id": 79,
+  "display_name": "Brigandine",
+  "recipe_level": 3,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "brigandine_temper": 7,
+    "steel_mold": 3,
+    "steel": 54,
+    "crystal_d": 90,
+    "gemstone_d": 24
+  }
 }

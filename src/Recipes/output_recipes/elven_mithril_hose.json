@@ -1,13 +1,14 @@
 {
-    "id": 265,
-    "recipe_level": 3,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "elven_mithril_hose_pattern": 7,
-        "leather": 45,
-        "cord": 45,
-        "crystal_d": 45,
-        "gemstone_d": 10
-    }
+  "id": 265,
+  "display_name": "Elven Mithril Hose",
+  "recipe_level": 3,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "elven_mithril_hose_pattern": 7,
+    "leather": 45,
+    "cord": 45,
+    "crystal_d": 45,
+    "gemstone_d": 10
+  }
 }

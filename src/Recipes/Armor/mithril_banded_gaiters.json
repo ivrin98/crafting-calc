@@ -1,13 +1,14 @@
 {
-    "id": 77,
-    "recipe_level": 3,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "mithril_banded_gaiters_material": 6,
-        "steel_mold": 2,
-        "steel": 14,
-        "crystal_d": 30,
-        "gemstone_d": 6
-    }
+  "id": 77,
+  "display_name": "Mithril Banded Gaiters",
+  "recipe_level": 3,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "mithril_banded_gaiters_material": 6,
+    "steel_mold": 2,
+    "steel": 14,
+    "crystal_d": 30,
+    "gemstone_d": 6
+  }
 }

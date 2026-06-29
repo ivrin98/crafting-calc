@@ -1,15 +1,16 @@
 {
-    "id": 409,
-    "recipe_level": 7,
-    "success_rate": 60,
-    "outputqty": 1,
-    "materials": {
-        "rp_blue_wolve_s_boots_i": 1,
-        "blue_wolve_s_boots_design": 13,
-        "crafted_leather": 32,
-        "high_grade_suede": 4,
-        "asofe": 4,
-        "crystal_b": 8,
-        "gemstone_b": 4
-    }
+  "id": 409,
+  "display_name": "Blue Wolve's Boots 60%",
+  "recipe_level": 7,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_blue_wolve_s_boots_i": 1,
+    "blue_wolve_s_boots_design": 13,
+    "crafted_leather": 32,
+    "high_grade_suede": 4,
+    "asofe": 4,
+    "crystal_b": 8,
+    "gemstone_b": 4
+  }
 }

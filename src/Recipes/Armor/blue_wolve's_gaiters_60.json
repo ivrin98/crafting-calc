@@ -1,15 +1,16 @@
 {
-    "id": 389,
-    "recipe_level": 7,
-    "success_rate": 60,
-    "outputqty": 1,
-    "materials": {
-        "rp_blue_wolve_s_gaiters_i": 1,
-        "blue_wolve_s_gaiters_material": 13,
-        "blacksmith_s_frame": 2,
-        "mithirl_alloy": 24,
-        "asofe": 16,
-        "crystal_b": 20,
-        "gemstone_b": 12
-    }
+  "id": 389,
+  "display_name": "Blue Wolve's Gaiters 60%",
+  "recipe_level": 7,
+  "success_rate": 60,
+  "outputqty": 1,
+  "materials": {
+    "recipe_blue_wolve_s_gaiters_i": 1,
+    "blue_wolve_s_gaiters_material": 13,
+    "blacksmith_s_frame": 2,
+    "mithirl_alloy": 24,
+    "asofe": 16,
+    "crystal_b": 20,
+    "gemstone_b": 12
+  }
 }

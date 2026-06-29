@@ -1,10 +1,11 @@
 {
-    "id": 510,
-    "recipe_level": 6,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "blessed_spiritshot_b": 1000,
-        "rope_of_magic_b": 248
-    }
+  "id": 510,
+  "display_name": "Adv Comp Bspiritshot B",
+  "recipe_level": 6,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "blessed_spiritshot_b": 1000,
+    "rope_of_magic_b": 248
+  }
 }

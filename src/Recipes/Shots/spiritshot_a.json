@@ -1,10 +1,11 @@
 {
-    "id": 320,
-    "recipe_level": 7,
-    "success_rate": 100,
-    "outputqty": 200,
-    "materials": {
-        "spirit_ore": 22,
-        "crystal_a": 1
-    }
+  "id": 320,
+  "display_name": "Spiritshot A",
+  "recipe_level": 7,
+  "success_rate": 100,
+  "outputqty": 200,
+  "materials": {
+    "spirit_ore": 22,
+    "crystal_a": 1
+  }
 }

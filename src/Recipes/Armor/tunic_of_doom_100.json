@@ -1,16 +1,17 @@
 {
-    "id": 400,
-    "recipe_level": 7,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "rp_tunic_of_doom": 1,
-        "tunic_of_doom_pattern": 13,
-        "maestro_anvil_lock": 2,
-        "crafted_leather": 88,
-        "metallic_fiber": 44,
-        "asofe": 44,
-        "crystal_b": 73,
-        "gemstone_b": 14
-    }
+  "id": 400,
+  "display_name": "Tunic Of Doom 100%",
+  "recipe_level": 7,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "recipe_tunic_of_doom": 1,
+    "tunic_of_doom_pattern": 13,
+    "maestro_anvil_lock": 2,
+    "crafted_leather": 88,
+    "metallic_fiber": 44,
+    "asofe": 44,
+    "crystal_b": 73,
+    "gemstone_b": 14
+  }
 }

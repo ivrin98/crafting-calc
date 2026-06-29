@@ -1,14 +1,15 @@
 {
-    "id": 154,
-    "recipe_level": 2,
-    "success_rate": 100,
-    "outputqty": 1,
-    "materials": {
-        "conjure_staff_head": 5,
-        "steel": 45,
-        "coarse_bone_powder": 90,
-        "braided_hemp": 45,
-        "crystal_d": 200,
-        "gemstone_d": 57
-    }
+  "id": 154,
+  "display_name": "Conjure Staff",
+  "recipe_level": 2,
+  "success_rate": 100,
+  "outputqty": 1,
+  "materials": {
+    "conjure_staff_head": 5,
+    "steel": 45,
+    "coarse_bone_powder": 90,
+    "braided_hemp": 45,
+    "crystal_d": 200,
+    "gemstone_d": 57
+  }
 }

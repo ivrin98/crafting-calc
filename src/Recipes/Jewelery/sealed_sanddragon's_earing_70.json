@@ -1,16 +1,17 @@
 {
-    "id": 646,
-    "recipe_level": 9,
-    "success_rate": 70,
-    "outputqty": 1,
-    "materials": {
-        "rp_sealed_sanddragon_s_earing_i": 1,
-        "sealed_sanddragon_s_earing_piece": 17,
-        "warsmith_mold": 1,
-        "metallic_fiber": 105,
-        "varnish_of_purity": 63,
-        "thons": 21,
-        "crystal_s": 18,
-        "gemstone_s": 3
-    }
+  "id": 646,
+  "display_name": "Sealed Sanddragon's Earing 70%",
+  "recipe_level": 9,
+  "success_rate": 70,
+  "outputqty": 1,
+  "materials": {
+    "recipe_sealed_sanddragon_s_earing_i": 1,
+    "sealed_sanddragon_s_earing_piece": 17,
+    "warsmith_mold": 1,
+    "metallic_fiber": 105,
+    "varnish_of_purity": 63,
+    "thons": 21,
+    "crystal_s": 18,
+    "gemstone_s": 3
+  }
 }
